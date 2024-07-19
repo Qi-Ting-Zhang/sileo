@@ -34,24 +34,6 @@ Author: Mao
 Name: 微信插件管理
 Sponsor: admin@25mao.com
 
-Package: com.cydia.love.iapstorefugu-rootless
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: Ant 蚂蚁源™ <admin@cydia.pro>
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/微信插件管理-Rootless.0.1-3.deb
-Size: 19840
-MD5sum: 6475d631af11e43f3c3f7f0fc2eaddb6
-SHA1: c2a469075f0eb37b67871d0e0a058be42847f96f
-SHA256: 8333f10c18aad2de181937047f25a38b8caa643f9ad5f3a8a9d78102cd2e9f0a
-Section: 微信相关
-Description: App Store需要付费的软件可以先试试此内购插件，弹窗付款点取消即可，如果不行，那就是破解不了！放弃吧！
-Tag: 1
-Author: lly
-Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
-Name: 内购神器IAPStore
-Sponsor: Ant 蚂蚁源™ <https://apt.cydia.pro/>
-
 Package: com.hitori.misaki
 Version: 2.0.9
 Architecture: iphoneos-arm64
