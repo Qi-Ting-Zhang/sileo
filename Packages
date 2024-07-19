@@ -1,3 +1,23 @@
+Package: ApibugTextToVoice
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: www.apibug.com <apibug6@gmail.com>
+Depends: mobilesubstrate
+Conflicts: ApibugTextToVoice
+Replaces: ApibugTextToVoice
+Provides: ApibugTextToVoice
+Filename: debs/免费微信文字转语音插件-无根.deb
+Size: 169334
+MD5sum: 11f6a34b40bf631bc585b1451499e54a
+SHA1: 6be473c698d60788b759d0077196b86464f7cc92
+SHA256: 53801e65cbaf1f3985229ad0b36ead3ef55b61cafbedd08bf03217086f765947
+Section: custom
+Priority: optional
+Description: Apibug微信文字转语音插件,官网:www.apibug.com
+Author: www.apibug.com
+Name: ApibugTextToVoice
+
 Package: com.hitori.misaki
 Version: 2.0.9
 Architecture: iphoneos-arm64
