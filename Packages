@@ -8,10 +8,10 @@ Conflicts: ApibugTextToVoice
 Replaces: ApibugTextToVoice
 Provides: ApibugTextToVoice
 Filename: debs/免费微信文字转语音插件-无根.deb
-Size: 169334
-MD5sum: 11f6a34b40bf631bc585b1451499e54a
-SHA1: 6be473c698d60788b759d0077196b86464f7cc92
-SHA256: 53801e65cbaf1f3985229ad0b36ead3ef55b61cafbedd08bf03217086f765947
+Size: 420842
+MD5sum: 9df9f920919f26798603e8e7779b5e02
+SHA1: d0950ada3a196f77b6e0dd4c5e4b0572f573489d
+SHA256: 6123ca7f883371e1fca6e040ecba58486bfec8370add237ed8c1a4a1a20ba434
 Section: custom
 Priority: optional
 Description: Apibug微信文字转语音插件,官网:www.apibug.com
