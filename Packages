@@ -520,6 +520,38 @@ Author: x✨
 Name: 抖音图层
 Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
+Package: com.xx.kshook
+Version: 1.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1408
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.kshook_1.0.6-1_iphoneos-arm64.deb
+Size: 489646
+MD5sum: 3d4b9368f1399c11f604977817e3a723
+SHA1: 6aa0eb1ccf436be54a6c12f0849f2993531a0ec8
+SHA256: 06018c61647de5c8480bed2fa2a2dcb5834441f4fa4893118319f8fd75374c6c
+Section: Tweaks
+Description: 插件入口：依次点击-我-右上角三横-空白处长按打开菜单开启功能 或 在设置右上角打开 | 功能；移除一些广告 弹窗 无水印保存视频图片
+Author: x✨
+Name: 快手Hook
+
+Package: com.xx.xhshook
+Version: 1.0.9-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 1292
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.0.9-1_iphoneos-arm64.deb
+Size: 445014
+MD5sum: 170d134b0054d9f7c2786c478c451456
+SHA1: 5705f60c5c816cb56718d3f5072ecb588101a891
+SHA256: c04433096fb5b11b5c67cc89362d654089280c2708131d1554ccfe5a994648ca
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制. 1.0.9：新增头像与背景下载.
+Author: x✨
+Name: 小红薯
+
 Package: jp.dcsyhi.zetsu
 Version: 1.5
 Architecture: iphoneos-arm64
