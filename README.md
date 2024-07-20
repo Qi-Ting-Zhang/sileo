@@ -20,8 +20,8 @@
 ![](http://profile-counter.glitch.me/evilbutcher/count.svg)
 
 <!-- links -->
-[your-project-path]:Qi-Ting-Zhang/repo
+[your-project-path]:Qi-Ting-Zhang/sileo
 [forks-shield]: https://img.shields.io/github/forks/Qi-Ting-Zhang/sileo.svg?style=flat-square
 [forks-url]: https://github.com/Qi-Ting-Zhang/sileo/network/members
 [stars-shield]: https://img.shields.io/github/stars/Qi-Ting-Zhang/sileo.svg?style=flat-square
-[stars-url]: https://github.com/Qi-Ting-Zhang/repo/stargazers
+[stars-url]: https://github.com/Qi-Ting-Zhang/sileo/stargazers

@@ -4,6 +4,7 @@ set -e
 set -x
 
 DEB_DIR="./debs"
+PARENT_DIR="$(dirname "$DEB_DIR")"
 
 if [ ! -d "$DEB_DIR" ]; then
   echo "Directory $DEB_DIR does not exist."
@@ -12,12 +13,12 @@ fi
 
 ls -l "$DEB_DIR"
 
-dpkg-scanpackages -m "$DEB_DIR" > Packages
+dpkg-scanpackages -m "$DEB_DIR" > "$PARENT_DIR/Packages"
 
-bzip2 -fks Packages
-gzip -fk Packages
+bzip2 -fks "$PARENT_DIR/Packages"
+gzip -fk "$PARENT_DIR/Packages"
 
-cat <<EOF > Release
+cat <<EOF > "$PARENT_DIR/Release"
 Origin: 你看，又急
 Label: 贾队长
 Suite: stable

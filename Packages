@@ -7,7 +7,7 @@ Depends: mobilesubstrate
 Conflicts: ApibugTextToVoice
 Replaces: ApibugTextToVoice
 Provides: ApibugTextToVoice
-Filename: debs/免费微信文字转语音插件-无根(1).deb
+Filename: ./debs/免费微信文字转语音插件-无根(1).deb
 Size: 168864
 MD5sum: 7fc76cd0a4a4b57f650bcf4848ed259f
 SHA1: 8e4ffc6c0f1c677547a088df8aea6f28ef94cc03
@@ -18,12 +18,92 @@ Description: Apibug微信文字转语音插件,官网:www.apibug.com
 Author: www.apibug.com
 Name: ApibugTextToVoice
 
+Package: MisakaHelper
+Version: 1.9-8
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/MisakaHelper_1.9-8_iphoneos-arm64_rootless.deb
+Size: 11226932
+MD5sum: 067570f29532ad00e6b9f4773782795c
+SHA1: 1d5a2f069ae2339668118fc3acf2d5a2a4935cab
+SHA256: 15fd2c2b94e02278a19d3baddd83aee4d8c0a53f897e837acfb749f2451e4478
+Section: 微信相关
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
+Package: MisakaHelper
+Version: 1.9-9
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/MisakaHelper_1.9-9_iphoneos-arm64_rootless.deb
+Size: 11420704
+MD5sum: 89e60d68597af034d9bb0d6433fbd34f
+SHA1: 093901d6a4e1697e4bd9752dce25c3c0e08c2721
+SHA256: d642feabd415aefbbaed0f6a435b1be4768e62ab0963d7f8b58ffcd50aa0d3ad
+Section: 微信相关
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
+Package: MisakaHelper
+Version: 2.0-0
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/MisakaHelper_2.0-0_iphoneos-arm64_rootless.deb
+Size: 11817644
+MD5sum: 7517bc8685b7d4173d23eb1902e47fe6
+SHA1: 5fdf98fb1ce6820fbd7d36ebb142a284df5403bc
+SHA256: 4010c604e0d7f02e6936f242d7f9a2050bf3126dddfbcf73068f45492c6a0158
+Section: 微信相关
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
+Package: MisakaHelper
+Version: 2.0-1
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/MisakaHelper_2.0-1_iphoneos-arm64_rootless.deb
+Size: 11947888
+MD5sum: e8136bc9be336b1ea3e53cc2a626ac57
+SHA1: 1bae655363502842f45035db8b2d41650249a04d
+SHA256: 4b55324ed5bed5a882f3bde3b961e55cb34b4319de7c88b925b7f866b89efcb2
+Section: 微信相关
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
 Package: com.25mao.wcplugins
 Version: 0.1-2
 Architecture: iphoneos-arm
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/插件管理_0.1-2.deb
+Filename: ./debs/插件管理_0.1-2.deb
 Size: 48434
 MD5sum: aa49bbd49bf1d9fee9d2c1432e46ddba
 SHA1: 65e691a626f8134d04894df2286eb6ed2da4ba9a
@@ -40,7 +120,7 @@ Architecture: iphoneos-arm64
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1038
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: debs/com.hitori.misaki_2.0.9_iphoneos-arm64.deb
+Filename: ./debs/com.hitori.misaki_2.0.9_iphoneos-arm64.deb
 Size: 298368
 MD5sum: b796ae5f37ac26129e5150206850c509
 SHA1: d610a006c8fed82b241167c6ce036032a08fd82c
@@ -59,7 +139,7 @@ Architecture: iphoneos-arm64
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1039
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: debs/com.hitori.misaki_2.1.0_iphoneos-arm64.deb
+Filename: ./debs/com.hitori.misaki_2.1.0_iphoneos-arm64.deb
 Size: 301222
 MD5sum: bc9feb8481c74c2a80b79864509f8c3e
 SHA1: 0285017e24538b6bd16f286e8ca12af95584b14f
@@ -78,7 +158,7 @@ Architecture: iphoneos-arm64
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1058
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: debs/com.hitori.misaki_2.1.1_iphoneos-arm64.deb
+Filename: ./debs/com.hitori.misaki_2.1.1_iphoneos-arm64.deb
 Size: 303912
 MD5sum: d0219199b0bc041ac9d908b128da6998
 SHA1: bfad3f62c80907315cfc8e69a7fac905d1958bcb
@@ -97,7 +177,7 @@ Architecture: iphoneos-arm64
 Maintainer: Hitori <mikasa-san@outlook.jp>
 Installed-Size: 1155
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: debs/com.hitori.misaki_2.1.3_iphoneos-arm64.deb
+Filename: ./debs/com.hitori.misaki_2.1.3_iphoneos-arm64.deb
 Size: 327094
 MD5sum: 02ce5694e664a94763c3ccf86708090e
 SHA1: 77ae98e7da7af7f6ad3775b459d61881834c475c
@@ -115,7 +195,7 @@ Version: 1.5
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: debs/com.hk.zetsu.cn.rl_1.5_iphoneos-arm64.deb
+Filename: ./debs/com.hk.zetsu.cn.rl_1.5_iphoneos-arm64.deb
 Size: 9306
 MD5sum: dcf31be3b1b58d16428628e6ec998ae1
 SHA1: 31744feaf440ca3279abfbca1c120cf20744e46b
@@ -130,7 +210,7 @@ Version: 1.6
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: debs/com.hk.zetsu.cn.rl_1.6_iphoneos-arm64.deb
+Filename: ./debs/com.hk.zetsu.cn.rl_1.6_iphoneos-arm64.deb
 Size: 11702
 MD5sum: 37c359f0211a6579027b9fb3648e0762
 SHA1: adc91378b3d533bfcdfaf5003baf0314055197d8
@@ -145,7 +225,7 @@ Version: 1.6.1
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
-Filename: debs/com.hk.zetsu.cn.rl_1.6.1_iphoneos-arm64.deb
+Filename: ./debs/com.hk.zetsu.cn.rl_1.6.1_iphoneos-arm64.deb
 Size: 12958
 MD5sum: 6a3f7af48fc88b6d67ef75cfb6b443ea
 SHA1: b6e85cf200d7e3b807c4c9c3336454ed6bbba859
@@ -161,7 +241,7 @@ Architecture: iphoneos-arm64
 Maintainer: SquidForce
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.lclrc.hidepullover_0.0.1_iphoneos-arm64.deb
+Filename: ./debs/com.lclrc.hidepullover_0.0.1_iphoneos-arm64.deb
 Size: 4396
 MD5sum: bf8c36e400e42bf6dc0263e44a30919c
 SHA1: bcbdd0ef4e5962ad33a1e0bea70f576d8c500598
@@ -178,7 +258,7 @@ Maintainer: SquidForce
 Installed-Size: 10748
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture
-Filename: debs/com.lclrc.squidgesturepro_2.1.2_iphoneos-arm64.deb
+Filename: ./debs/com.lclrc.squidgesturepro_2.1.2_iphoneos-arm64.deb
 Size: 3438644
 MD5sum: 1599dfbd7d308095d47c5684da6ae9d3
 SHA1: 3d6f342030bb1e7a29af6a3939f0386063a393d7
@@ -195,7 +275,7 @@ Maintainer: SquidForce
 Installed-Size: 10780
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture
-Filename: debs/com.lclrc.squidgesturepro_2.1.3_iphoneos-arm64.deb
+Filename: ./debs/com.lclrc.squidgesturepro_2.1.3_iphoneos-arm64.deb
 Size: 3441974
 MD5sum: 2bd34fd92cd6556005316379a2e0f8ca
 SHA1: 0d1264a4d9797b2fcb3cc8fbfc8b427635ed9d42
@@ -212,7 +292,7 @@ Maintainer: SquidForce
 Installed-Size: 10844
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture
-Filename: debs/com.lclrc.squidgesturepro_2.1.4_iphoneos-arm64.deb
+Filename: ./debs/com.lclrc.squidgesturepro_2.1.4_iphoneos-arm64.deb
 Size: 3476246
 MD5sum: 387199410dfc510b2c54458b5aa64632
 SHA1: c32375839c306df317665fdc543c0e472a6f73fa
@@ -229,7 +309,7 @@ Maintainer: SquidForce
 Installed-Size: 10876
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture
-Filename: debs/com.lclrc.squidgesturepro_2.1.5_iphoneos-arm64.deb
+Filename: ./debs/com.lclrc.squidgesturepro_2.1.5_iphoneos-arm64.deb
 Size: 3480950
 MD5sum: ceb2c7e263a4fcc39ee6aa37fe4bf1b7
 SHA1: ef16ae2b8ed63483dd628bf5936d5c9002b9a89b
@@ -246,7 +326,7 @@ Maintainer: SquidForce
 Installed-Size: 10748
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture
-Filename: debs/com.lclrc.squidgesturepro_2.1.6_iphoneos-arm64.deb
+Filename: ./debs/com.lclrc.squidgesturepro_2.1.6_iphoneos-arm64.deb
 Size: 3441988
 MD5sum: 89db3ac133bbbe8605bbfc6b83bcc033
 SHA1: 61e0fca41e58806d495e7d2787bdeecbcf0905c7
@@ -263,7 +343,7 @@ Maintainer: SquidForce
 Installed-Size: 10940
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture
-Filename: debs/com.lclrc.squidgesturepro_2.1.7_iphoneos-arm64.deb
+Filename: ./debs/com.lclrc.squidgesturepro_2.1.7_iphoneos-arm64.deb
 Size: 3479980
 MD5sum: 4df5f4335d13844526e46f4edb7c7325
 SHA1: 9f9b425de94db12ac61f4c1fb331ad896c040722
@@ -280,7 +360,7 @@ Maintainer: Nets
 Installed-Size: 2440
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.c1d3r.pulloverpro
-Filename: debs/com.netskao.pulloverpro_2.1.6_iphoneos-arm64.deb
+Filename: ./debs/com.netskao.pulloverpro_2.1.6_iphoneos-arm64.deb
 Size: 696016
 MD5sum: b44a30bc40b8f00503b449eb95e33635
 SHA1: c3868b6a84edfe3ffb59544acf7a09fcb5898c48
@@ -290,13 +370,45 @@ Description: A better way to multitask! Fix support for iOS15+
 Author: c1d3r
 Name: PullOver Pro
 
+Package: com.sunshinesong.native-island
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 840
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.sunshinesong.native-island_1.0.1_iphoneos-arm64.deb
+Size: 226206
+MD5sum: 92b403403b88d8edc8b0695f3d4338fb
+SHA1: 4fc11379adb516b890b4d85c275ce071df6a5b9b
+SHA256: 45cfc745f6d221a990f1646f04d478a7a9fe07e3848e3beab87606dc089453a1
+Section: 屎上雕花
+Description: 原生岛通知，从简即可。仅仅支持iOS16.0+
+Author: sunshinesong
+Name: native-island-notifier
+
+Package: com.sunshinesong.native-island
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 840
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.sunshinesong.native-island_1.0.2_iphoneos-arm64.deb
+Size: 227466
+MD5sum: 854776e469edf4a7d949ff10ee6154f1
+SHA1: 419f9b845fbd421e682b8639e5973f6e1b9b16d2
+SHA256: 8f655cb397514f4ea58afacb01d9e981f85eb6b7cb81a0374564025e65dd139e
+Section: 屎上雕花
+Description: 原生岛通知，从简即可。仅仅支持iOS16.0+
+Author: sunshinesong
+Name: native-island-notifier
+
 Package: com.sunshinesong.split-view-pro
 Version: 0.0.3-1-47+debug
 Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 1056
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.sunshinesong.split-view-pro_0.0.3-1-47+debug_iphoneos-arm64.deb
+Filename: ./debs/com.sunshinesong.split-view-pro_0.0.3-1-47+debug_iphoneos-arm64.deb
 Size: 289452
 MD5sum: c539aa593b5b594c6251fb8069ed6ded
 SHA1: 9f91ca334eb6fb216e619aac26f29dd86d8c4d1a
@@ -312,7 +424,7 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 12856
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: debs/com.sunshinesong.split-view-pro_1.1.2_iphoneos-arm64.deb
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.2_iphoneos-arm64.deb
 Size: 4886334
 MD5sum: 924764bea35aaf75a1b0882a41c45ee8
 SHA1: c2ea6090fe5a818503e09d5160ea4bc45056c8da
@@ -329,7 +441,7 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 13760
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: debs/com.sunshinesong.split-view-pro_1.1.3_iphoneos-arm64.deb
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.3_iphoneos-arm64.deb
 Size: 5230944
 MD5sum: 91fee3668d9ec1adb32913475df37a2e
 SHA1: 66064511b97ba0149739440bed99f45451b34c1c
@@ -346,7 +458,7 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 13792
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: debs/com.sunshinesong.split-view-pro_1.1.4_iphoneos-arm64.deb
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.4_iphoneos-arm64.deb
 Size: 3516912
 MD5sum: 22a38f0e73db5354d1417d6d5e2a76e5
 SHA1: 463616e1f61e6146ad75ea26f55c89817ff9c5c4
@@ -363,7 +475,7 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 13792
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: debs/com.sunshinesong.split-view-pro_1.1.5_iphoneos-arm64.deb
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.5_iphoneos-arm64.deb
 Size: 696
 MD5sum: 47df51e2c340142050e093073688449e
 SHA1: 2937c69232a34baa43bde42c186da592eac0dd83
@@ -380,7 +492,7 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 13648
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
 Size: 5185498
 MD5sum: 51ab3887ff6ad4eb9fdbd3ded3593624
 SHA1: 15bce6b60dd88b2c385d510ff298359cbac106e9
@@ -397,7 +509,7 @@ Architecture: iphoneos-arm64
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
 Installed-Size: 11004
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
-Filename: debs/jp.dcsyhi.zetsu_1.5_iphoneos-arm64.deb
+Filename: ./debs/jp.dcsyhi.zetsu_1.5_iphoneos-arm64.deb
 Size: 9649752
 MD5sum: 267357fc12bdfcae33f4d4daec54c371
 SHA1: 63ea5a86131a70b721d33bae875a7fa147829e6a
@@ -416,7 +528,7 @@ Architecture: iphoneos-arm64
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
 Installed-Size: 11675
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
-Filename: debs/jp.dcsyhi.zetsu_1.6_iphoneos-arm64.deb
+Filename: ./debs/jp.dcsyhi.zetsu_1.6_iphoneos-arm64.deb
 Size: 10086996
 MD5sum: fd731db938c197461e6956dc3d70baa9
 SHA1: 1706370e425ede3216cc68f381b77621243a8a41
@@ -435,7 +547,7 @@ Architecture: iphoneos-arm64
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
 Installed-Size: 11989
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
-Filename: debs/jp.dcsyhi.zetsu_1.6.1_iphoneos-arm64.deb
+Filename: ./debs/jp.dcsyhi.zetsu_1.6.1_iphoneos-arm64.deb
 Size: 10169228
 MD5sum: 0f8eece2a0ee8e6bdc49c3fd9cc5502f
 SHA1: c1939470d0c873db94624b1ad375e7b7f901eb46
@@ -454,7 +566,7 @@ Architecture: iphoneos-arm64
 Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
 Installed-Size: 12005
 Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
-Filename: debs/jp.dcsyhi.zetsu_1.6.2_iphoneos-arm64.deb
+Filename: ./debs/jp.dcsyhi.zetsu_1.6.2_iphoneos-arm64.deb
 Size: 10168634
 MD5sum: f5b91a8cdd5d2700407500819b63c2e2
 SHA1: a65561b0f7117db738d9263b94f26865e8fd0587
