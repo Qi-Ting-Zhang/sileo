@@ -105,9 +105,9 @@ Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/插件管理_0.1-2.deb
 Size: 48434
-MD5sum: aa49bbd49bf1d9fee9d2c1432e46ddba
-SHA1: 65e691a626f8134d04894df2286eb6ed2da4ba9a
-SHA256: c40a1d29f8a3ddf6d4eac031fc040dae14f3361d93d73e0ed0f8ecbe5a3ca653
+MD5sum: 9b55adaa497477ca4ad20eee9e408473
+SHA1: abb618cda7d5e505d97aabd073bf5d174df48633
+SHA256: 3554a461be71bea0a8ed83ebf69172414f3d7110761cd40dcec3ed41aeb66149
 Section: 微信插件
 Priority: optional
 Author: Mao
@@ -120,11 +120,11 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: ./debs/微信插件管理_0.1-3无根.deb
-Size: 25160
-MD5sum: cae381f7d9447572213d05f8a8fe9866
-SHA1: f8950e59d8a64e42d72fe043d1317dfab5999f3d
-SHA256: 5e667abcff06cadd8912eabda5a7fe43327107442916121e4ab972b1b6671a0d
-Section: Rootless
+Size: 25162
+MD5sum: 23fb2d7efa18528e19c3c7d43595746d
+SHA1: c4e83095d44027276e606a8a53e6c3ff36015e21
+SHA256: f3b65b12d8eabd2b13f3da1c6b34842b75117d5969412582ce2b2c895c22284c
+Section: 微信插件
 Priority: optional
 Description: 插件管理-Rootless
 Author: Mao
