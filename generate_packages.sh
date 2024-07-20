@@ -11,13 +11,17 @@ if [ ! -d "$DEB_DIR" ]; then
   exit 1
 fi
 
+# List contents of DEB_DIR for verification
 ls -l "$DEB_DIR"
 
+# Generate Packages file
 dpkg-scanpackages -m "$DEB_DIR" > "$PARENT_DIR/Packages"
 
+# Compress Packages file in both formats
 bzip2 -fks "$PARENT_DIR/Packages"
 gzip -fk "$PARENT_DIR/Packages"
 
+# Create Release file
 cat <<EOF > "$PARENT_DIR/Release"
 Origin: 你看，又急
 Label: 贾队长
