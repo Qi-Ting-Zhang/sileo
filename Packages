@@ -503,6 +503,23 @@ Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
 
+Package: com.xx.dyhook
+Version: 2.0.3-1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 3096
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/抖音图层2.0.3-1无根.deb
+Size: 965830
+MD5sum: 033a79d9a24d2fb0ad2cdde1702c12cb
+SHA1: 6096c653881674790e7ff6dd9b195ab5ba7f39cf
+SHA256: 3138654e0ae2244cb301a4a4b5dc66def267ef15705cd9598c8fda60becb6201
+Section: Tweaks
+Description: 自用
+Author: x✨
+Name: 抖音图层
+Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
+
 Package: jp.dcsyhi.zetsu
 Version: 1.5
 Architecture: iphoneos-arm64
