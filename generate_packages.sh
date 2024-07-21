@@ -21,8 +21,10 @@ dpkg-scanpackages -m "$DEB_DIR" > "$PARENT_DIR/Packages"
 bzip2 -fks "$PARENT_DIR/Packages"
 gzip -fk "$PARENT_DIR/Packages"
 
-# Create Release file
-cat <<EOF > "$PARENT_DIR/Release"
+# Check if Release file already exists
+if [ ! -f "$PARENT_DIR/Release" ]; then
+  # Create Release file if it does not exist
+  cat <<EOF > "$PARENT_DIR/Release"
 Origin: 你看，又急
 Label: 贾队长
 Suite: stable
@@ -32,3 +34,6 @@ Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 自用插件分享，有问题请卸载！！！
 EOF
+else
+  echo "Release file already exists. Skipping creation."
+fi
