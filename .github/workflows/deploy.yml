@@ -21,8 +21,8 @@ jobs:
     - name: Ensure script has execute permissions
       run: chmod +x ./generate_packages.sh
 
-    - name: Run generate_packages.sh
-      run: bash ./generate_packages.sh
+    #- name: Run generate_packages.sh
+      #run: bash ./generate_packages.sh
 
     - name: Commit and push updated Packages
       env:
