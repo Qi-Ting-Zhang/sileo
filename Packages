@@ -164,15 +164,15 @@ Name: 爱锋助手
 
 Package: com.appku.wechat
 Version: 1.5-3
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Maintainer: 爱锋助手
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/爱锋助手1.5.3.deb
-Size: 3596004
-MD5sum: f7e0f4b6c5fa937c2fcba79d2a2ca81c
-SHA1: 4e435d393378e3e0a689f613bc71633cc3524431
-SHA256: 9cad484f0082670790a865f979dba0ed391851f8eee2b4cafdc6719e8ade74a9
-Section: 微信插件
+Filename: ./debs/爱锋助手1.5-3_Rootless.deb
+Size: 5574092
+MD5sum: fd023a5c3ce6e3590fc994a247a75833
+SHA1: ca6d2981f1c7c4043c4526b3b4280c6efa9c90f0
+SHA256: 9bef856877d0faca8f01fac44ad08429910afab7f54ee2420e52163930358cef
+Section: Tweaks
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，右滑快速备注，全局长按导航栏快捷功能,证书有效期查询等;修复文字防撤回，修复转账金额移动复原，添加文字修改，新增语音包,一键已读,修复部分bug以及代码优化。
 Author: 爱锋助手
 Name: 爱锋助手
@@ -182,29 +182,14 @@ Version: 1.5-8
 Architecture: iphoneos-arm
 Maintainer: appku
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/爱锋助手1.5.8.deb
-Size: 4051944
-MD5sum: a5c58cfd4af84a2aecb25cd9f166e08b
-SHA1: 31ddebe3c40c83b3369c93afd28a6cd615161eba
-SHA256: 11e888b9392eb099953746eab8e83ef90a611beabc06c02bb06d80570065bc61
+Filename: ./debs/爱锋助手1.5.8-rootless.deb
+Size: 5773914
+MD5sum: 0a9eb19e8f6fcc36f1ade9a0339d4a8b
+SHA1: b2b3a4f3dfc16e7639cd0eb5fb39564b29f64eac
+SHA256: ca6babcd2ea3f810b45d01b0cf4b549c67f626a671a8dc236f01761cd7794947
 Section: 微信插件
 Description: 精简一些内容。。。。
 Author: appku
-Name: 爱锋助手
-
-Package: com.appku.wechat
-Version: 1.5-9
-Architecture: iphoneos-arm64
-Maintainer: 爱锋助手
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/爱锋助手1.5-9无根.deb
-Size: 6212858
-MD5sum: 11b9b60bd3a131c57863ae7c1828c5f7
-SHA1: 2b65de8101aedf5f19d8b361b03e21f9cf424b20
-SHA256: 01f3847c60cca12ecc70447ce0315a6ecd16e795c0c3c37487ad40f88eddbb8e
-Section: Tweaks
-Description: 精简一些内容。。。。
-Author: 爱锋助手
 Name: 爱锋助手
 
 Package: com.hitori.misaki
@@ -884,17 +869,17 @@ Name: Zetsu
 
 Package: netskao.joker
 Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
+Architecture: iphoneos-arm64
+Maintainer: Netskao
 Installed-Size: 220
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/小丑Joker_1.1-2.deb
-Size: 51248
-MD5sum: 758b3580f592a48f2909e63b6f2ecb2c
-SHA1: e6cc412c0d545dc8e33a7953f9fd59dfb040daae
-SHA256: 93a8955a1a00ead8ae5b8ff4243baa4d529d05d8cf2d44580fa217034c12adf7
+Filename: ./debs/小丑Joker修改聊天文字_1.1-2(rootless无根).deb
+Size: 50544
+MD5sum: 930eddcfb35bc08439c386e78b8fd777
+SHA1: ee2c8e28738864b699a3779bb3a0834165c335f5
+SHA256: e41bfe8b610985104588bb8848443ffff5724c7e85e0e93036445fa287716521
 Section: 微信插件
-Description: Joker for WeChat
+Description: 微信净化小丑功能，需要配合微信净化2.2-3版本使用，微信聊天界面长按文本对话Joker选项，修改聊天文本。
 Author: Netskao
-Name: Joker
+Name: 微信净化小丑功能
 
