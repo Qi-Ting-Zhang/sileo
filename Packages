@@ -98,6 +98,22 @@ Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
 
+Package: cn.llld.touchflow
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: firmware (>= 11.0), mobilesubstrate, com.creaturesurvive.libcscolorpicker, cn.llld.hhxt,oldabi
+Conflicts: netskao.llldshowtouch
+Filename: ./debs/cn.llld.touchflow_1.0.6_iphoneos-arm64 (1).deb
+Size: 190264
+MD5sum: 0b702c5d42c6758920b05099680c0f95
+SHA1: a0517725404462582d3382cc9456578a7740f9b2
+SHA256: 82ffb3747d13fe49a0b0db601fd0558fdae60b03b9021256d23eb42b8c46ba31
+Section: 你的iPhone不止于此
+Description: Same touch indicator as ShowTouch。和ShowTouch相同的触摸指示器
+Author: CreatureSurvive
+Name: TouchFlow录屏轨迹-rootless
+
 Package: com.0xkuj.bubbleapps
 Version: 3.0.0
 Architecture: iphoneos-arm64
@@ -146,6 +162,22 @@ Description: 插件管理-Rootless
 Author: Mao
 Name: 微信插件管理-Rootless
 Sponsor: admin@25mao.com
+
+Package: com.82flex.touchvis
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 504
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.touchvis_1.1.3_iphoneos-arm64 (1).deb
+Size: 67068
+MD5sum: 60399b11331bdd5fa41c7314f474a26b
+SHA1: 88bb023a3c8af8a0476d7d4815d2b2d7bab39a3b
+SHA256: c9ecfa22509301aa40cf61f2fbc14ce095f933b95544b03785e0379fa8fa66d7
+Section: 你的iPhone不止于此
+Description: 显示您的触摸交互！并附带拖尾效果
+Author: 来一杯82年的拉菲 <82flex@gmail.com>
+Name: 来吧展示TouchVis
 
 Package: com.appku.wechat
 Version: 1.5-1
@@ -449,6 +481,22 @@ Section: 分屏＆小窗
 Description: A better way to multitask! Fix support for iOS15+
 Author: c1d3r
 Name: PullOver Pro
+
+Package: com.netskao.showtouch
+Version: 1.0.4-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 1432
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.showtouch_1.0.4-3_iphoneos-arm64 (1).deb
+Size: 376348
+MD5sum: 52c69f59484da213860b6669c57499cf
+SHA1: 74effc915fdd02fa4c0b2072e04a17773c207e09
+SHA256: 5c2900ed79f23bb8516cb31eb78128516b63fd83058823b1b829e4b48dad538e
+Section: 你的iPhone不止于此
+Description: Shows where you touch the screen
+Author: LonestarX
+Name: ShowTouch
 
 Package: com.sunshinesong.native-island
 Version: 1.0.1
