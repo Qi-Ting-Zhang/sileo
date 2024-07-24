@@ -98,6 +98,22 @@ Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
 
+Package: com.0xkuj.bubbleapps
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 808
+Depends: com.opa334.altlist
+Filename: ./debs/com.0xkuj.bubbleapps_3.0.0_iphoneos-arm64.deb
+Size: 256504
+MD5sum: 7d98ab73e5c1597a86f6f8e6ed665e94
+SHA1: c233e9829a3fa8cbda7ac6011dcede6c14509e20
+SHA256: ba37bb22cb57829fa8fb0b9d0afcf2edf093acf926f6cc05863c07c14e961b57
+Section: 萝卜：进厂打螺丝是这样的
+Description: Floating app buttons anywhere you want
+Author: 0xkuj
+Name: Bubble Apps
+
 Package: com.25mao.wcplugins
 Version: 0.1-2
 Architecture: iphoneos-arm
