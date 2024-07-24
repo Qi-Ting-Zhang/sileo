@@ -378,11 +378,11 @@ Installed-Size: 7524
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture
 Filename: ./debs/com.lclrc.squidgesturepro_2.2.0_iphoneos-arm64.deb
-Size: 2190782
-MD5sum: b50222fdd015ab7419900989990d4ff4
-SHA1: f31382b178b35296efc1b23b6280551240d76484
-SHA256: 0ca00a2b47663e1c4af370c790a07a327bb6a62e966bc4e8bd640420d338ce66
-Section: 手势Pro
+Size: 2190774
+MD5sum: 7152f76eb139e7e5f6f08663353592b7
+SHA1: bde2dbd0ed28d1b620352c488cb81b70d7dc2aca
+SHA256: 619e182bf425c8d839b056c18624f44cd93d5246d742af55674a29c69ea64661
+Section: Tweaks
 Description: Gestures
 Author: SquidForce
 Name: SquidGesture Pro
@@ -536,23 +536,6 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
-
-Package: com.xx.dyhook
-Version: 2.0.3-1
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 3096
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/抖音图层2.0.3-1无根.deb
-Size: 965830
-MD5sum: 033a79d9a24d2fb0ad2cdde1702c12cb
-SHA1: 6096c653881674790e7ff6dd9b195ab5ba7f39cf
-SHA256: 3138654e0ae2244cb301a4a4b5dc66def267ef15705cd9598c8fda60becb6201
-Section: Tweaks
-Description: 自用
-Author: x✨
-Name: 抖音图层
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
 
 Package: com.xx.dyhook
 Version: 2.0.3-5
