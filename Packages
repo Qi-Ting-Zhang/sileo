@@ -154,9 +154,9 @@ Maintainer: appku
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/爱锋助手-Rootless.deb
 Size: 1758948
-MD5sum: 825dc451b4cfc17eefffd78e86007236
-SHA1: 0d2580c02d813579c898c2f8cb516ac078d739e0
-SHA256: de93d4e167b83aede6ce8ad354589298836dff264014dec975eaa4c4c6c0b44b
+MD5sum: a79a7c15173a6d9f7f1053ccbfb7840e
+SHA1: 0f437c2483e131f59e8cafe45ed5027eace17fc6
+SHA256: af505b22f339ab8047a3abc252014e2834d7fa085e1062e0dd312a173e382bc3
 Section: 微信插件
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，右滑快速备注，全局长按导航栏快捷功能,证书有效期查询等;修复文字防撤回，修复转账金额移动复原，添加文字修改，部分代码优化等,修复部分bug。
 Author: appku
@@ -168,28 +168,13 @@ Architecture: iphoneos-arm64
 Maintainer: 爱锋助手
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/爱锋助手1.5-3_Rootless.deb
-Size: 5574092
-MD5sum: fd023a5c3ce6e3590fc994a247a75833
-SHA1: ca6d2981f1c7c4043c4526b3b4280c6efa9c90f0
-SHA256: 9bef856877d0faca8f01fac44ad08429910afab7f54ee2420e52163930358cef
-Section: Tweaks
+Size: 5574060
+MD5sum: 00442c948e5ce896802b5c1e3aaea28b
+SHA1: 72e4affe9a97d1b7d90595cdb9581f60a4acc537
+SHA256: 1fb636383ff0d72def9468dc78fffb83ba0cd5492f86ccffd1c399d967536966
+Section: 微信插件
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，右滑快速备注，全局长按导航栏快捷功能,证书有效期查询等;修复文字防撤回，修复转账金额移动复原，添加文字修改，新增语音包,一键已读,修复部分bug以及代码优化。
 Author: 爱锋助手
-Name: 爱锋助手
-
-Package: com.appku.wechat
-Version: 1.5-8
-Architecture: iphoneos-arm
-Maintainer: appku
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/爱锋助手1.5.8-rootless.deb
-Size: 5773914
-MD5sum: 0a9eb19e8f6fcc36f1ade9a0339d4a8b
-SHA1: b2b3a4f3dfc16e7639cd0eb5fb39564b29f64eac
-SHA256: ca6babcd2ea3f810b45d01b0cf4b549c67f626a671a8dc236f01761cd7794947
-Section: 微信插件
-Description: 精简一些内容。。。。
-Author: appku
 Name: 爱锋助手
 
 Package: com.hitori.misaki
