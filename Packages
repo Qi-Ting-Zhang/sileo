@@ -179,6 +179,22 @@ Description: 显示您的触摸交互！并附带拖尾效果
 Author: 来一杯82年的拉菲 <82flex@gmail.com>
 Name: 来吧展示TouchVis
 
+Package: com.82flex.touchvis
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.touchvis_1.1.4_iphoneos-arm64.deb
+Size: 68632
+MD5sum: 56b6185d593b8f44b165a2c44d872724
+SHA1: 1e42791379894e1cb0a9c698ef7a6e9d12f20c06
+SHA256: 92dc0f37e4c5b4cde345d84e5a14896c874d0c9baab77982b02d86aedadb9bf2
+Section: 你的iPhone不止于此
+Description: 显示你的触摸交互！并附带拖尾效果
+Author: 来一杯82年的拉菲
+Icon: https://repo.cypwn.xyz/packages/TouchVis-Rootless/icon.png
+Name: 来吧展示TouchVis
+
 Package: com.appku.wechat
 Version: 1.5-1
 Architecture: iphoneos-arm64
