@@ -28,15 +28,16 @@ Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
 Filename: ./debs/MisakaHelper_1.9-8_iphoneos-arm64_rootless.deb
-Size: 11226932
-MD5sum: a85eeaab1f1a0c4a706f8c4e52048d82
-SHA1: 406f390b66d327426efebded47266ac4f7b75877
-SHA256: b5f713c18c794bb3fe5ac325d50473cb4ea0e4e314d272af0eb5b2a8601c553c
+Size: 11226984
+MD5sum: 3460a8ccb502a9aa1c6edbf64b25b4e7
+SHA1: 498aab839210810dd70886ea52493839f67d98fe
+SHA256: e8df5e20eacb0773a88bf7298c728bffefe7748e9f0642aa7c869b0ae0b7cb10
 Section: 微信插件
 Priority: optional
 Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/json/tongyong.json
 
 Package: MisakaHelper
 Version: 1.9-9
@@ -48,15 +49,16 @@ Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
 Filename: ./debs/MisakaHelper_1.9-9_iphoneos-arm64_rootless.deb
-Size: 11420704
-MD5sum: 04f405eca2d76012b5ac08ff05626f94
-SHA1: bcffbd9bd5c80e7e65c5ac977f01630dd31474cb
-SHA256: b3084ce61b54674e8eae47852b3b977a5960432f7f1b153004d99d6bbfa59faa
+Size: 11420756
+MD5sum: beca377af39193733f2d33e4deda2475
+SHA1: a2bc1227352fed7e342dd46beaa95cf2587fea60
+SHA256: a00fbd2100e42cdca41212d2a528b54c189fbc37a6c4b754889bb00ccf058dc3
 Section: 微信插件
 Priority: optional
 Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/json/tongyong.json
 
 Package: MisakaHelper
 Version: 2.0-0
@@ -68,15 +70,16 @@ Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
 Filename: ./debs/MisakaHelper_2.0-0_iphoneos-arm64_rootless.deb
-Size: 11817644
-MD5sum: d3dd705ceadf38775d1c8115cd4fdfe8
-SHA1: e48adbf92b3ff705a3831e5b57aa04f8f6c8e84f
-SHA256: a73427c673ce6ffb2c48610d69cc0f42571307d0b51504af76dc62c648eefa32
+Size: 11817696
+MD5sum: 4dc5ea9012c362bb6de12b7d75f5d54c
+SHA1: 82cea3174b097f1b80e002027034225d074a1aa0
+SHA256: 2860fc82ed9e71e1bb54c29a325afbefc873f9876bde3ab3eeeb2b1368347697
 Section: 微信插件
 Priority: optional
 Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/json/tongyong.json
 
 Package: MisakaHelper
 Version: 2.0-1
@@ -88,15 +91,16 @@ Conflicts: MisakaHelper
 Replaces: MisakaHelper
 Provides: MisakaHelper
 Filename: ./debs/MisakaHelper_2.0-1_iphoneos-arm64_rootless.deb
-Size: 11947888
-MD5sum: 2480587f70780a999ce087f8f1f4b34e
-SHA1: 50d2292a97840d73e91315d427685baf277ee662
-SHA256: 773886380af98890b8c988c0b60fb3ccf0ebf0d4f2573650d765296424d79b00
+Size: 11947940
+MD5sum: 70dd49fab2ba5ee65aa519b415f876ee
+SHA1: 7c9063b0a3d35229ec25fa0f8984fbfde66532ce
+SHA256: 0590f23c7e4ed066d65a0f80ab3c5d85265eb8c45564f5e131a14f5544179d73
 Section: 微信插件
 Priority: optional
 Description: MisakaHelper
 Author: Misaka
 Name: MisakaHelper
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/json/tongyong.json
 
 Package: cn.llld.touchflow
 Version: 1.0.6
