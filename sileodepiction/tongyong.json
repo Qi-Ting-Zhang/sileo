@@ -1,7 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://qi-ting-zhang.github.io/repo/images/tongyong.png
-",
+    "headerImage": "https://qi-ting-zhang.github.io/repo/images/tongyong.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
    // "tabs": [
@@ -94,9 +93,9 @@
             ]
         },
         {
-            "class": "DepictionStackView",
-            "tabname": "更新日志",
-            "views": [
+            //"class": "DepictionStackView",
+            //"tabname": "更新日志",
+            //"views": [
                 // {
                 //     "class": "DepictionSubheaderView",
                 //     "title": "2.0.5",
