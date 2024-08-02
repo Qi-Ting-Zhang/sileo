@@ -1,18 +1,34 @@
-Package: 80flex.net.touchvis
+Package: 82flex.net.touchvis
 Version: 2.5
 Architecture: iphoneos-arm64
 Maintainer: 82flex
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/82.touchvis2.5.deb
-Size: 229868
-MD5sum: 5a5a5e1cd82215446e618268996609e7
-SHA1: a93486ff7f6397b03809c5cdd82dca30475b85d8
-SHA256: 4c121933150711a98f27d10cb3f06db5912a304c4c07bb030ec5012d448643b5
+Filename: ./debs/82flex.net.touchvis_2.5_iphoneos-arm64.deb
+Size: 229904
+MD5sum: b34a5ef782f9b1ae41324f0d525c5398
+SHA1: 16afeae3d300a541a844ca3a85dbe8a67d80cbea
+SHA256: baf78a010105b40610d53a811e16f5fb79bb3eaafe8e13bddf0fab1d2e4f3aac
 Section: 你的iPhone不止于此
 Description: Displays your touch interactions!显示触摸屏幕的轨迹，并附带拖尾效果
 Author: 来一杯82年的拉菲
 Icon: https://repo.cypwn.xyz/packages/TouchVis- Rootless/icon.png
 Name: TouchVis触摸轨迹
+
+Package: 82flex.net.touchviz
+Version: 2.8k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/82flex.net.touchviz_2.8k_iphoneos-arm64.deb
+Size: 708976
+MD5sum: bc0b8518fb31a9bf00959164d1a79d5b
+SHA1: 51207194c4d1038b46ad4d40212ac40faa3d75d8
+SHA256: e821c8c34e91cf2c95f3c6c3a77dfd1e11f74c3038cc61b113fc42eac791af57
+Section: 你的iPhone不止于此
+Description: Displays your touch interactions! Cracked by CBZ
+Author: 来一杯82年的拉菲
+Icon: https://repo.cypwn.xyz/packages/TouchViz-Rootless/icon.png
+Name: 录屏轨迹Touch-Viz
 
 Package: ApibugTextToVoice
 Version: 1.0.5
