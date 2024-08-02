@@ -177,6 +177,21 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: 爱锋助手
 Name: 爱锋助手
 
+Package: com.appku.wechat
+Version: 1.6-1
+Architecture: iphoneos-arm64
+Maintainer: appku
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.appku.wechat_1.6-1_iphoneos-arm64.deb
+Size: 1662644
+MD5sum: 41746121252fb2fbfb31599a0ad3a498
+SHA1: e811e62e54aeb0af09c85d55050eb892de79b5fd
+SHA256: 058bdcb3c0a5e971944d2faf001854698aa2a6170f90734016b585d15714bec4
+Section: 微信插件
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间等。
+Author: appku
+Name: 爱锋助手
+
 Package: com.hitori.misaki
 Version: 2.0.9
 Architecture: iphoneos-arm64
