@@ -153,15 +153,15 @@ Architecture: iphoneos-arm64
 Maintainer: Lessica
 Installed-Size: 200
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.82flex.wtvrbglauncher_0.0.1_iphoneos-arm64.deb
-Size: 4916
-MD5sum: 12db3a0af86bfac0139f0fe755ba7f7f
-SHA1: 4b7844a9b59dc311593f7a7025aa7255e146f88c
-SHA256: b37aa7169d284a44c068c9c3db4824b52dddcb095e337e40b68b0df2ce32e4d0
+Filename: ./debs/com.82flex.wtvrbglauncher_0.0.1_iphoneos-arm64(2).deb
+Size: 26428
+MD5sum: e3626485f56a63cc834637d75eee4855
+SHA1: 7ac7e566a418f42cb43c3a919d9e97a561415a65
+SHA256: caebae87d4443cc265d4d1be0b33a125aebc9974587c8822e7caa45e8203fe44
 Section: 你的iPhone不止于此
 Description: 免去三方输入法使用语音转文字时的跳转
 Author: 来一杯82年的拉菲
-Icon: https://qi-ting-zhang.github.io/sileo/images/srf.png
+Icon: file:////var/jb/Library/MobileSubstrate/DynamicLibraries/srf.png
 Name: 语音输入免跳转
 
 Package: com.appku.wechat
