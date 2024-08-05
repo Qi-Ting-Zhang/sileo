@@ -147,6 +147,22 @@ Author: 来一杯82年的拉菲
 Icon: https://repo.cypwn.xyz/packages/TouchVis-Rootless/icon.png
 Name: 来吧展示TouchVis
 
+Package: com.82flex.wtvrbglauncher
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.82flex.wtvrbglauncher_0.0.1_iphoneos-arm64.deb
+Size: 4848
+MD5sum: 07cac4b7fe4629cecbca267cf2f46741
+SHA1: d71c48ba63f5d82f91716426a1164ee0652b312a
+SHA256: 7fd99765f4b04d90f00cd0a4c14aeffeabeb15ab4e9a1a3c5b69b9875baf6e3b
+Section: 你的iPhone不止于此
+Description: 免去三方输入法使用语音转文字时的跳转
+Author: Lessica
+Name: 语音输入免跳转
+
 Package: com.appku.wechat
 Version: 1.5-1
 Architecture: iphoneos-arm64
