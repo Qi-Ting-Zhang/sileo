@@ -164,6 +164,22 @@ Author: 来一杯82年的拉菲
 Icon: file:////var/jb/Library/MobileSubstrate/DynamicLibraries/srf.png
 Name: 语音输入免跳转
 
+Package: com.82flex.wtvrbglauncher
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.82flex.wtvrbglauncher_0.0.2_iphoneos-arm64 (1.deb
+Size: 5564
+MD5sum: c0ef38755780f9784e67fbeea8064246
+SHA1: 4438c10ab36cc66e380b55e8d09949c28127d25c
+SHA256: d303962f9289778b697063c57b3fd4ac9cf14716106d4d63a90b56f4042c845a
+Section: Tweaks
+Description: 略过三方键盘语音输入文字时的跳转页面
+Author: 来一杯82年的拉菲
+Name: 语音输入免跳转
+
 Package: com.appku.wechat
 Version: 1.5-1
 Architecture: iphoneos-arm64
