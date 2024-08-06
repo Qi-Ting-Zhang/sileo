@@ -482,6 +482,23 @@ Description: Gestures
 Author: SquidForce
 Name: SquidGesture Pro
 
+Package: com.lclrc.squidgesturepro
+Version: 2.2.9
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 7700
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture
+Filename: ./debs/com.lclrc.squidgesturepro_2.2.9_iphoneos-arm64.deb
+Size: 2289816
+MD5sum: 3cf3a39fb0a0d7e1bbab23d094536b1d
+SHA1: ad8c7e642bb5d03734fe4406ba4b80fdd6d06d6b
+SHA256: 284395bf48a7d918b6f39d9e34854913565f93eb1b987e0c465ca67082aba905
+Section: Tweaks
+Description: Gestures
+Author: SquidForce
+Name: SquidGesture Pro
+
 Package: com.nahtedetihw.airpodscompanion
 Version: 1.4
 Architecture: iphoneos-arm64
