@@ -180,6 +180,22 @@ Description: 略过三方键盘语音输入文字时的跳转页面
 Author: 来一杯82年的拉菲
 Name: 语音输入免跳转
 
+Package: com.82flex.wtvrbglauncher
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 400
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.wtvrbglauncher_1.0_iphoneos-arm64 (1).deb
+Size: 22864
+MD5sum: 14d8d426685362cf982c13c5dbb06f92
+SHA1: 06145f51c3f01cac71b0451ae3870c048e844f92
+SHA256: 8b702fedafb4514dca3a2f49d11dedb612271b8b3c5ca97e6153eb542e218b9a
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Author: 来一杯82年的拉菲
+Name: 语音输入免跳转
+
 Package: com.appku.wechat
 Version: 1.5-1
 Architecture: iphoneos-arm64
@@ -224,6 +240,26 @@ Section: 微信插件
 Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏、新增朋友圈转发、修改聊天时间等。
 Author: appku
 Name: 爱锋助手
+
+Package: com.creaturesurvive.libcscolorpicker
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 960
+Pre-Depends: firmware (>= 7.0)
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.6_iphone.deb
+Size: 144920
+MD5sum: ce65c554b12590635088717db1535b72
+SHA1: 07f0f79181ed0508740a0e6a1e58533513424e5d
+SHA256: 0bc014beffca8af4068a0af455e5390ac894fb2ac3031ec0beab05af0803b9da
+Section: System
+Homepage: https://creaturecoding.com/
+Description: A minimal color picker library for developers
+Tag: purpose::extension, compatible_min::iosiOS7
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
+Name: folded依赖-libCSColorPicker
+Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
 
 Package: com.hitori.misaki
 Version: 2.0.9
@@ -345,6 +381,23 @@ Section: 嗨-汉化
 Description: Zetsu 简体中文包(rootless)。
 Author: 妖刀
 Name: Zetsu 简体中文包(rootless)
+
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.7.1_iphoneos-arm64 (1).deb
+Size: 978292
+MD5sum: dc5d46ea1d0197c4ea2f004c6800528c
+SHA1: 2579ccc42bc1699ff88f9d343bf25233fd3b9b9f
+SHA256: c32adf4c0a64e3944fec5e678f795a43ef36a7c1c2da2ef63d3819b032c73bc2
+Section: 你的iPhone不止于此
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
 
 Package: com.lclrc.hidepullover
 Version: 0.0.1
