@@ -115,6 +115,22 @@ Author: Mao
 Name: 微信插件管理-Rootless
 Sponsor: admin@25mao.com
 
+Package: com.82flex.removewidgetbg
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 200
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.82flex.removewidgetbg_0.0.1_iphoneos-arm64.deb
+Size: 7428
+MD5sum: 3970e7e7b78cf7802c658853c624ea2d
+SHA1: d3f77218acd9e3d61f7892e9ec11951211208c56
+SHA256: aff01a5e26c7ab066214c3a920e99e29961409c6ac08b9e8baff5a57f367cb91
+Section: Tweaks
+Description: 顾名思义，移除Top Widgets组件背景使其透明
+Author: 来一杯82年的拉菲
+Name: 移除 Top Widgets⁺ 背景
+
 Package: com.82flex.touchvis
 Version: 1.1.3
 Architecture: iphoneos-arm64
