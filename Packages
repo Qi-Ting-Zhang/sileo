@@ -15,6 +15,22 @@ Icon: https://repo.cypwn.xyz/packages/TouchVis- Rootless/icon.png
 Name: TouchVis触摸轨迹
 
 Package: 82flex.net.touchviz
+Version: 2.8.1k
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/82flex.net.touchviz_2.8.1k_iphoneos-arm64.deb
+Size: 708844
+MD5sum: 7ffaf8793817aa2a09b6af8bd36056a6
+SHA1: 2b517354afd1d845d464dc8a74f4bdc682ed8e5c
+SHA256: 63828509b1947d09b2411424c2aa5b202aa0605abacea59bae87e97c3e2cc1ca
+Section: 你的iPhone不止于此
+Description: 显示录屏轨迹，并附带拖尾效果
+Author: 来一杯82年的拉菲
+Icon: https://repo.cypwn.xyz/packages/TouchViz-Rootless/icon.png
+Name: 录屏轨迹Touch-Viz
+
+Package: 82flex.net.touchviz
 Version: 2.8k
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
