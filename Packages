@@ -681,6 +681,22 @@ Description: Shows where you touch the screen
 Author: LonestarX
 Name: ShowTouch
 
+Package: com.stbz.checkproxybypass-rootless
+Version: 0.1.1-2
+Architecture: iphoneos-arm64
+Maintainer: 胜天半子
+Installed-Size: 172
+Depends: mobilesubstrate , preferenceloader,com.opa334.altlist
+Filename: ./debs/apt.cydiakk.checkproxybypass-rootless_0.1.deb
+Size: 4648
+MD5sum: 1feaec18b179a723cbd5a257cf0e8738
+SHA1: c41ec8c7c86a4a75f8aef18c1e1699304c007e81
+SHA256: ed759c295e4ef69a5ba2e026343a1fac558356e162be68da2812f943d305c3d5
+Section: Tweaks
+Description: 看点广告没问题，不让我用⭕️❌干嘛,说的就是你ibox。安装之后在设置里面开启
+Author: zxc
+Name: 禁止代理检测
+
 Package: com.stbz.icraze.swipeselection
 Version: 2.0
 Architecture: iphoneos-arm64
