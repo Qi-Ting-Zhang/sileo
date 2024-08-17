@@ -681,6 +681,39 @@ Description: Shows where you touch the screen
 Author: LonestarX
 Name: ShowTouch
 
+Package: com.stbz.icraze.swipeselection
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.stbz.icraze.swipeselection_2.0_iphoneos-arm64.deb
+Size: 14408
+MD5sum: 3cee72021005981ae2da1a15de784330
+SHA1: 0fb311653dd3397b43cc0646d325a7bc173db231
+SHA256: 3660eef720405226aa2d405f6e1c49ce13de02d4df0e8335ebad30cb5ba70fb8
+Section: 你的iPhone不止于此
+Description: 沿键盘滑动以移动光标并选择文本。可单手操作，选择文本很方便
+Author: Kyle Howells
+Name: 原生键盘选择文字SwipeSelection
+
+Package: com.stbz.ps.smoothcursorios13
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 6.0)
+Conflicts: org.thebigboss.smoothcursor
+Filename: ./debs/com.stbz.ps.smoothcursorios13_0.0.1_iphoneos-arm6.deb
+Size: 3156
+MD5sum: cc97c3b3bf6013562be26c6e62bab433
+SHA1: 5e5473bdf9ef36423a3c9bcdb5397b0e5b4bd1c0
+SHA256: 1d7ee78e4fa62770b3fbe01233d792426604f054bf12c807b639deedf8000a8d
+Section: 你的iPhone不止于此
+Description: 灵活的光标动画，很跟手。Office 2013-styled cursor animation.
+Author: PoomSmart
+Name: 光标SmoothCursor (iOS 13+)
+
 Package: com.sunshinesong.native-island
 Version: 1.0.1
 Architecture: iphoneos-arm64
