@@ -1165,3 +1165,20 @@ Description: 微信净化小丑功能，需要配合微信净化2.2-3版本使�
 Author: Netskao
 Name: 微信净化小丑功能
 
+Package: stbz.uncar
+Version: 0.0.1-6
+Architecture: iphoneos-arm64
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 132
+Filename: ./debs/stbz.uncar_0.0.1-6_iphoneos-arm64.deb
+Size: 6652
+MD5sum: 272cefba4ad16c1aefa2211ff29bcaba
+SHA1: 7ada8876a6887d35f8ad6161c2805518b8bb9c5f
+SHA256: 618a117258ca0ebd4ead295f9153e38dc7fc1681797cca6bba273d3fa9403d15
+Section: System
+Description: 在终端命令从封包Asset.car文件中提取美化素材   Extract Asset.car files from bundles
+ Command line tool that extracts png images from Asset.car files
+Tag: role::hacker
+Author: Elias Limneos
+Name: uncar
+
