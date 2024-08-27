@@ -1165,6 +1165,23 @@ Depiction: https://chariz.com/get/zetsu
 Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
 Name: Zetsu
 
+Package: jp.r-plus.menusupport
+Version: 1.3.0
+Architecture: iphoneos-arm64
+Maintainer: r_plus
+Installed-Size: 504
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/jp.r-plus.menusupport_1.3.0_iphoneos-arm64 (1).deb
+Size: 36436
+MD5sum: a25684760294a558e11457fe5acc6ac3
+SHA1: 10dab0ee4b562b9682efb1763e8559a89a8781d7
+SHA256: 9181c24cc80ebe2fe2183d51fcd1819a9d57753c3166003cab8fd5269413353e
+Section: 你的iPhone不止于此
+Description: Simply plugin loader for iOS system menu.
+Author: r_plus
+Icon: file:///Library/PreferenceBundles/MenuSupportSettings.bundle/MenuSupport@3x.png
+Name: MenuSupport
+
 Package: netskao.joker
 Version: 1.1-2
 Architecture: iphoneos-arm64
