@@ -276,6 +276,21 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: 来一杯82年的拉菲
 Name: 语音输入免跳转
 
+Package: com.ActivityAction.zh-hans
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 你看，又急
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ActivityAction.zh-hans_0.0.1_iphoneos-arm64.deb
+Size: 1312
+MD5sum: 49a516adc3913c3958f9c7beae283861
+SHA1: 7f8abf424cc4526cd8704412027186bbd61b67d2
+SHA256: 2799f28b48aee01776194e89977158ad7982363955ecad789c38f5adf54dde02
+Section: 汉化
+Description: ActivityAction（MenuSupport拓展插件）简体中文，贾队长提供汉化。
+Author: 祁同伟
+Name: ActivityAction 简体中文包(rootless)
+
 Package: com.appku.wechat
 Version: 1.5-1
 Architecture: iphoneos-arm64
@@ -1164,6 +1179,25 @@ Author: Dcsyhi <dcsyhi1998@gmail.com>
 Depiction: https://chariz.com/get/zetsu
 Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
 Name: Zetsu
+
+Package: jp.r-plus.activityaction2
+Version: 2.2.0
+Architecture: iphoneos-arm64
+Maintainer: r_plus <anasthasia.r+aa@gmail.com>
+Installed-Size: 440
+Depends: firmware (>= 11.0), com.opa334.altlist, jp.r-plus.menusupport
+Conflicts: jp.r-plus.activityaction
+Filename: ./debs/jp.r-plus.activityaction2_2.2.0_iphoneos-arm64 (1.deb
+Size: 43512
+MD5sum: 53935527c8006390e9f8301b43c48ad6
+SHA1: 9510dad19e7d17cf9757ffb84bdaaf0ec4d68efc
+SHA256: 52348c9c135e047320c8e86ccc939571eea7a447e5c1932c8fb1ba6244b9d930
+Section: 你的iPhone不止于此
+Description: Text instruction to URL or JavaScript.
+Author: r_plus <anasthasia.r+aa@gmail.com>
+Dev: rplus
+Icon: file:///Library/MenuSupport/Plugins/ActivityAction.bundle/icon.png
+Name: ActivityAction（MenuSupport拓展）
 
 Package: jp.r-plus.menusupport
 Version: 1.3.0
