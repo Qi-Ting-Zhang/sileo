@@ -282,14 +282,14 @@ Architecture: iphoneos-arm64
 Maintainer: 你看，又急
 Depends: firmware (>= 15.0)
 Filename: ./debs/com.ActivityAction.zh-hans_0.0.1_iphoneos-arm64.deb
-Size: 1312
-MD5sum: 49a516adc3913c3958f9c7beae283861
-SHA1: 7f8abf424cc4526cd8704412027186bbd61b67d2
-SHA256: 2799f28b48aee01776194e89977158ad7982363955ecad789c38f5adf54dde02
+Size: 1308
+MD5sum: 078b3a74530395e3c248cdf24ec15447
+SHA1: 1fb3e1b316b546fc7c04c4dbc6295aa1721f50d2
+SHA256: b8e39b9d75f9e08a323461495a8eba1c11a8304afa2c6c5c1f9dca7166c3df58
 Section: 汉化
 Description: ActivityAction（MenuSupport拓展插件）简体中文，贾队长提供汉化。
 Author: 祁同伟
-Name: ActivityAction 简体中文包(rootless)
+Name: ActivityAction 简体中文包
 
 Package: com.appku.wechat
 Version: 1.5-1
