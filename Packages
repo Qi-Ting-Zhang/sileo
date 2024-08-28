@@ -307,6 +307,36 @@ Description: ActivityAction（MenuSupport拓展插件）简体中文，贾队长
 Author: 祁同伟
 Name: ActivityAction 简体中文包
 
+Package: com.ActivityAction.zh-hans
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 你看，又急
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ActivityAction.zh-hans_0.0.2_iphoneos-arm64.deb
+Size: 1364
+MD5sum: 3bf207ca744b625c77877ee6159e64d8
+SHA1: 28b698acd9b93d6c844e096b241c8e66e9e03abc
+SHA256: 40f1e803114b470aaa7b6d0c02eb377fba3a5f81c4cd249e56378572e6c1e825
+Section: 汉化
+Description: ActivityAction（MenuSupport拓展插件）简体中文，贾队长提供汉化。
+Author: 祁同伟
+Name: ActivityAction 简体中文包
+
+Package: com.MenuSupport.zh-hans
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 你看，又急
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.MenuSupport.zh-hans_0.0.1_iphoneos-arm64(1).deb
+Size: 1176
+MD5sum: cf5dbdc83da3d4bbd7b2fd83633dc860
+SHA1: a20fa4ecab468614eebd19d03a2303be56a6f64a
+SHA256: 5513796f2f4a4418edc8ebad50b76004c94eec2963f28bfac7d4c45a65608006
+Section: 汉化
+Description: MenuSupport简体中文，由贾队长提供汉化
+Author: 祁同伟
+Name: MenuSupport简体中文包
+
 Package: com.appku.wechat
 Version: 1.5-1
 Architecture: iphoneos-arm64
