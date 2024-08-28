@@ -66,6 +66,22 @@ Description: Apibug微信文字转语音插件,官网:www.apibug.com
 Author: www.apibug.com
 Name: ApibugTextToVoice
 
+Package: cn.llld.picturemodule
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: firmware(>= 12.0), mobilesubstrate, com.opa334.ccsupport, cn.llld.hhxt, oldabi
+Conflicts: com.4nni3.picturemodule
+Filename: ./debs/cn.llld.picturemodule_1.2_iphoneos-arm64.deb
+Size: 6690784
+MD5sum: 1184853891fb8da9091adb1f59a1aaee
+SHA1: 6cd176f66b39afc2a59e5ae72fc846b1023a18ef
+SHA256: acd0597fbd1987bbf1dad80e958c89e941fce6904a4b0ff7e6eec5b6ef19f332
+Section: 你的iPhone不止于此
+Description: 自定义照片，视频和小部件装饰您的控制中心。
+Author: 4nni3
+Name: PictureModule（控制中心图片视频）
+
 Package: cn.llld.touchflow
 Version: 1.0.6
 Architecture: iphoneos-arm64
