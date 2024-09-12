@@ -214,6 +214,8 @@ body {
 }
 
 .main-bg {
+    width：100%
+    height：100%
      background: url(../bg.jpg) no-repeat center; */
     background-image: linear-gradient(0deg, #30DDCE 0%, #536976 100%); */
     background-color: transparent;
