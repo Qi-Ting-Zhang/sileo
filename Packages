@@ -382,6 +382,22 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: appku
 Name: 爱锋助手
 
+Package: com.brend0n.nopassafterrespringsafe
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Brend0n
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.brend0n.nopassafterrespringsafe_0.0.3_iphoneo.deb
+Size: 3440
+MD5sum: f54ef1ebcb14d5dadffa0876b3b94b17
+SHA1: 79f08856e48470d5401bea132df93c44836ca78f
+SHA256: 4d2884e38f71775e60990c5beae86b729e2660b63ae8339223317ee2f462d56f
+Section: 你的iPhone不止于此
+Description: Disables passcode after a respring. This version does NOT modify system file. It's safe to use. 解锁状态下注销，跳过锁屏界面免解锁快速进入桌面。
+Author: Brend0n
+Name: 注销不锁屏NoPassAfterRespring (Safe)
+
 Package: com.creaturesurvive.libcscolorpicker
 Version: 1.0.6
 Architecture: iphoneos-arm64
