@@ -418,6 +418,24 @@ Depiction: https://creaturecoding.com/?page=depiction&id=libcscolorpicker
 Name: folded依赖-libCSColorPicker
 Sileodepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcscolorpicker
 
+Package: com.cydia.callwallpapervideo
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: tt
+Installed-Size: 620
+Depends: preferenceloader
+Filename: ./debs/com.cydia.callwallpapervideo_1.0.2_iphoneos-arm64.deb
+Size: 1987312
+MD5sum: 78e0013800b61fd678529b93874019a9
+SHA1: a0f30508fedd2b0daeca1d9734bfc2458b44b71b
+SHA256: 3ea9ed8053a01d1aa1e92902bf27779c35f3e8fb32af6207fa776c235d70ded0
+Section: 你的iPhone不止于此
+Description: myWall 来电视频，随心所欲！以下二选一①路径下自行重命名素材为：DCIM/iwall/IMG_0035.MP4（来电）、IMG_0034.MP4（去电）②搜索iwall自行重定名来去电素材名称
+Author: tt
+Icon: file:////jb/Library/PreferenceBundles/wallpaperbundle.bundle/iphone@2x.png
+Name: 来电秀
+Sponsor: mywall
+
 Package: com.hitori.misaki
 Version: 2.0.9
 Architecture: iphoneos-arm64
