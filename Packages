@@ -813,6 +813,22 @@ Description: Gestures
 Author: SquidForce
 Name: SquidGesture Pro
 
+Package: com.mtac.lynxtwo
+Version: 2.5.3
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 2848
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: ./debs/com.mtac.lynxtwo_2.5.3_iphoneos-arm64 (1).deb
+Size: 652752
+MD5sum: ff0e1f9b4e1c8100a6a81ba3c5bc50ff
+SHA1: b48f64af5e312724a8f491f50f1823f8db2db29b
+SHA256: 3505837a274e84815267f6ff287cf0727b39f5176759618175d42408a86faad3
+Section: 你的iPhone不止于此
+Description: Ultimate iDevice Customization for iOS 14, 15 & 16
+Author: MTAC
+Name: Lynx 2（已汉化）
+
 Package: com.nahtedetihw.airpodscompanion
 Version: 1.4
 Architecture: iphoneos-arm64
@@ -1050,14 +1066,14 @@ Architecture: iphoneos-arm64
 Maintainer: sunshinesong
 Installed-Size: 5624
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: ./debs/com.sunshinesong.split-view-pro_1.3.7_iphoneos-ar.deb
-Size: 1536264
-MD5sum: cc287dc0105503d86b4fe4f653f7c713
-SHA1: 64d3ed6a991b4791858b999b8b5151d1a3661e5c
-SHA256: fd9e549c76d2698caacd536970038d2023e25e5c4e254cb8f15a2df31406ae9f
-Section: 分屏&小窗
-Description: svp分屏泄露版，目前可用，未来可期
-Author: 广大网友/抵制格机
+Filename: ./debs/com.sunshinesong.split-view-pro_1.3.7_iphoneos-ar(2).deb
+Size: 1539288
+MD5sum: 60137e5a13bb73843f96e65f4df9d85f
+SHA1: 3802e81d7a9c2492db25d41e54562c9d063e7a60
+SHA256: 4e158a5d39c17ad44078ae931a9baee155b83a21b6fb8b6958015d14140e2b5a
+Section: 分屏＆小窗
+Description: 墓前可用，未来可期
+Author: 支持正版/抵制格机
 Name: split-view-pro
 Ts: sp-sss
 
