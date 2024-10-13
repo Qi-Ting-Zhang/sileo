@@ -878,6 +878,22 @@ Description: Shows where you touch the screen
 Author: LonestarX
 Name: ShowTouch
 
+Package: com.nx.appcardlite
+Version: 2.2.6
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.nx.appcardlite_2.2.6_iphoneos-arm64 (1).deb
+Size: 186504
+MD5sum: 96237dbe649605d634219a9ccb4f9293
+SHA1: 53dcaa19978fb568865f1546fb3104cc1b64c635
+SHA256: b16fdfb87588c86774a1db1ed53f96605ef6134cea0ff4f35db2951228c6d2a2
+Section: 分屏＆小窗
+Description: 国人开发，体验极佳！吊打o2，即触即发！呼出方式详见vcr
+Author: Crassna
+Name: App Lecard（小窗）
+
 Package: com.stbz.checkproxybypass-rootless
 Version: 0.1.1-2
 Architecture: iphoneos-arm64
