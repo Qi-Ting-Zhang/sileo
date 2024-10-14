@@ -950,10 +950,10 @@ Maintainer: Erast
 Installed-Size: 6740
 Depends: mobilesubstrate, firmware (>= 15.0), com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 2.0)
 Filename: ./debs/com.stbz.violetpro_1.0.0_iphoneos-arm64.deb
-Size: 5772564
-MD5sum: b4cf0ee5c17717af87c60f3529e05096
-SHA1: ee3219725537cd6502aa960c2b327697117a0810
-SHA256: 81c481bedb5adfb9f3280b4a83c4bda5d00b8bb5ca5e4f466548b06601e5f48b
+Size: 5772696
+MD5sum: 05135ac14469ac637760f440550d2ff0
+SHA1: da005a79aa51a3df9d8ec8cc855ba95a92b2acfb
+SHA256: 61d4ce88cbbe186d7c6827a029c3067b8d38d56eb8448813b0b64349e6389ead
 Section: 你的iPhone不止于此
 Description: 将你的Siri装扮成洛丽塔女佣，请尽情吩咐妲己吧，主人！
 Author: Erast
