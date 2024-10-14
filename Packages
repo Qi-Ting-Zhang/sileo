@@ -943,6 +943,41 @@ Description: 灵活的光标动画，很跟手。Office 2013-styled cursor anima
 Author: PoomSmart
 Name: 光标SmoothCursor (iOS 13+)
 
+Package: com.stbz.violetpro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Erast
+Installed-Size: 6740
+Depends: mobilesubstrate, firmware (>= 15.0), com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 2.0)
+Filename: ./debs/com.stbz.violetpro_1.0.0_iphoneos-arm64.deb
+Size: 5772564
+MD5sum: b4cf0ee5c17717af87c60f3529e05096
+SHA1: ee3219725537cd6502aa960c2b327697117a0810
+SHA256: 81c481bedb5adfb9f3280b4a83c4bda5d00b8bb5ca5e4f466548b06601e5f48b
+Section: 你的iPhone不止于此
+Description: 将你的Siri装扮成洛丽塔女佣，请尽情吩咐妲己吧，主人！
+Author: Erast
+Icon: https://media.havoc.app/6479ae15276ae33252efbe71
+Name: Violet Pro  个性化siri
+
+Package: com.stbz.wrp1002.cornbars
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Wes <wes.hamster@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.alderis (>= 1.2)
+Conflicts: com.wrp1002.cornbar
+Filename: ./debs/com.stbz.wrp1002.cornbars_1.1.0_iphoneos-arm64.deb
+Size: 110728
+MD5sum: 924ffedf73e16720b85b1d763dc04ae7
+SHA1: 8bcbb3ad574e2f1eded8101bd02cb59473892283
+SHA256: 08c40bf93c41cdee3d387ea4a9bb8d97324481a19477cc8fd0497b767b508800
+Section: 你的iPhone不止于此
+Description: 把你的底部小横条变成玉米或其他！
+ * Change your HomeBar into corn!
+Author: Wes <wes.hamster@gmail.com>
+Name: CornBar 玉米底部横杠
+
 Package: com.sunshinesong.native-island
 Version: 1.0.1
 Architecture: iphoneos-arm64
