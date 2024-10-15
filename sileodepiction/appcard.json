@@ -19,22 +19,22 @@
                     "itemSize": "{160, 346.4533333333333}",
                     "screenshots": [
                         {
-                                     "accessibilityText": "Screenshot",
-                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/1.png"
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/1.png"
                         },
                         {
-                                     "accessibilityText": "Screenshot",
-                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/3.png"
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/3.png"
                         },
                         {
-                                     "accessibilityText": "Screenshot",
-                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/4.png"
-                        }
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/4.png"
+                        },
                         {
-                                     "accessibilityText": "Screenshot",
-                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/5.png"
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/5.png"
                         }
-                     ]
+                    ]
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -63,7 +63,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "更新:</br>左侧边缘阀值降至10%，其它更新未知,键盘导致小窗口隐藏的问题",
                     "useRawFormat": true
-                }
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.2.7",
