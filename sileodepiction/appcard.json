@@ -17,16 +17,7 @@
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
                     "itemSize": "{160, 346.4533333333333}",
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/Screenshot_01.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://xiangfeidexiaohuo.github.io/sileodepiction/kayoko/Screenshot_02.png"
-                        }
-                    ]
+                    "screenshots": []
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -39,7 +30,6 @@
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 }
-                
             ]
         },
         {
