@@ -44,7 +44,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.添加了浮窗阴影\n2.优化了动画细节\n3.改进了缩放移动手势\n4.添加横屏键盘移动",
+                    "markdown": "1.添加了浮窗阴影</br>2.优化了动画细节</br>3.改进了缩放移动手势</br>4.添加横屏键盘移动",
                     "useRawFormat": true
                 }
             ]
