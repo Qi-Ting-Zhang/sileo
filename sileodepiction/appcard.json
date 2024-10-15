@@ -39,45 +39,7 @@
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 }
-                // {
-                //     "class": "DepictionHeaderView",
-                //     "title": "详情",
-                //     "useBoldText": true,
-                //     "useBottomMargin": false
-                // },
-                // {
-                //     "class": "DepictionSpacerView",
-                //     "spacing": 8
-                // },
-                // {
-                //     "class": "DepictionTableTextView",
-                //     "text": "Alexandra",
-                //     "title": "作者"
-                // },
-                // {
-                //     "class": "DepictionTableTextView",
-                //     "text": "zqbb & 妖刀",
-                //     "title": "维护者"
-                // },
-                // {
-                //     "class": "DepictionTableTextView",
-                //     "text": "2.0.5",
-                //     "title": "最新版本"
-                // },
-                // {
-                //     "class": "DepictionTableTextView",
-                //     "text": "14.0 - 15.9",
-                //     "title": "支持系统范围"
-                // },
-                // {
-                //     "class": "DepictionTableTextView",
-                //     "text": "2024 年 06 月 09 日",
-                //     "title": "最后更新日期"
-                // },
-                // {
-                //     "class": "DepictionSpacerView",
-                //     "spacing": 16
-                // }
+                
             ]
         },
         {
