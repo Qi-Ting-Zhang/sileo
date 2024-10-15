@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/appcard/02.png",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/appcard/2.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
@@ -20,19 +20,19 @@
                     "screenshots": [
                         {
                                      "accessibilityText": "Screenshot",
-                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/01.png"
+                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/1.png"
                         },
                         {
                                      "accessibilityText": "Screenshot",
-                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/03.png"
+                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/3.png"
                         },
                         {
                                      "accessibilityText": "Screenshot",
-                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/04.png"
+                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/4.png"
                         }
                         {
                                      "accessibilityText": "Screenshot",
-                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/05.png"
+                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/5.png"
                         }
                      ]
                 },
