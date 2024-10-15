@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/appcard/02.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
@@ -17,7 +17,24 @@
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
                     "itemSize": "{160, 346.4533333333333}",
-                    "screenshots": []
+                    "screenshots": [
+                        {
+                                     "accessibilityText": "Screenshot",
+                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/01.png"
+                        },
+                        {
+                                     "accessibilityText": "Screenshot",
+                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/03.png"
+                        },
+                        {
+                                     "accessibilityText": "Screenshot",
+                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/04.png"
+                        }
+                        {
+                                     "accessibilityText": "Screenshot",
+                                     "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/05.png"
+                        }
+                     ]
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -36,6 +53,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "2.2.8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "更新:</br>左侧边缘阀值降至10%，其它更新未知,键盘导致小窗口隐藏的问题",
+                    "useRawFormat": true
+                }
                 {
                     "class": "DepictionSubheaderView",
                     "title": "2.2.7",
