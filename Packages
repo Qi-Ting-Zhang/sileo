@@ -901,15 +901,15 @@ Maintainer: Crassna
 Installed-Size: 940
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debs/com.nx.appcardlite_2.2.7_iphoneos-arm64.deb
-Size: 189832
-MD5sum: bf3a66940615b9d2f94735ce760fc486
-SHA1: 521e737a4b4107c330f8c2744292cf7aa24082ff
-SHA256: f6dba08c80e32c8d2f5e85fda5db36b016324f76629dee1625464dd9ab18dfd3
+Size: 189816
+MD5sum: 40453830f46addca9ca4eac93f46a571
+SHA1: 694cf57aea8e8772df9c036a0fe9b3b56e3e33ca
+SHA256: 3d85f26945c87e19f18dafb6031863acea0d5f5a64dd714981bea61acdccc9a4
 Section: 分屏＆小窗
 Description: 国人开发，体验极佳！吊打 o2，即触即发！呼出方式详见vcr
 Author: Crassna
 Name: App Lecard（小窗）
-Sileodepiction: https://raw.githubusercontent.com/Qi-Ting-Zhang/sileo/main/sileodepiction/appcard.json
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.jsonappcard.json
 
 Package: com.stbz.checkproxybypass-rootless
 Version: 0.1.1-2
