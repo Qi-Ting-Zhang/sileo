@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/appcard/tongyong.png",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
