@@ -928,6 +928,24 @@ Author: Crassna
 Name: App Lecard（小窗）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
 
+Package: com.nx.appcardlite
+Version: 2.3FT
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 972
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.nx.appcardlite_2.3FT_iphoneos-arm64(1).deb
+Size: 194180
+MD5sum: eaabde008f6d01ab624a95a627c12f34
+SHA1: 5fad1a2317b8bc1f6d700dbce7d52fcff2adcce9
+SHA256: 364a8f370c5d216172b314c2d2a4128c196c1cf00b31a99733e7c67397e00c7b
+Section: 分屏＆小窗
+Description: 国人开发，体验极佳！吊打 o2，即触即发！呼出方式详见vcr
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
+Name: App Lecard（小窗）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
+
 Package: com.stbz.checkproxybypass-rootless
 Version: 0.1.1-2
 Architecture: iphoneos-arm64
