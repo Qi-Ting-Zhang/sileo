@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/appcard/2.png",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/appcard/tongyong.png",
     "tintColor": "#1DBBFF",
     "minVersion": "0.3",
     "tabs": [
@@ -24,28 +24,17 @@
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/3.png"
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/6.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/4.png"
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/5.png"
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/.png"
                         }
                     ]
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 16
                 }
             ]
         },
