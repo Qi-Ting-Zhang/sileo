@@ -44,6 +44,17 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "2.3FT",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "提升系统稳定性，优化系统流畅度",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "2.2.8",
                     "useBoldText": true,
                     "useBottomMargin": false
