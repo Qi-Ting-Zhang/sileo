@@ -946,6 +946,23 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
 Name: App Lecard（小窗）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
 
+Package: com.stbz.amonglock
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/com.stbz.amonglock_1.1.6_iphoneos-arm64.deb
+Size: 20865660
+MD5sum: 391babf4300f2ffb370106d3ab6898ce
+SHA1: e56e56c52d4532c78c989bab1f367c146052e546
+SHA256: 3a9d6a1ef50f6fde348fd0cbdfebe0d8f1774857e50216298de3e3504f78b556
+Section: Tweaks
+Description: 您不是此设备的所有者。You were not the owner of this device.
+Author: Litten
+Icon: https://repo.cypwn.xyz/packages/AmongLock-Rootless/icon.png
+Name: AmongLock 炫酷锁屏
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/amonglock.json
+
 Package: com.stbz.checkproxybypass-rootless
 Version: 0.1.1-2
 Architecture: iphoneos-arm64
