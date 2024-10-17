@@ -1000,15 +1000,15 @@ Version: 2.0-6+debug
 Architecture: iphoneos-arm64
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: ./debs/mineland.deb
-Size: 53684
-MD5sum: cd8bd7a3d3c15ee83cb99a597172eefb
-SHA1: 53b3da55f154839a66aeb378d73ec0c35698aef9
-SHA256: 1e01fc5e33073793b5bfb16716cc96811459afcbaabf2845dfcac5e2d276dde2
+Filename: ./debs/com.stbz.mineland_2.0-6+debug_iphoneos-arm64.deb
+Size: 53716
+MD5sum: cf1bf43dda82ec8c2c438b99f87dd382
+SHA1: 1aef963b5dcb9141d27be6bbaca589782472cd6a
+SHA256: eaede1ab3ecb439d0093d1d1c1eaccb33f1c6307dae2a9e22e02d38ce21359bc
 Section: 屎上雕花
 Description: 药丸爆改感叹号。 仅支持16系统，对灵动岛进行调整，如透明度位置或比例，非灵动岛机型可强开灵动岛Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
 Author: 34306, KhanhDuyTran
-Icon: https://chinesebuilding.club/pic/cydia.png
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/mineland.png
 Name: Mineland 什么破岛
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/mineland.json
 
