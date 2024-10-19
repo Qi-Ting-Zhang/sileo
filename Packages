@@ -114,6 +114,21 @@ Description: Floating app buttons anywhere you want
 Author: 0xkuj
 Name: Bubble Apps
 
+Package: com.0xkuj.filzadirprobe
+Version: 1.6.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/com.0xkuj.filzadirprobe_1.6.0_iphoneos-arm64.deb
+Size: 56536
+MD5sum: 6e806ed8889bc5c2579af6c2ed41fb8b
+SHA1: 0bb29cc79bc4b72d32f9dc417d05f356ac0bae17
+SHA256: 23ecfa9dc70c65bb0c19d316a553b1958b30ce7b7d089477b60c2d4981ebdc52
+Section: Tweaks
+Description: Filza Extension To Calculate Folders Inside Your Filesystem
+Author: 0xkuj
+Name: FilzaDirProbe
+
 Package: com.25mao.wcplugins
 Version: 0.1-2
 Architecture: iphoneos-arm
