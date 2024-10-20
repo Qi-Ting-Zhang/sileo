@@ -1,0 +1,51 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "插件包路径（/var/jb/Library/PreferenceBundles/AmongLockPrefs.bundle）下可自行更改音视频素材，以下仅供参考</br> 密码正确声音命名passcodeDisappeared.mp3 </br>密码错误声音命名wrongPasscode.mp3</br>密码出现声音命名passcodeAppeared.mp3</br> 背景视频命名background.mp4</br>密码错误视频命名ejectioniphone.mp4",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "提升系统稳定性，优化系统流畅度",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ]
+}
