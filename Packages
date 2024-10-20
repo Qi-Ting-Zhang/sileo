@@ -451,6 +451,24 @@ Icon: file:////jb/Library/PreferenceBundles/wallpaperbundle.bundle/iphone@2x.png
 Name: 来电秀
 Sponsor: mywall
 
+Package: com.dl.lyric-rootless
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Mika
+Installed-Size: 844
+Depends: mobilesubstrate
+Filename: ./debs/com.dl.lyric-rootless_3.0_iphoneos-arm64(2).deb
+Size: 116080
+MD5sum: dc470ce1448206e1dfe1cb294ad7419a
+SHA1: 046fe1cf0d19440ad5c3e73e7cbb899fa65114a8
+SHA256: c2c37ebb3695730e0152d931168c6f042dc2d3608de870260f55e658d5400d77
+Section: 你的iPhone不止于此
+Description: 适配任何带锁屏歌词的应用！
+Author: Mika
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/桌面歌词.png
+Name: 桌面歌词
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/桌面歌词.json
+
 Package: com.hitori.misaki
 Version: 2.0.9
 Architecture: iphoneos-arm64
@@ -827,6 +845,24 @@ Section: Tweaks
 Description: Gestures
 Author: SquidForce
 Name: SquidGesture Pro
+
+Package: com.misakaproject.frendacc.stbz
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sugiuta
+Installed-Size: 4332
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./debs/com.misakaproject.frendacc.stbz_1.0.1_iphoneos-ar.deb
+Size: 1344772
+MD5sum: 050b8b37dd9d8d7053c5ff00d8004f26
+SHA1: eb477e782e6bcc8daafda6ab7784e8221e50250f
+SHA256: d00dd156d2049b7c8a4ea1b07a81dc487b0787c6639368b137b9dee645f7a2b6
+Section: 你的iPhone不止于此
+Description: 内置两套控制中心主题及背景图片模糊FrendaCC is custumize CC on Jailbroken devices for iOS15 & 16.
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/images/icons/frendacc.png
+Name: FrendaCC （控制中心）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/frendacc.json
 
 Package: com.mtac.lynxtwo
 Version: 2.5.3
