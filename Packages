@@ -457,17 +457,17 @@ Architecture: iphoneos-arm64
 Maintainer: Mika
 Installed-Size: 844
 Depends: mobilesubstrate
-Filename: ./debs/com.dl.lyric-rootless_3.0_iphoneos-arm64(2).deb
-Size: 116080
-MD5sum: dc470ce1448206e1dfe1cb294ad7419a
-SHA1: 046fe1cf0d19440ad5c3e73e7cbb899fa65114a8
-SHA256: c2c37ebb3695730e0152d931168c6f042dc2d3608de870260f55e658d5400d77
+Filename: ./debs/com.dl.lyric-rootless_3.0_iphoneos-arm64.deb
+Size: 116404
+MD5sum: d4756692cffd908b0c80e88179d3a899
+SHA1: 74e2061b82ebf3ae3e31d065ebef433ea347d9ed
+SHA256: 8f72ecd89012ec07b09c11d3d4b31427a4d762f6a1919a099cad8e7841e08344
 Section: 你的iPhone不止于此
 Description: 适配任何带锁屏歌词的应用！
 Author: Mika
-Icon: https://qi-ting-zhang.github.io/sileo/images/icon/桌面歌词.png
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/zhuomiangeci.png
 Name: 桌面歌词
-Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/桌面歌词.json
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/zhuomiangeci.json
 
 Package: com.hitori.misaki
 Version: 2.0.9
