@@ -1,0 +1,51 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "一键挂载音乐岛录屏岛，需配合真皮多巴胺",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/yinyuedaolupingdao/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/yinyuedaolupingdao/.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "6.6.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "提升系统稳定性，优化系统流畅度",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ]
+}
