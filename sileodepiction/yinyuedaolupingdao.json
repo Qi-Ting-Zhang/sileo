@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "一键挂载音乐岛录屏岛，需配合真皮多巴胺。转他个昏天黑地，挂载以下路径，重启用户空间，素材自行更换</br>左边录屏/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca</br>右边录屏/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca</br>音乐旋转/System/Library/PrivateFrameworks/MediaControl s.framework/ActivityArtwork.ca</br>",
+                    "markdown": "一键挂载音乐岛录屏岛，需配合真皮多巴胺。转他个昏天黑地，挂载以下路径，重启用户空间，素材自行更换</br>左边录屏/Applications/ReplayKitAngel.app/sc_compact_leading_v2-D73.ca</br>右边录屏/Applications/ReplayKitAngel.app/sc_compact_minimal_v2-D73.ca</br>音乐旋转/System/Library/PrivateFrameworks/MediaControls.framework/ActivityArtwork.ca</br>",
                     "useRawFormat": true
                 },
                 {
