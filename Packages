@@ -1461,11 +1461,11 @@ Package: com.yinyuedao.lupingdao
 Version: 6.6.6
 Architecture: iphoneos-arm64
 Maintainer: @赵东来
-Filename: ./debs/岛.deb
-Size: 1896408
-MD5sum: 66b933cf79c054353098f50aec82effd
-SHA1: d70f5531f3c6a427015a44a6d30a3f14146e4106
-SHA256: 9f3d528b5596dede764bf724e62e404cd300d5a7e279c502ffd849bfa7e7d958
+Filename: ./debs/岛 (2).deb
+Size: 95836
+MD5sum: 8150071f33a852f7bb22e92f14038c42
+SHA1: 426691daef9797eceeaa721bac1fb71737074312
+SHA256: 871fa0dac74cdc8e0f99b3edd586344f2a8f9719d079c4d150067d0170c7542e
 Section: 你的iPhone不止于此
 Description: 一键安装挂载音乐岛录屏岛，需配合真皮多巴胺
 Author: 把杆抬起来
