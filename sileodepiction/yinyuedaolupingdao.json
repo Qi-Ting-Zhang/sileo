@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "一键挂载音乐岛录屏岛，需配合真皮多巴胺。转他个昏天黑地，★下载完插件，直接重启用户空间即可生效。素材自行更换</br>图2代码在main.caml",
+                    "markdown": "一键挂载音乐岛录屏岛，需配合真皮多巴胺。</br>★转他个昏天黑地，下载完插件，直接重启用户空间即可生效。素材自行更换。图2代码在main.caml",
                     "useRawFormat": true
                 },
                 {
