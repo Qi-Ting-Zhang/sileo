@@ -1601,6 +1601,25 @@ Description: 微信净化小丑功能，需要配合微信净化2.2-3版本使�
 Author: Netskao
 Name: 微信净化小丑功能
 
+Package: stbz.com.teslaman3092.popoutbuttons
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: tesla_man <computerman939+POBsupport@gmail.com>
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/stbz.com.teslaman3092.popoutbuttons_1.0.0_iphoneo.deb
+Size: 54436
+MD5sum: 5d3d19cfaee8a85ab71b0aefd368cbb1
+SHA1: 5e27a6d36ecf2604754e0a3522de192a4a195497
+SHA256: 1411cb57c811146fdcbb2e1cc502c8e431278a98c3eb40c29fc4e5424b983413
+Section: 你的iPhone不止于此
+Description: 仿ios18固体按键反馈动画并应用于实体按键动画 PopOutButtons bring the iOS 18 buttons popouts to ios 13-17
+Tag: compatible_min::ios13.0
+Author: tesla_man <computerman939+POBsupport@gmail.com>
+Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
+Name: PopOutButtons （实体按键动画）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/popoutbuttons.json
+
 Package: stbz.uncar
 Version: 0.0.1-6
 Architecture: iphoneos-arm64
