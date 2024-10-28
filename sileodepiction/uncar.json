@@ -21,6 +21,17 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "0.0.1-8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增一个脚本，用于在巨魔、越狱filza中解包car",
+                    "useRawFormat": true
+                }
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "0.0.1-7",
                     "useBoldText": true,
                     "useBottomMargin": false

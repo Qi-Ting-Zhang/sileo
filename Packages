@@ -1656,6 +1656,25 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/uncar.png
 Name: uncar
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/uncar.json
 
+Package: stbz.uncar
+Version: 0.0.1-8
+Architecture: iphoneos-arm64
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 132
+Filename: ./debs/stbz.uncar_0.0.1-8_iphoneos-arm64.deb
+Size: 7172
+MD5sum: a0ddfff3ce818082eaca68c3b4db9f55
+SHA1: d104459ddb36cc6e52585694aa79a1c731c08bb1
+SHA256: 1a2b6ac6f8537e66587b6a904d18e42bb0ce6728ae19fcdc4440895728cde519
+Section: System
+Description: 从封包Asset.car文件中提取美化素材   Extract Asset.car files from bundles
+ Command line tool that extracts png images from Asset.car files
+Tag: role::hacker
+Author: Elias Limneos
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/uncar.png
+Name: uncar
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/uncar.json
+
 Package: stbz.xyz.cypwn.spy2
 Version: 1.3-1
 Architecture: iphoneos-arm64
