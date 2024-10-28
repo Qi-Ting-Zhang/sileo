@@ -1637,3 +1637,39 @@ Tag: role::hacker
 Author: Elias Limneos
 Name: uncar
 
+Package: stbz.uncar
+Version: 0.0.1-7
+Architecture: iphoneos-arm64
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Installed-Size: 132
+Filename: ./debs/stbz.uncar_0.0.1-7_iphoneos-arm64.deb
+Size: 7036
+MD5sum: 56fc5078884da8e017b34061d473ae82
+SHA1: 5a76696356f6d5089dcc77d94623a09136cd75d5
+SHA256: 4cf73eb48f79e47c34b9166ad889ac7a84874c8e236f8c0c8bcccdb19bd279e6
+Section: System
+Description: 从封包Asset.car文件中提取美化素材   Extract Asset.car files from bundles
+ Command line tool that extracts png images from Asset.car files
+Tag: role::hacker
+Author: Elias Limneos
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/uncar.png
+Name: uncar
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/uncar.json
+
+Package: stbz.xyz.cypwn.spy2
+Version: 1.3-1
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.opa334.ccsupport, ws.hbang.common, cy+cpu.arm64v8 | oldabi-xina | oldabi
+Filename: ./debs/stbz.xyz.cypwn.spy2_1.3-1_iphoneos-arm64.deb
+Size: 1080548
+MD5sum: 4f1130097d98cd33a9d48305361067ac
+SHA1: fdf35ac0feee4fbdc71b6462588ce99141819ada
+SHA256: 2991aeab732afde9ff1e6ec4d221c013499a81cee4b87c4d56f15731f8d9e3b9
+Section: Tweaks
+Description: 间谍模式。追踪谁在窥探你的手机，他们在看什么，等等。Spy mode. Track who snoops on your phone, what they are looking at, and much more.
+Author: elias
+Icon: https://repo.cypwn.xyz/packages/Spy2-Rootless/icon.png
+Name: Spy 2 （以眼还眼👀）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/spy.json
+
