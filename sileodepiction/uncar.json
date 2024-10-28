@@ -21,6 +21,17 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "0.0.1-9",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "解包并提取气泡文件便于直接使用",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "0.0.1-8",
                     "useBoldText": true,
                     "useBottomMargin": false
