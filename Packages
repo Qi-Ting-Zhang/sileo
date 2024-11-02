@@ -1013,6 +1013,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
 Name: App Lecard（小窗）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
 
+Package: com.nx.appcardlite
+Version: 3.1.0
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1076
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.nx.appcardlite_3.1.0_iphoneos-arm64.deb
+Size: 231348
+MD5sum: 21607b6f884f3b59eaf4ecb6838a1c7c
+SHA1: b570796c1744145af420378a4fb6e5ce3f0ea0c4
+SHA256: 83ba900a717799634186bae6978d65a11f7dce6940cee67ae22d3d60ee7c1ee6
+Section: 分屏＆小窗
+Description: 国人开发，体验极佳！吊打 o2，即触即发！呼出方式详见vcr
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
+Name: App Lecard（小窗）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
+
 Package: com.stbz.amonglock
 Version: 1.1.6
 Architecture: iphoneos-arm64

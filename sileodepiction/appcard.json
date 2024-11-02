@@ -44,6 +44,17 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "3.1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "0️⃣感谢大佬无私遗漏，祝你吃好果汁1️⃣新增一个app圆盘，随原手势一起呼出，点拨至圆盘中心可固定并切换app。</br>2️⃣竖屏小窗裁切上下白色画面</br>>3️⃣新增一个小横条长按可移动位置；新增长按边框可单指放大缩小</br>圆盘app可能会错乱",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "2.3FT",
                     "useBoldText": true,
                     "useBottomMargin": false
