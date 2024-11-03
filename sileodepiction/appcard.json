@@ -49,6 +49,12 @@
             "tabname": "更新日志",
             "views": [
                 {
+                     "text":"点击查看vcr",
+                     "action":"https://v.douyin.com/iSEndxjh/",
+                     "openExternal": 1,
+                     "class":"DepictionButtonView"
+                 },    
+                {
                     "class": "DepictionSubheaderView",
                     "title": "3.1.0",
                     "useBoldText": true,
