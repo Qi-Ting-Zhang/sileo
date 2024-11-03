@@ -9,6 +9,12 @@
             "tabname": "描述",
             "views": [
                 {
+                     "text":"点击查看vcr",
+                     "action":"https://v.douyin.com/iSEndxjh/ 8@0.com :4pm",
+                     "openExternal": 1,
+                     "class":"DepictionButtonView"
+                 },      
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "国人开发，体验极佳！吊打o2，即触即发！呼出方式详见vcr</br>[点击查看视频教程](5- 长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/iSEndxjh/ 8@0.com :4pm)</br>### 功能：黑色手势区域</br>1. 屏幕视角左侧边缘下1/5，右侧边缘下1/3快拉打开或关闭浮窗，长按1s拖动改变占比（识别不灵敏，换手指多试试）。</br>2. 浮窗底部快速上滑关闭浮窗。</br>3. 横屏小键盘上防长按1s后左右滑动拖拽。图示键盘上放黑色部分。</br>4. 小屏脑门和下巴都没了，操作区域底部宽度降低了。</br>5. 底部左右滑动，切换 app。</br>6. 底部长按不松手拖动改变窗口位置。</br>7. 底部长按后松手可双指缩放，单指移动，双击恢复。- 双指上、右、下边缘也可缩放，难度自适应。</br>8. 底部上拉一定距离震动后松手，进入 app 选择界面：</br></br>  1) 左侧 Mirror 为已添加，点击图标可置顶 app。</br>  2) User System 为安装的 app，点击添加或取消，左侧 Mirror 窗口会增减 app。</br>  3) 快速右滑关闭 app 选择窗口，慢速不让退。",
                     "useRawFormat": true
