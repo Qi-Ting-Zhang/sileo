@@ -10,10 +10,15 @@
             "views": [
                 {
                      "text":"点击查看vcr",
-                     "action":"https://www.iesdouyin.com/share/user/MS4wLjABAAAAHeKAFgd4ZHxPapG5maNlb22I2u_bGuVXcW-REyebYJjxjiFSGwo8qoz1n2ouuiyH?iid=MS4wLjABAAAAMAwOeL7c8IEysB1ZaYqtJq6YVhz750WJp0eW-t43sok&life_share_ext=%7B%22life_share_id%22:%22f1b800cd830b4af3991050363b30bc63%22,%22enter_from%22:%22others_homepage%22,%22personal_enter_method%22:%22click_left_corner%22,%22personal_enter_page%22:%22chat%22,%22from_user_id%22:63725572985%7D&utm_source=copy&from_ssr=1&tt_from=copy&sec_uid=MS4wLjABAAAAHeKAFgd4ZHxPapG5maNlb22I2u_bGuVXcW-REyebYJjxjiFSGwo8qoz1n2ouuiyH&utm_medium=ios&with_sec_did=1&app=aweme&u_code=igakej37&from_aid=1128&did=MS4wLjABAAAAyOqIswfeb4xghngNsAl_BbpScGOxHKYFqjnXvwa3GmeWBbWFcadUTyL_KJ47Ham6&utm_campaign=client_share&activity_info=%7B%22social_share_time%22:%221730629815%22,%22social_author_id%22:%227406706131727287355%22,%22social_share_id%22:%2263725572985_1730629815%22,%22social_share_user_id%22:%2263725572985%22%7D",
+                     "action":"https://v.douyin.com/iSEndxjh/",
                      "openExternal": 1,
                      "class":"DepictionButtonView"
-                 },      
+                 }, 
+                {
+    "class": "DepictionMarkdownView",
+    "markdown": "[**点击查看视频教程**](https://v.douyin.com/iSEndxjh/)",
+    "useRawFormat": true
+},     
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "国人开发，体验极佳！吊打o2，即触即发！呼出方式详见vcr</br>### 功能：黑色手势区域</br>1. 屏幕视角左侧边缘下1/5，右侧边缘下1/3快拉打开或关闭浮窗，长按1s拖动改变占比（识别不灵敏，换手指多试试）。</br>2. 浮窗底部快速上滑关闭浮窗。</br>3. 横屏小键盘上防长按1s后左右滑动拖拽。图示键盘上放黑色部分。</br>4. 小屏脑门和下巴都没了，操作区域底部宽度降低了。</br>5. 底部左右滑动，切换 app。</br>6. 底部长按不松手拖动改变窗口位置。</br>7. 底部长按后松手可双指缩放，单指移动，双击恢复。- 双指上、右、下边缘也可缩放，难度自适应。</br>8. 底部上拉一定距离震动后松手，进入 app 选择界面：</br></br>  1) 左侧 Mirror 为已添加，点击图标可置顶 app。</br>  2) User System 为安装的 app，点击添加或取消，左侧 Mirror 窗口会增减 app。</br>  3) 快速右滑关闭 app 选择窗口，慢速不让退。",
