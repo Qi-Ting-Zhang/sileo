@@ -1729,3 +1729,20 @@ Icon: https://repo.cypwn.xyz/packages/Spy2-Rootless/icon.png
 Name: Spy 2 （以眼还眼👀）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/spy.json
 
+Package: zp.zfolder.rootless
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zp.zfolder.rootless_1.0.4_iphoneos-arm64.deb
+Size: 17784
+MD5sum: 310b737ecd8953660c831f8909a3c321
+SHA1: 7647c5c995eb2766326e3e14c140924526ee9488
+SHA256: 4311db5cbc7a5d1e9606113be3a88d4bd17437cfb2227c066a13da43627cd342
+Section: Tweaks
+Description: 文件夹颜值 ? 美 : 丑
+Author: zqbb
+Name: zFolder
+Sileodepiction: https://rootless.002599.xyz/web/zp.zfolder.rootless
+
