@@ -43,37 +43,6 @@
                     ]
                 }
             ]
-        },{
-            "class": "DepictionStackView",
-            "tabname": "版本前瞻",
-            "views": [
-                {
-                     "text":"点击查看vcr",
-                     "action":"https://v.douyin.com/iSEndxjh/",
-                     "openExternal": 1,
-                     "class":"DepictionButtonView"
-                 },     
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "⚠️以下仅供参考，具体使用请看更新日志⚠️",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{160, 346.4533333333333}",
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/01.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/02.png"
-                        }
-                    ]
-                }
-            ]
         },
         {
             "class": "DepictionStackView",
@@ -128,6 +97,38 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "1.添加了浮窗阴影</br>2.优化了动画细节</br>3.改进了缩放移动手势</br>4.添加横屏键盘移动",
                     "useRawFormat": true
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "版本前瞻",
+            "views": [
+                {
+                     "text":"点击查看vcr",
+                     "action":"https://v.douyin.com/iSEndxjh/",
+                     "openExternal": 1,
+                     "class":"DepictionButtonView"
+                 },     
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "⚠️狗6摆清自己的位置，找个傀儡作者就来开团战带节奏，格局不要这么小，比你好用就承认，功能随便你抄，比如自适应窗口大小⚠️",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/02.png"
+                        }
+                    ]
                 }
             ]
         }
