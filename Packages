@@ -1523,6 +1523,25 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/yinyuedaolupingdao.png
 Name: 音乐岛录屏岛
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/yinyuedaolupingdao.json
 
+Package: falai.xc.lzsxcl.o2pro
+Version: 13.0
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 18848
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/falai.xc.lzsxcl.o2pro_13.0_iphoneos-arm64.deb
+Size: 6132844
+MD5sum: 7143349f7e8adfe55a5d9d8716313fc4
+SHA1: 776b12d68123f6d25388b5b28b86951fb487fd3f
+SHA256: 1d431ca840ad4a87dec8feafc8fb1fde5d8a4d20b6f3424e996b674eecae2ebb
+Section: Tweaks
+Description: 狗6已被潘宏教育，来电视频现已免费开放。〈增肌壮骨〉
+Author: lzsxcl
+Depiction: https://lzsxcl.github.io/repo/depictions/?p=xc.lzsxcl.o2
+Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
+Name: o2Pro
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/che.json
+
 Package: jp.dcsyhi.zetsu
 Version: 1.5
 Architecture: iphoneos-arm64

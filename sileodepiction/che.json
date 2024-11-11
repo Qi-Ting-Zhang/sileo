@@ -1,0 +1,34 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/che.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "我看看怎么个事",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "狗6已被潘宏制服，来电视频现已免费开放。（o2Split貌似会导致胖佬通知上岛无法获取应用图标）",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/c.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/appcard/h.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
