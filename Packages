@@ -352,6 +352,21 @@ Description: MenuSupport简体中文，由贾队长提供汉化
 Author: 祁同伟
 Name: MenuSupport简体中文包
 
+Package: com.appaze3.cn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.appaze3.cn_1.0_iphoneos-arm64.deb
+Size: 7552
+MD5sum: f55164538db8b8e0dca533a7b0224a7e
+SHA1: 7275c8469130160a463d9505ad7aad233e7df842
+SHA256: 40bf033d92772a371ad815533b6b6a0707f7b8e2e4b8ab48f3e2c571123b5c26
+Section: 汉化
+Description: Appaze 3 简体中文包。
+Author: 妖刀
+Name: Appaze 3 简体中文包
+
 Package: com.appku.wechat
 Version: 1.5-1
 Architecture: iphoneos-arm64
@@ -600,11 +615,11 @@ Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Depends: mobilesubstrate
 Filename: ./debs/com.hk.zetsu.cn.rl_1.6.1_iphoneos-arm64.deb
-Size: 12958
-MD5sum: 6a3f7af48fc88b6d67ef75cfb6b443ea
-SHA1: b6e85cf200d7e3b807c4c9c3336454ed6bbba859
-SHA256: 56c8a71e206422286452c741680f2bacb2f8380b0130184a6d27adf290956f7c
-Section: 嗨-汉化
+Size: 12528
+MD5sum: 2c3833d9a8f4a52317fcd2f0fda63172
+SHA1: 3e86cb78c929bf44e609993d07a4300890639557
+SHA256: da502beaf84abef2df584ec2ff89be600929a0dcccbfaf2cd036f09705189954
+Section: 汉化
 Description: Zetsu 简体中文包(rootless)。
 Author: 妖刀
 Name: Zetsu 简体中文包(rootless)
@@ -1669,6 +1684,27 @@ Section: 微信插件
 Description: 微信净化小丑功能，需要配合微信净化2.2-3版本使用，微信聊天界面长按文本对话Joker选项，修改聊天文本。
 Author: Netskao
 Name: 微信净化小丑功能
+
+Package: stbz.com.anthopak.appaze3
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Installed-Size: 1802
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware (>= 15.0)
+Conflicts: com.anthopak.appaze, com.anthopak.appaze2
+Filename: ./debs/stbz.com.anthopak.appaze3_1.0_iphoneos-arm64.deb
+Size: 864036
+MD5sum: bda030ef5a1e9ab0c0315b086883451d
+SHA1: cbb385ff4037ab0f047cd286436b5f636dfee7f2
+SHA256: 36e9d0ca8713d9541c799da1157c2ee0fdab9d04d2abcb73d710aa354db5e43e
+Section: 你的iPhone不止于此
+Description: Customize up to 30 settings for each app, in a clean and friendly UI, easily accessible!
+Tag: cydia::commercial, compatible_min::ios15.0
+Author: AnthoPak <anthopakdev@gmail.com>
+Depiction: https://chariz.com/buy/appaze3
+Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
+Name: Appaze 3
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appaze3.json
 
 Package: stbz.com.teslaman3092.popoutbuttons
 Version: 1.0.0
