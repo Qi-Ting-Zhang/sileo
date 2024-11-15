@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>添加软件源</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #333;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 50px;
+        }
+
+        .follow-button {
+            display: inline-block;
+            text-align: center;
+            padding: 10px 15px;
+            margin: 10px 0;
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            border-radius: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            backdrop-filter: blur(10px);
+            text-decoration: none;
+            width: auto;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .follow-button:hover {
+            transform: scale(1.05); 
+            box-shadow: 0px 4px 20px rgba(255, 255, 255, 0.5);
+        }
+
+        .container {
+            margin-top: 50px;
+            text-align: center;
+        }
+
+        .legend {
+            font-size: 16px;
+            color: #ddd;
+            margin-top: 20px;
+        }
+
+        .audio-controls button {
+            background-color: #444;
+            color: #fff;
+            border: none;
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .audio-controls button:hover {
+            background-color: #555;
+        }
+
+        p {
+            color: #ff0000;
+            font-size: 14px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>jdzsc</h1>
+    
+    <div class="container">
+        <p class="legend">添加软件源到 Sileo <span class="fa fa-hand-o-down"></span></p>
+        <a href="sileo://source/https://qi-ting-zhang.github.io/sileo/" class="follow-button">添加到 Sileo</a>
+
+        <p class="legend">添加祁厅长微信安排正畜级 <span class="fa fa-hand-o-down"></span></p>
+        <a href="https://qr61.cn/oMuCi0/qHe9QuO" class="follow-button">胜天半子</a>
+
+        <p class="legend">关注贾队长卫视 <span class="fa fa-hand-o-down"></span></p>
+        <a href="https://weixin.qq.com/sph/AhrrmuHXp" class="follow-button">太想进步了</a>
+
+        <p class="legend"></p>
+    </div>
+
+    <!-- 背景音乐 -->
+    <audio id="background-music" loop>
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+        您的浏览器不支持音频元素。
+    </audio>
+
+    <!-- 播放和暂停按钮 -->
+    <div class="audio-controls">
+        <button type="button" onclick="document.getElementById('background-music').play()">播放</button>
+        <button type="button" onclick="document.getElementById('background-music').pause()">暂停</button>
+    </div>
+
+    <p style="color:#ff0000;">--- 不要为了越狱放弃升级的乐趣！ ---</p>
+
+</body>
+</html>
