@@ -485,6 +485,39 @@ a.bottom-text-w3ls {
     border-radius: 50%;
     transition: transform 0.3s;
 }
+/* 初始状态，按钮左侧图标 */
+#toggle1::before {
+    background-image: url('../images/html/qtw.png'); /* 替换为实际播放图标 */
+}
+
+#toggle2::before {
+    background-image: url('../images/html/cqq.png');
+}
+
+#toggle3::before {
+    background-image: url('play_icon.png');
+}
+
+/* 按钮被激活时，切换图标 */
+.on#toggle1::before {
+    background-image: url('../images/html/qtw.png'); /* 替换为实际暂停图标 */
+    transform: translateX(26px);
+}
+
+.on#toggle2::before {
+    background-image: url('../images/html/cqq.png');
+    transform: translateX(26px);
+}
+
+.on#toggle3::before {
+    background-image: url('pause_icon.png');
+    transform: translateX(26px);
+}
+
+/* 按钮激活时的背景色 */
+.on {
+    background-color: #4CAF50;
+}
 
 .toggle.on {
     background-color: #4caf50;
