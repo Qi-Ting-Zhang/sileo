@@ -446,21 +446,13 @@ a.bottom-text-w3ls {
     transition: 0.5s all;
 }
 
-/* 让 flex-container 使用 flex 布局 */
-.flex-container {
-    display: flex;
-    flex-direction: row;      
-    justify-content: center;  
-    width: 100%;              
-    gap: 10px;                      /* 设置元素之间的间距 */
-}
 .toggle-container {
     display: flex;
     align-items: center;
     cursor: pointer;
     user-select: none;
-    justify-content: center;  
-    width: auto;              
+    justify-content: center;  /* 确保按钮居中 */
+    width: auto;              /* 避免占用过大空间 */
 }
 
 .toggle {
@@ -556,7 +548,7 @@ a.bottom-text-w3ls {
     }
 
     .top-content-style {
-        padding: 2em 1em 4em;
+        padding: 2vm 1vm 4vm;
     }
 
     .copyright h2 {
