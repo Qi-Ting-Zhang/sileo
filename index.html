@@ -36,33 +36,28 @@
 
 		</br>
 		       <!-- 背景音乐 -->
-            <audio id="background-music" loop>
-        <source src="jdz.mp3" type="audio/mpeg">
-        您的浏览器不支持音频元素。
-    </audio>
-				         <audio id="music1" loop>
-        <source src="bgm.mp3" type="audio/mpeg">
+            <audio id="music0" loop>
+        <source src="./images/html/jdz.mp3" type="audio/mpeg">
         您的浏览器不支持音频元素。
     </audio>
 
         <!-- 播放和暂停按钮 -->
     <div class="flex-container">
-        <div class="toggle-container" onclick="toggleMusic()" tabindex="0" role="switch" aria-checked="false" id="switch">
-            <div id="toggle" class="toggle"></div>
+        <div class="toggle-container" onclick="toggleSwitch(0)" tabindex="0" role="switch" aria-checked="false" id="switch0">
+            <div id="toggle0" class="toggle"></div>
         <!--<div id="label" class="label">暂停</div>-->
         </div>
-        <div class="toggle-container" onclick="toggleSwitch(1)" tabindex="0" role="switch1" aria-checked="false" id="switch1">
+        <div class="toggle-container" onclick="toggleSwitch(1)" tabindex="0" role="switch" aria-checked="false" id="switch1">
 			<div id="toggle1" class="toggle"></div>
 		<!--<div id="label1" class="label">暂停</div>-->
 		</div>
-		<audio id="music6" loop><source  src="bgm.mp3" type="audio/mpeg"></audio>
-		<div class="toggle-container" onclick="toggleSwitch(2)" tabindex="0" role="switch1" aria-checked="false" id="switch2">
+		<audio id="music1" loop><source  src="bgm.mp3" type="audio/mpeg">您的浏览器不支持音频元素。</audio>
+		<div class="toggle-container" onclick="toggleSwitch(2)" tabindex="0" role="switch" aria-checked="false" id="switch2">
 			<div id="toggle2" class="toggle"></div>
 		<!--<div id="label1" class="label">暂停</div>-->
 		</div>
-		<audio id="music2" loop><source src="https://raw.githubusercontent.com/Qi-Ting-Zhang/sileo/refs/heads/main/images/html/cqq.mp3" type="audio/mpeg">您的浏览器不支持音频元素。</audio>		
+		<audio id="music2" loop><source src="./images/html/cqq.mp3" type="audio/mpeg">您的浏览器不支持音频元素。</audio>		
     </div>
-	<script src="0.js"></script>
 	<script src="1.js"></script>
     </div>
 	</body>
