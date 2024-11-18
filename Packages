@@ -1538,6 +1538,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/yinyuedaolupingdao.png
 Name: 音乐岛录屏岛
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/yinyuedaolupingdao.json
 
+Package: de.finngaida.daynightswitch
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Finn Gaida
+Installed-Size: 608
+Depends: mobilesubstrate
+Filename: ./debs/日月星辰.deb
+Size: 60792
+MD5sum: d151b811bd351ee6a097750f091175c7
+SHA1: 1d29c7afba7a9fd26a212f275f84912efaba1762
+SHA256: 8156fb3c1c02656f0aa47b1abb1b5e7e3dcdb6322b7a6171372df415c798c34d
+Section: 你的iPhone不止于此
+Description: 为您的开关添加一些风格动画，bug很多。。。Add some style to your switches
+Author: Finn Gaida
+Icon: https://qi-ting-zhang.github.io/sileo/images/riyuexingchen.png
+Name: 日月星辰开关
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/riyuexingchen.json
+
 Package: falai.xc.lzsxcl.o2pro
 Version: 13.0
 Architecture: iphoneos-arm64
