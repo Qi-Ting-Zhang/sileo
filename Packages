@@ -861,6 +861,24 @@ Description: Gestures
 Author: SquidForce
 Name: SquidGesture Pro
 
+Package: com.lecard.wuyu
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1884
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.lecard.wuyu_1.2.1_iphoneos-arm64 (1).deb
+Size: 388460
+MD5sum: 358bdca71d1fc7b5ef476754d965aa9b
+SHA1: 5a43d1b022253dc33b38760e17d164157692f8dd
+SHA256: 7f1c6ac21b700bcc4acebea2b9eb79959709ba5f726aecae144d365cf6335a65
+Section: 分屏＆小窗
+Description: 国人开发，体验极佳！吊打 o2，即触即发！呼出方式详见vcr
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
+Name: App Lecard（小窗）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
+
 Package: com.misakaproject.frendacc.stbz
 Version: 1.0.1
 Architecture: iphoneos-arm64
