@@ -60,7 +60,18 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "1.2.0",
+                    "title": "6.6.6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "插件已终结，且用且珍惜</br>我轻轻的走正如我轻轻的来",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.2.1",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },

@@ -879,6 +879,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
 Name: App Lecard（小窗）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
 
+Package: com.lecard.wuyu
+Version: 6.6.6
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.lecard.wuyu_6.6.6_iphoneos-arm64.deb
+Size: 409076
+MD5sum: 857e7bea1a972d310060294e6d6cc702
+SHA1: 117cf20c88039dd50f6a2eb1a29faeebca676472
+SHA256: d7220f3ace93a24c6065232cab7ed3ea244ad9f0a8d7ea05e4fc3f53783369a3
+Section: 分屏＆小窗
+Description: 国人开发，体验极佳！吊打 o2，即触即发！呼出方式详见vcr
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
+Name: App Lecard（小窗）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
+
 Package: com.misakaproject.frendacc.stbz
 Version: 1.0.1
 Architecture: iphoneos-arm64
