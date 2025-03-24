@@ -1,0 +1,35 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text": "锤子源™",
+                    "action": "https://cydia.dumpapp.com/",
+                    "openExternal": 1,
+                    "tintColor": "#75F84B",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "## 狗哥YYDS\n- 1:1 复刻“微信净化”，保留红包功能\n- 与“微信净化”冲突"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.0.6\n- 提升系统稳定性，优化系统流畅度</br>- 修复部分BUG</br>- 修复插件入口不显示问题</br>- 文字转语音普通版免key，免费使用</br>- （¥18）新增文字转语音，高级版（内含100+语音）"
+                }
+            ]
+        }
+    ]
+}

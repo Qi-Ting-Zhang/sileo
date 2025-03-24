@@ -1,0 +1,85 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text":"点击加入作者群",
+                    "action":"https://t.me/wjrlj",
+                    "openExternal": 1,
+"tintColor": "#ff8700",                   "class":"DepictionButtonView"
+                },     
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "🌟拒绝一切建议，只会添加我需要的。</br>🌟随缘更新，实在没事做了会更新一次。</br>🌟功能我用着正常就行，不要和我反馈说这个不正常那个不正常的。本来就是免费的东西还要什么三轮车，另外篡改我插件进行盈利的你没有妈妈！！你妈死了！</br>🌟由于项目特殊性及卖定制V的不良人员，不考虑开源，不要私信问我了。",
+                    "useRawFormat": true
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "text":"点击加入作者群",
+                    "action":"https://t.me/wjrlj",
+                    "openExternal": 1,
+"tintColor": "#000000",                    "class":"DepictionButtonView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.6\n1.应某位打赏宝子的需求添加更多的自定义文本\n2.添加占位符，输入框圆角\n- 同样拒绝一切建议，只会添加我需要的。"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.5-END",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增隐藏聊天界面原生时间标签",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.4",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增信息时间显示在头像下方位置</br>时间显示兼容隐藏头像</br>添加更多可自定义项",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "新增信息时间显示</br>修复一些潜在的问题",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.1.2-END",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "2x5布局支持隐藏(锁死2x5不支持调整)</br>按照你们的要求对隐藏头像进行了解耦</br>🌟🌟深思熟虑后，决定插件进入END版本，我要去忙我自己的事情了，有缘再更新吧，偷窃的恶劣性质太多，吃力不讨好的行为，终是昙花一现☺️☺️☺️",
+                    "useRawFormat": true
+                }  
+            ]
+        }
+    ]
+}
