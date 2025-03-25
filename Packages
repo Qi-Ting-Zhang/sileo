@@ -254,6 +254,24 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: appku
 Name: 爱锋助手
 
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/微信通知.deb
+Size: 23220
+MD5sum: c9fc8217a01814584b2179866442c89e
+SHA1: d2034dfea1ea821e5d76685e8dcdab9f36902a80
+SHA256: 39a3d389971242a728f9a59ef52bea9f4f630f15504043128a313a73fd043f5f
+Section: 你的iPhone不止于此
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: 微信通知直达对话框
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxtz.json
+
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
 Architecture: iphoneos-arm64
