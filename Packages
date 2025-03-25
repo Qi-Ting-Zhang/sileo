@@ -737,16 +737,16 @@ Name: split-view-pro
 Ts: sp-sss
 
 Package: com.wechat.enhance
-Version: 1.1.6
+Version: 1.1.7
 Architecture: iphoneos-arm64
 Maintainer: 愫 茶
 Installed-Size: 1124
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/微信增强1.1.6.deb
-Size: 228000
-MD5sum: 721af10ddf21aea5d7b9242a4b6978d1
-SHA1: 6eb3668475ca465596bc146d7dc36ace9ad5c308
-SHA256: e498d405bafcb559cba03bdeb66500196f747bc8e4bdc5c3344f7a1afeea7c4a
+Filename: debs/微信增强1.1.7.deb
+Size: 232584
+MD5sum: 4c9306f9a4bf7009aa84370a1cd313f2
+SHA1: db54a877ddd6f47572d14a5d5cbaa0c42891b988
+SHA256: 332d1e08f6dfa865d76e8352b84c60b776543284e0c4bdf9c62b4cbccaad2bf1
 Section: 微信插件
 Description: 微信增强插件，支持聊天按钮布局自定义等功能。
 Author: 愫 茶
