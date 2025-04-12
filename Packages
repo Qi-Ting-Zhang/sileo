@@ -416,6 +416,42 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dyyy.png
 Name: DYYY
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dyyy.json
 
+Package: com.huami.kbstyle
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Filename: debs/键盘背景1.0.deb
+Size: 35252
+MD5sum: 24847a68b259b0de1284528e0793236d
+SHA1: 832603e8f539d564ccc5b41ff6b5e0fc3cc155ab
+SHA256: c4ae5e82cdf83730d77a704db2530dfa22005cbf555b2d9bb9c368f6a14c5e1b
+Section: 你的iPhone不止于此
+Description: 适用于原生键盘以及微信键盘等用原生背景的输入法，来自打元子定制后公益
+Author: huami
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/jpbj.png
+Name: 键盘背景
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/jpbj.json
+
+Package: com.huami.wcnicknameavatarstyle
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 320
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/顶部元素2.1.deb
+Size: 47628
+MD5sum: 0336658b33247a674c02df1196b4336e
+SHA1: dc48a70331f1288f56d910826f98b37fb2ca2cbc
+SHA256: 1b5ac964378ad4be6f4ceacc8effc055284cd8e1b2b51838f57287caa71a1560
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dbys.png
+Name: 顶部元素
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dbys.json
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
