@@ -982,6 +982,26 @@ Description: 微信净化小丑功能，需要配合微信净化2.2-3版本使�
 Author: Netskao
 Name: 微信净化小丑功能
 
+Package: netskao.wcpureextension-rootless
+Version: 4.2-6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 19660
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: netskao.wechatpurification-rootless
+Replaces: netskao.wechatpurification-rootless
+Provides: netskao.wechatpurification-rootless
+Filename: debs/微信净化4.2-6_自用无期限.deb
+Size: 7087296
+MD5sum: 5d2bd1dc2affe14b32234f978043fdd3
+SHA1: 2e05e6242bc75edc40e185acf763e20df8efe51e
+SHA256: 0dc8d83f09a02df2cc69de6e00d8e0ec599abd085253cdf210117235ceaece3a
+Section: Netskao-Tweaks
+Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
+Author: Netskao
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: 微信净化-Rootless
+
 Package: stbz.com.anthopak.appaze3
 Version: 1.0
 Architecture: iphoneos-arm64
