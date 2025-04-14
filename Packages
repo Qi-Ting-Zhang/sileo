@@ -50,6 +50,24 @@ Description: Apibug微信文字转语音插件,官网:www.apibug.com
 Author: www.apibug.com
 Name: ApibugTextToVoice
 
+Package: cn.Bswbw.time
+Version: 20
+Architecture: iphoneos-arm64
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/净化复活.deb
+Size: 39300
+MD5sum: 0f6f9bbe6bb477ed9efb91482d319fd2
+SHA1: b31488d27495c6ea4bb598a5f152e761e19117c2
+SHA256: a61e9984e156cb31f34e61a8d3f3ac7141c4812caa18b1c79ed134cac99dd771
+Section: 微信插件
+Description: QQ净化复活设置。微信净化，抖音净化解除时间限制
+Author: gblw
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/jhfh.png
+Name: 净化复活
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/jhfh.json
+
 Package: cn.llld.picturemodule
 Version: 1.2
 Architecture: iphoneos-arm64
