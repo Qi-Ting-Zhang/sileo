@@ -57,14 +57,14 @@ Maintainer: gblw
 Installed-Size: 123
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/净化复活.deb
-Size: 39300
-MD5sum: 0f6f9bbe6bb477ed9efb91482d319fd2
-SHA1: b31488d27495c6ea4bb598a5f152e761e19117c2
-SHA256: a61e9984e156cb31f34e61a8d3f3ac7141c4812caa18b1c79ed134cac99dd771
+Size: 39412
+MD5sum: 252f788fc79d0b9743e8c4a40fa49f39
+SHA1: 277c20bfcdc0537433335d6b03af158ab2cf796e
+SHA256: 336c9aab4c5a200b35b3e282536592364faa700b3079241f0bc29571569ca08a
 Section: 微信插件
 Description: QQ净化复活设置。微信净化，抖音净化解除时间限制
 Author: gblw
-Icon: https://qi-ting-zhang.github.io/sileo/images/icon/jhfh.png
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
 Name: 净化复活
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/jhfh.json
 
@@ -983,7 +983,7 @@ Author: Netskao
 Name: 微信净化小丑功能
 
 Package: netskao.wcpureextension-rootless
-Version: 4.2-6
+Version: 4.2.6
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 19660
@@ -992,15 +992,16 @@ Conflicts: netskao.wechatpurification-rootless
 Replaces: netskao.wechatpurification-rootless
 Provides: netskao.wechatpurification-rootless
 Filename: debs/微信净化4.2-6_自用无期限.deb
-Size: 7087296
-MD5sum: 5d2bd1dc2affe14b32234f978043fdd3
-SHA1: 2e05e6242bc75edc40e185acf763e20df8efe51e
-SHA256: 0dc8d83f09a02df2cc69de6e00d8e0ec599abd085253cdf210117235ceaece3a
-Section: Netskao-Tweaks
+Size: 7086920
+MD5sum: dec9531854bfca193564ebbe6b6a6d17
+SHA1: b92d53849c7c600bdb3a27bafbe63cfe232b5adb
+SHA256: 8351dbe837e1380613215fe7db80da4dcd8d629ac053e260010c482afb5e87df
+Section: 微信插件
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
 Name: 微信净化-Rootless
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxjh.json
 
 Package: stbz.com.anthopak.appaze3
 Version: 1.0
