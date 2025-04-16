@@ -297,16 +297,16 @@ Maintainer: be-huge
 Installed-Size: 232
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: debs/微信通知0.0.3.deb
-Size: 23280
-MD5sum: f240b1f38f1cf9a5ac530813bc565b31
-SHA1: 80bff0ff403f56a60d45f6a393e40a93e77c28aa
-SHA256: 8663054eae4f4c7d88ab2635e3227deb51b2389c9a52d3e33818f30c5b6175b1
+Size: 23300
+MD5sum: dabff18a55284406b6fe071c30d2094d
+SHA1: 1f8d6812bc1f2ce84ea5880b9b053562ac3b42f2
+SHA256: 04ff1f00a942024d944c06ca45a9513228f892f89c56d9bbdbaf01abfd8ac402
 Section: 你的iPhone不止于此
 Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
 Author: be-huge
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
 Name: 微信通知直达对话框
-Sileodepiction: Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxtz.json
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxtz.json
 
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
