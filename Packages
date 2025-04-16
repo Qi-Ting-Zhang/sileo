@@ -272,23 +272,41 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: appku
 Name: 爱锋助手
 
-Package: com.be-huge.wechat-push-msg-page
-Version: 0.0.2
+Package: com.be-huge.wechat-pop-vc
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: be-huge
 Installed-Size: 232
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: debs/微信通知0.0.2.deb
-Size: 23324
-MD5sum: 80ff464b0580fb945acab43bcc9c1d4f
-SHA1: 936d74e05c2f99668f178d6763640407c72148b7
-SHA256: 04da3433fc4f9fe2fa5d96b874f0a4eb22ab85ecf01f7eb185ba91f049256c73
+Filename: debs/微信全局返回0.0.1.deb
+Size: 20620
+MD5sum: ed333d913d5f13820255633d7320d0f5
+SHA1: 4d73511c319c4b398069dfc2b1923282b8484823
+SHA256: ed467de27fc0d13a9ca093d26d2a316ba2cdf4b682128ffa9b7d01f97301dc26
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: 微信全页面右滑返回（仿qq）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxfh.json
+
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/微信通知0.0.3.deb
+Size: 23280
+MD5sum: f240b1f38f1cf9a5ac530813bc565b31
+SHA1: 80bff0ff403f56a60d45f6a393e40a93e77c28aa
+SHA256: 8663054eae4f4c7d88ab2635e3227deb51b2389c9a52d3e33818f30c5b6175b1
 Section: 你的iPhone不止于此
 Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
 Author: be-huge
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
 Name: 微信通知直达对话框
-Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxtz.json
+Sileodepiction: Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxtz.json
 
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
