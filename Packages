@@ -274,16 +274,15 @@ Name: 爱锋助手
 
 Package: com.be-huge.wechat-push-msg-page
 Version: 0.0.2
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: be-huge
 Installed-Size: 232
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: debs/微信通知0.0.2.deb
-Size: 24584
-MD5sum: 78ba479ced65b53a86bc27a80cf76803
-SHA1: e73ff9478534794ce1a0284f65cb346240e47b7d
-SHA256: d990249a1f9a26db02843e4b852d56a86fd87b0313d3fb85169a2f2b07c118d7
+Size: 23324
+MD5sum: 80ff464b0580fb945acab43bcc9c1d4f
+SHA1: 936d74e05c2f99668f178d6763640407c72148b7
+SHA256: 04da3433fc4f9fe2fa5d96b874f0a4eb22ab85ecf01f7eb185ba91f049256c73
 Section: 你的iPhone不止于此
 Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
 Author: be-huge
