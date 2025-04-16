@@ -273,18 +273,19 @@ Author: appku
 Name: 爱锋助手
 
 Package: com.be-huge.wechat-push-msg-page
-Version: 0.0.1
-Architecture: iphoneos-arm64
+Version: 0.0.2
+Architecture: iphoneos-arm64e
 Maintainer: be-huge
 Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: debs/微信通知.deb
-Size: 23220
-MD5sum: c9fc8217a01814584b2179866442c89e
-SHA1: d2034dfea1ea821e5d76685e8dcdab9f36902a80
-SHA256: 39a3d389971242a728f9a59ef52bea9f4f630f15504043128a313a73fd043f5f
+Filename: debs/微信通知0.0.2.deb
+Size: 24584
+MD5sum: 78ba479ced65b53a86bc27a80cf76803
+SHA1: e73ff9478534794ce1a0284f65cb346240e47b7d
+SHA256: d990249a1f9a26db02843e4b852d56a86fd87b0313d3fb85169a2f2b07c118d7
 Section: 你的iPhone不止于此
-Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
 Author: be-huge
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
 Name: 微信通知直达对话框
