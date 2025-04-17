@@ -433,16 +433,16 @@ Author: 妖刀
 Name: Zetsu 简体中文包(rootless)
 
 Package: com.huami.WCFullSwipe
-Version: 1.1
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/微信全屏返回.deb
-Size: 4188
-MD5sum: 7eec7f6fccac012cb326e1c4bc2965ab
-SHA1: 998ecb99ae0e5240526fd1d01b41c3feecec713c
-SHA256: 72d1a8b384acca28e95bca6f75cc978e801349c4087f0ec8499e66b0b4864c43
+Filename: debs/微信全屏返回1.3.deb
+Size: 4436
+MD5sum: cf5a0d8f9f4b18deca72957c7e24436c
+SHA1: 0a4553611e9073e48afba28de5838d0bba0b671b
+SHA256: 5a3b5f3f5596b90cda9e6648d6af51759fc4b10cabfc847140ea6fa8da92249c
 Section: 你的iPhone不止于此
 Description: 为微信扩展全屏滑动返回
 Author: huami
