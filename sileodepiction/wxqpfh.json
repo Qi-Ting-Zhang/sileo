@@ -13,6 +13,21 @@
                     "markdown": "\n- 为微信扩展全局全屏(中间)滑动返回\n- 解决无法上下滑动、无法编辑图片\n- 无需依赖\n- 使用objc编写 方便自己用 \n- 感谢 be-huge 大佬插件的灵感"
                 }
             ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "text":"点击加入作者群",
+                    "action":"https://t.me/huamidev",
+                    "openExternal": 1,
+"tintColor": "#000000",                    "class":"DepictionButtonView"
+                },
+{
+    "class": "DepictionMarkdownView",
+    "markdown": "### 1.3\n\n- 兼容多出页面  \n- 与其他手势共存  \n- 不出意外完美了  \n- 限制范围为屏幕X轴/2  \n- 小提示：屏幕边边可以正常滑动  \n- 例如：照片选择时切换或者先左滑不要松手随后右滑  "}
+            ]
         }
     ]
 }
