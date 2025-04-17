@@ -432,6 +432,24 @@ Description: Zetsu 简体中文包(rootless)。
 Author: 妖刀
 Name: Zetsu 简体中文包(rootless)
 
+Package: com.huami.WCFullSwipe
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/微信全屏返回.deb
+Size: 4188
+MD5sum: 7eec7f6fccac012cb326e1c4bc2965ab
+SHA1: 998ecb99ae0e5240526fd1d01b41c3feecec713c
+SHA256: 72d1a8b384acca28e95bca6f75cc978e801349c4087f0ec8499e66b0b4864c43
+Section: 你的iPhone不止于此
+Description: 为微信扩展全屏滑动返回
+Author: huami
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/jpbj.png
+Name: 微信全屏返回
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxqpfh.json
+
 Package: com.huami.dyyy
 Version: 2.1-7
 Architecture: iphoneos-arm64
