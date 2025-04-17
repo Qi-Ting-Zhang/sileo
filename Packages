@@ -440,13 +440,13 @@ Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/微信全屏返回1.3.deb
 Size: 4436
-MD5sum: cf5a0d8f9f4b18deca72957c7e24436c
-SHA1: 0a4553611e9073e48afba28de5838d0bba0b671b
-SHA256: 5a3b5f3f5596b90cda9e6648d6af51759fc4b10cabfc847140ea6fa8da92249c
+MD5sum: 287faef0f72ba9e2aa4a523123590632
+SHA1: 059feb9e7ea8c3e592d98f01f682ddb6dd2c2aaf
+SHA256: 197f2a2b3736e1f34defbaf5f86396b9769eaeaa16c855491cb3c09f133c6072
 Section: 你的iPhone不止于此
 Description: 为微信扩展全屏滑动返回
 Author: huami
-Icon: https://qi-ting-zhang.github.io/sileo/images/icon/jpbj.png
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dbys.png
 Name: 微信全屏返回
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxqpfh.json
 
