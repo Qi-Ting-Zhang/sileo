@@ -809,21 +809,21 @@ Name: split-view-pro
 Ts: sp-sss
 
 Package: com.wechat.enhance
-Version: 1.1.7
+Version: 1.3-0
 Architecture: iphoneos-arm64
 Maintainer: 愫 茶
-Installed-Size: 1124
+Installed-Size: 1976
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/微信增强1.1.7.deb
-Size: 232584
-MD5sum: 4c9306f9a4bf7009aa84370a1cd313f2
-SHA1: db54a877ddd6f47572d14a5d5cbaa0c42891b988
-SHA256: 332d1e08f6dfa865d76e8352b84c60b776543284e0c4bdf9c62b4cbccaad2bf1
+Filename: debs/微信增强1.3.0.deb
+Size: 431328
+MD5sum: f5cd4480c8826b99f99f7121564beeb3
+SHA1: 5a6921d53697b8493cf5e0210e115074c6f4b007
+SHA256: a5701d1271fcfb5b32a436c50c6d6f66aecbfebd7e89a729ccabcc1c9e58a6db
 Section: 微信插件
-Description: 微信增强插件，支持聊天按钮布局自定义等功能。
+Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wxzq.png
-Name: 微信增强WeChatEnhance
+Name: 微信增强
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxzq.json
 
 Package: com.xx.dyhook
