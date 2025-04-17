@@ -1,0 +1,18 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "\n- 为微信扩展全局全屏(中间)滑动返回\n- 解决无法上下滑动、无法编辑图片\n- 无需依赖\n- 使用objc编写 方便自己用 \n- 感谢 be-huge 大佬插件的灵感"
+                }
+            ]
+        }
+    ]
+}
