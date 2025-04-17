@@ -297,10 +297,10 @@ Maintainer: be-huge
 Installed-Size: 232
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: debs/微信通知0.0.3.deb
-Size: 23300
-MD5sum: dabff18a55284406b6fe071c30d2094d
-SHA1: 1f8d6812bc1f2ce84ea5880b9b053562ac3b42f2
-SHA256: 04ff1f00a942024d944c06ca45a9513228f892f89c56d9bbdbaf01abfd8ac402
+Size: 23316
+MD5sum: c34a03b556995b332fc54a8b1d99bc99
+SHA1: ac0f3c4b362dbad0dc992dbbe94b4d4f0afce089
+SHA256: a73f440acb47304a08d711c49657e272c799dd883540a763a30bff03f26d1dee
 Section: 你的iPhone不止于此
 Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
 Author: be-huge
@@ -983,6 +983,24 @@ Description: Simply plugin loader for iOS system menu.
 Author: r_plus
 Icon: file:///Library/PreferenceBundles/MenuSupportSettings.bundle/MenuSupport@3x.png
 Name: MenuSupport
+
+Package: love.litten.rose
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Litten
+Installed-Size: 2832
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: debs/玫瑰1.1.0.deb
+Size: 428988
+MD5sum: 810ecf9255cec5488312a958b1239142
+SHA1: 661890a8ddae390a9b58e72d1d55e038506bdfe1
+SHA256: 9cd669e7905909ac95bfb5b001725ec7c99051668fbd7bfa74a6c38d5deee6a1
+Section: 你的iPhone不止于此
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/ckfk.png
+Name: Rose 🌹（触控反馈）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/ckfk.json
 
 Package: netskao.joker
 Version: 1.1-2
