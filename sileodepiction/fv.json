@@ -1,0 +1,75 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件描述",
+            "views": [
+                {
+                    "title":"我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                     "text":"点击查看vcr（还没录）",
+                     "action":"https://v.douyin.com/iSEndxjh/",
+                     "openExternal": 1,
+                     "tintColor": "#ff8700",
+                     "class":"DepictionButtonView"
+                 },
+                {
+                    "text":"点击购买授权（¥100）",
+                    "action":"https://qr.alipay.com/tsx16073sp9uagherfgnn4b",
+                    "openExternal": 1,
+                    "tintColor": "#3774F6",
+                    "class":"DepictionButtonView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### svp船新版本fv，需支付100元子\n\n- arc  \n- 小窗  \n- 三联屏  \n- 通知激活小窗  \n- 侧边窗口调度  \n- 若干功能"
+                },                
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "title":"我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                     "text":"点击查看vcr（还没录）",
+                     "action":"https://v.douyin.com/iSEndxjh/",
+                     "openExternal": 1,
+                     "tintColor": "#ff8700",
+                     "class":"DepictionButtonView"
+                 },
+                {
+                    "text":"点击购买授权（¥100）",
+                    "action":"https://qr.alipay.com/tsx16073sp9uagherfgnn4b",
+                    "openExternal": 1,
+                    "tintColor": "#3774F6",
+                    "class":"DepictionButtonView"
+                }, 
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.5.5-3",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "提升系统稳定性，优化系统流畅度",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ]
+}

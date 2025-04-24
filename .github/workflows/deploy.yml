@@ -4,7 +4,7 @@ on:
   push:
     branches: ["main"]
     paths:
-      - 'debs/**'  # 监听 debs 目录下的所有文件变化
+      - 'debs/**'  # 监听 debs 目录下的文件变化
 
 permissions:
   contents: write
@@ -23,40 +23,45 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install required tools
+      - name: Install dpkg-scanpackages
         run: sudo apt-get update && sudo apt-get install -y dpkg-dev
 
-      - name: Generate Packages files (recursive)
+      - name: Generate Packages file
         run: |
           mkdir -p dist
-          # 递归扫描所有子目录中的deb包
-          dpkg-scanpackages -r debs /dev/null > Packages
-          # 生成压缩版本
+          dpkg-scanpackages debs /dev/null > Packages
           bzip2 -c Packages > Packages.bz2
           gzip -c Packages > Packages.gz
 
-          # 生成包含所有版本的Release文件
-          cat << EOF > Release
-Origin: 你看，又急
-Label: 贾队长
-Suite: stable
-Version: 1.0
-Codename: qtz
-Architectures: iphoneos-arm64 iphoneos-arm64e
-Components: main
-Description: 自用插件分享，有问题请卸载！！！
-$(dpkg-scanpackages --arch arm64 --arch arm64e debs /dev/null | grep -v '^$' | sed '1d' | awk '{print "Package: "$2"\nVersion: "$3"\nArchitecture: "$1"\nMaintainer: "$4"\nDescription: "$5}')
-EOF
+          # 生成固定的 Release 文件
+          echo "Origin: 你看，又急" > Release
+          echo "Label: 贾队长" >> Release
+          echo "Suite: stable" >> Release
+          echo "Version: 1.0" >> Release
+          echo "Codename: qtz" >> Release
+          echo "Architectures: iphoneos-arm64 iphoneos-arm64e" >> Release
+          echo "Components: main" >> Release
+          echo "Description: 自用插件分享，有问题请卸载！！！" >> Release
+          echo "MD5Sum:" >> Release
+          echo " $(md5sum Packages | cut -d ' ' -f 1) $(stat -c%s Packages) Packages" >> Release
+          echo " $(md5sum Packages.bz2 | cut -d ' ' -f 1) $(stat -c%s Packages.bz2) Packages.bz2" >> Release
+          echo " $(md5sum Packages.gz | cut -d ' ' -f 1) $(stat -c%s Packages.gz) Packages.gz" >> Release
 
       - name: Commit and push updated files
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用默认的 GITHUB_TOKEN
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/Packages* dist/Release
-          git commit -m "Update repo metadata" || echo "No changes to commit"
+          git pull origin main
+          git add Packages Packages.bz2 Packages.gz Release
+          git commit -m "Update Packages files" || echo "No changes to commit"
           git push origin main || echo "Push failed"
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './'
 
   deploy:
     environment:
@@ -66,6 +71,5 @@ EOF
     needs: build
     steps:
       - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          path: ./dist
