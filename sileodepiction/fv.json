@@ -9,12 +9,6 @@
             "tabname": "插件描述",
             "views": [
                 {
-                    "title":"我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
-                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                },
-                {
                      "text":"点击查看vcr（还没录）",
                      "action":"https://v.douyin.com/iSEndxjh/",
                      "openExternal": 1,
@@ -31,19 +25,19 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### svp船新版本fv，需支付100元子\n\n- arc  \n- 小窗  \n- 三联屏  \n- 通知激活小窗  \n- 侧边窗口调度  \n- 若干功能"
-                },                
+                },
+                {
+                    "title":"我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                }               
             ]
         },
         {
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
-                {
-                    "title":"我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
-                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
-                    "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                },
                 {
                      "text":"点击查看vcr（还没录）",
                      "action":"https://v.douyin.com/iSEndxjh/",
@@ -68,6 +62,12 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "提升系统稳定性，优化系统流畅度",
                     "useRawFormat": true
+                }, 
+                {
+                    "title":"我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
                 }
             ]
         }
