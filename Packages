@@ -820,6 +820,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dbys.png
 Name: 微信全屏返回
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxqpfh.json
 
+Package: com.huami.WCPluginsOrder
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/插件管理排序_1.0.1_iphoneos-arm64.deb
+Size: 11304
+MD5sum: 83c321755cdec0433caf7a70b214e340
+SHA1: be3b59cbdeb9f8ed3f697f0d9dece90fc1008601
+SHA256: f32f113d9a941317229b0ff26a7f5e08a8c9bcef3c8eaa4934489022fb4c95cb
+Section: 微信插件
+Description: An awesome MobileSubstrate tweak!
+Author: huami
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: 插件管理排序
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/cjglpx.json
+
 Package: com.huami.dyyy
 Version: 2.1-7
 Architecture: iphoneos-arm64
