@@ -1,0 +1,18 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "## 解铃还须系铃人\n- 解决因插件过多导致黄白超出屏幕提示篡改问题\n- 长按排序"
+                }
+            ]
+        }
+    ]
+}
