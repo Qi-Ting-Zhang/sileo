@@ -23,17 +23,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install dpkg-scanpackages
-        run: sudo apt-get update && sudo apt-get install -y dpkg-dev
+      - name: Install dpkg-dev and dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y dpkg-dev
 
-      - name: Generate Packages file
+      - name: Generate Packages file 
         run: |
           mkdir -p dist
-          dpkg-scanpackages debs /dev/null > Packages
+          
+          dpkg-scanpackages -m debs /dev/null > Packages
           bzip2 -c Packages > Packages.bz2
           gzip -c Packages > Packages.gz
 
-          # 生成固定的 Release 文件
+          # 生成固定的 Release 文件（）
           echo "Origin: 你看，又急" > Release
           echo "Label: 贾队长" >> Release
           echo "Suite: stable" >> Release
@@ -49,7 +52,7 @@ jobs:
 
       - name: Commit and push updated files
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 使用默认的 GITHUB_TOKEN
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
