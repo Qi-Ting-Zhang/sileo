@@ -62,7 +62,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "1、修复arc录屏开关无法关闭直播录制状态。</br>2、新增键盘震动功能，自行取舍，建议使用系统自带键盘不要开启。 ",
                     "useRawFormat": true
-                }, , 
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.5.5-3",
