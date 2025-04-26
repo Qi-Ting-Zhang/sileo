@@ -6,11 +6,23 @@
     "tabs": [
         {
             "class": "DepictionStackView",
-            "tabname": "描述",
+            "tabname": "插件描述",
             "views": [
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "## 解铃还须系铃人\n- 解决因插件过多导致黄白超出屏幕提示篡改问题\n- 长按排序"
+                }
+            ]
+        },
+        {
+            "class": "DepictionScreenshotsView",
+            "itemCornerRadius": 6,
+            "itemSize": "{nil, nil}",
+            "contentMode": "aspectFit",
+            "screenshots": [
+                {
+                    "accessibilityText": "Screenshot",
+                    "url": "https://qi-ting-zhang.github.io/sileo/images/cjglpx/1.png"
                 }
             ]
         }
