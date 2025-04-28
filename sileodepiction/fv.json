@@ -51,7 +51,18 @@
                     "openExternal": 1,
                     "tintColor": "#3774F6",
                     "class":"DepictionButtonView"
-                }, 
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.5.5-5",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化arc逻辑，起始位置不再受自定义与屏幕边距的影响",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.5.5-4",
