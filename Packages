@@ -890,6 +890,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
 Name: 插件管理排序
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/cjglpx.json
 
+Package: com.huami.WCPluginsOrder
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/插件管理排序1.0.2_iphoneos-arm64.deb
+Size: 15196
+MD5sum: 18676b43bf9891b3d7a60a6eaf6da8db
+SHA1: f610ba30f3c92d40933ee20ceb0e0a9787ba83ee
+SHA256: c1137a39a3b0b4071a8bccf0837b961b9867c2d67165981b59c98c398346158e
+Section: 微信插件
+Description: An awesome MobileSubstrate tweak!
+Author: huami
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: 插件管理排序
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/cjglpx.json
+
 Package: com.huami.dyyy
 Version: 2.1-7
 Architecture: iphoneos-arm64
@@ -1403,6 +1421,23 @@ Author: Crassna
 Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
 Name: App Lecard（小窗）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
+
+Package: com.rexinxuegao.WCElite
+Version: 1.2.6
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/微信优化1.2.6_iphoneos-arm64.deb
+Size: 371508
+MD5sum: f8002e99cacce97f3b9a634f86437bb3
+SHA1: 240ba797f9a236c33c839b51e98be2f6fe60dcf4
+SHA256: 1a0467995cefd1d44c4f0bdf6f91b1baf13b83a6521a71016ff351173092119d
+Section: 微信插件
+Priority: optional
+Description: 微信优化，基于WechatEnhance开源版优化。
+Author: 热心网友＆雪糕
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wxzq.png
+Name: 微信优化
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxyh.json
 
 Package: com.stbz.amonglock
 Version: 1.1.6
