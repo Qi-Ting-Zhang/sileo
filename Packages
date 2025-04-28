@@ -534,6 +534,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
 Name: floatingView
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.5-5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3148
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/fv1.5.5-5_iphoneos-arm64.deb
+Size: 602776
+MD5sum: 979505dac34bc173f6ac62fcc4cd9262
+SHA1: cb0bcf7b1f8c2a3a97ca2212555505de829cbafe
+SHA256: b2a728c98b3d5384761a607302c3031575f4e828fe4e0469fe532a945e112187
+Section: 分屏＆小窗
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
+Name: floatingView
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
