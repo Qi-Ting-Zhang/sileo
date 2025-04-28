@@ -1,0 +1,12 @@
+Package: com.niceios.mrshi
+Name: MrShi
+Depends: mobilesubstrate
+Description:全局系统颜色自定义
+Maintainer: MoreColor
+Author: MoreColor
+Section: Tweaks
+Depiction:http://test.test.com/depictions/?p=com.niceios.morecolor
+SileoDepiction:http://test.test.com/sileodepictions/com.niceios.morecolor/depiction.json
+Architecture: iphoneos-arm64
+Version: 1.0.0.0-1
+Installed-Size: 2144
