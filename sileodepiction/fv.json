@@ -23,6 +23,13 @@
                     "class":"DepictionButtonView"
                 },
                 {
+                    "text":"十人拼团立减10（¥90）",
+                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "tintColor": "#4CD964",
+                    "class":"DepictionButtonView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### svp船新版本fv，需支付100元子\n\n- arc  \n- 小窗  \n- 三联屏  \n- 通知激活小窗  \n- 侧边窗口调度  \n- 若干功能"
                 },
@@ -52,7 +59,14 @@
                     "tintColor": "#3774F6",
                     "class":"DepictionButtonView"
                 },
-{
+                {
+                    "text":"十人拼团立减10（¥90）",
+                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "tintColor": "#4CD964",
+                    "class":"DepictionButtonView"
+                },
+                {
                     "class": "DepictionSubheaderView",
                     "title": "1.5.5-6",
                     "useBoldText": true,
