@@ -52,6 +52,17 @@
                     "tintColor": "#3774F6",
                     "class":"DepictionButtonView"
                 },
+{
+                    "class": "DepictionSubheaderView",
+                    "title": "1.5.5-6",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、优化arc二维码、扫码逻辑，避免前台打开应用与之一样时引发的问题。</br>2、优化屏幕旋转动画偶发卡顿问题。</br>3、修复arc二维码、扫码打开方式与arc打开应用方式不一致问题。 ",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "title": "1.5.5-5",
