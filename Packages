@@ -473,6 +473,24 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: 来一杯82年的拉菲
 Name: 语音输入免跳转
 
+Package: com.82flex.wtvrbglauncher
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: debs/语音免跳转1.1_iphoneos-arm64.deb
+Size: 23236
+MD5sum: bef907ad2729a57dcac964f4ff997cd6
+SHA1: 07a825bc65bac635e59c9183a65b1fb145e96698
+SHA256: cb11b3a7add7c898cb501ac8323953040a751f34e93c53587862751ef191bf66
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Author: 来一杯82年的拉菲
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/yymtz.png
+Name: 语音输入免跳转
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/yymtz.json
+
 Package: com.ActivityAction.zh-hans
 Version: 0.0.1
 Architecture: iphoneos-arm64
