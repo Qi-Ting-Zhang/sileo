@@ -1094,6 +1094,26 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dyyy.png
 Name: DYYY
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dyyy.json
 
+Package: com.huami.dyyy
+Version: 2.2-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2012
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/维他dyyy_2.2-5_iphoneos-arm64.deb
+Size: 386216
+MD5sum: 3b2b0cc802a862aa12e42cfc2a9c3846
+SHA1: 833854ee0d75aaf939d699cd9233e89d4e0e2dd8
+SHA256: 93df13b6533a8129fe1266ee0eb75c95299e26ab930197f42b7c2201fb31bad4
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami&Vita
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dyyy.png
+Name: DYYY
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dyyyvita.json
+
 Package: com.huami.kbstyle
 Version: 1.0
 Architecture: iphoneos-arm64
