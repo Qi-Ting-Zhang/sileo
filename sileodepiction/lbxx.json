@@ -11,6 +11,12 @@
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "## 蜡笔小新主题，需自行下载滑雪板及依赖\n- 践行互联网共享白嫖精神，图标均由本人挨个二次p图改名适配滑雪板\n- 只改了一部分常用的，有的应用标识符不清楚，可以发给我收集一下或者自己重命名\n- 改图片命名为 标识符.png\n ### 如有图标定制需求，联系作者补图（小红书、微博啥的），大概一张几块钱@橙子八分甜"
+                },
+                {
+                    "title":"我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
                 }
             ]
         }
