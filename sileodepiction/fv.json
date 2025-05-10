@@ -68,6 +68,28 @@
                 },
                 {
                     "class": "DepictionSubheaderView",
+                    "title": "1.5.5-8",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复屏幕旋转问题</br>2、可能引发安全模式问题",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "1.5.5-7",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1、修复屏幕旋转时，屏幕角落出现黑块问题。</br>2、修复注销时，arc显示异常问题",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "1.5.5-6",
                     "useBoldText": true,
                     "useBottomMargin": false
