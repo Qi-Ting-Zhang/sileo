@@ -700,6 +700,42 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
 Name: floatingView
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
 
+Package: com.be-huge.floating-view
+Version: 1.5.5-7
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3160
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/fv1.5.5-7_iphoneos-arm64.deb
+Size: 607700
+MD5sum: 36f4db3ec7644e58f14a6e4722f5dd85
+SHA1: 6cfd5626f2936c3ff659f6970b758424793a58b6
+SHA256: 0947e39859667fadb304e132845b56e77b0574646ca1ed1b1affd4e13328bd8c
+Section: 分屏＆小窗
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
+Name: floatingView
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.5-8
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3180
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/fv1.5.5-8_iphoneos-arm64.deb
+Size: 608472
+MD5sum: 922765f498e856af0b6be82f744c8b67
+SHA1: 8e78d40811551773f476f85e1ae94d76857bfb2b
+SHA256: dbbc355801ef9f803ac3e6f20c98efcd6f24b738338835409ca6660f26e435bc
+Section: 分屏＆小窗
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
+Name: floatingView
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1607,6 +1643,22 @@ Author: Crassna
 Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
 Name: App Lecard（小窗）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
+
+Package: com.qtbz.lbxx
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: @祁厅长
+Filename: debs/蜡笔小新.deb
+Size: 19990940
+MD5sum: 37bd47218897a9548fa3736ae6f77ca3
+SHA1: 34294875e08a867235ef7bdd57cefccb45e3ea4d
+SHA256: e2597545a430a8ecdaa8ce1fbb5afa6ac9c2005a590082530a20597499f70b1a
+Section: 你的iPhone不止于此
+Description: 蜡笔小新主题，自行安装滑雪板及依赖
+Author: 祁厅长
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/lbxx.png
+Name: 蜡笔小新
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/lbxx.json
 
 Package: com.rexinxuegao.WCElite
 Version: 1.2.6
