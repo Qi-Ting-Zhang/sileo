@@ -10,48 +10,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "## svp作者新插件\n- 该插件完全免费，所以大概率后续不会优化，也不与fv分屏捆绑，也不接受任何反馈，可以完全单用，感谢胖佬的用心付出。（已测试只有一个bug就是无后台第一次收到消息会进入其他页面，不会直达，后续有后台测试完全没有问题）\n- 跟小窗插件通知冲突\n- 如果可以在分屏内跳转就更完美了\n ### 冷知识：该功能在o2价值¥200并且依赖懒猫url拓展"
-                }
-            ]
-        },
-        {
-            "class": "DepictionButtonView"
-        },
-        {
-            "tabname": "更新",
-            "views": [
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "0.0.3",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "修复偶发性打开窗口失败问题"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "0.0.2",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "1. 修复点击电脑登陆通知，会打开自己对话框问题。\n2. 修复网络不畅情况下，打开对话框失败情况。"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "0.0.1",
-                    "useBoldText": true
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "初始化，支持点击通知跳转到对应窗口。支持群消息、支付信息、好友聊天、公众号消息等。"
-                },
-                {
-                    "class": "DepictionSeparatorView"
+                    "markdown": "## svp作者新插件\n- 该插件完全免费，所以大概率后续不会优化，也不与fv分屏捆绑，也不接受任何反馈，可以完全单用，感谢胖佬的用心付出。（已测试只有一个bug就是无后台第一次收到消息会进入其他页面，不会直达，后续有后台测试完全没有问题）\n- 跟小窗插件通知冲突\n- 如果可以在分屏内跳转就更完美了\n- 004修复如果已经打开对方聊天窗口，还会重新关闭再打开的情况\n ### 冷知识：该功能在o2价值¥200并且依赖懒猫url拓展"
                 }
             ]
         }
