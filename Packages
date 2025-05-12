@@ -808,6 +808,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
 Name: 微信通知直达对话框
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxtz.json
 
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/微信通知0.0.4_iphoneos-arm64.deb
+Size: 23428
+MD5sum: 2279f5619c67b61d8edc0a8b3360fc99
+SHA1: b0f3c97f5f02ca081de022ebd75c0039db998d18
+SHA256: 25f483ff93750e9e30e7ba5e0ce75d94774975336dae73d02385b4066c161788
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: 微信通知直达对话框
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxtz.json
+
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
 Architecture: iphoneos-arm64
