@@ -2038,24 +2038,6 @@ Name: split-view-pro
 Ts: sp-sss
 
 Package: com.vita.yuki
-Version: 0.0-1-1
-Architecture: iphoneos-arm64
-Maintainer: vita
-Installed-Size: 204
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.vita.yuki_0.0-1-1_iphoneos-arm64.deb
-Size: 18400
-MD5sum: d9e4e17d69a6c1374c189231d83114e4
-SHA1: 42d4721d3532520524c01f7338b5b15d19ea38ac
-SHA256: 8a3e7c7ff9a38e57149456e7203b40c77302585e3c5cb51fc9cb58dce6d32db7
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/wtrwx
-Description: 免费插件，随缘更新。
-Author: vita
-Name: Yuki
-
-Package: com.vita.yuki
 Version: 0.0-2
 Architecture: iphoneos-arm64
 Maintainer: vita
