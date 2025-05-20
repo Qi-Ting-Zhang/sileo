@@ -2165,6 +2165,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wxzq.png
 Name: 微信增强
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxzq.json
 
+Package: com.wechat.enhance
+Version: 1.4-2
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2060
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/茶愫增强_1.4-2_无根.deb
+Size: 448612
+MD5sum: c0888677f84f75517b42a7963b03e9e8
+SHA1: 2f86866ca55e2a112a39e2aac3d34c1a2a69ae1b
+SHA256: 1caf56bdac658244ccbacd324a906bdcce868cec8e908a3c95b58269ea0e8f78
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wxzq.png
+Name: 微信增强
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxzq.json
+
 Package: com.xx.dyhook
 Version: 2.0.7
 Architecture: iphoneos-arm64
