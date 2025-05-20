@@ -736,6 +736,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
 Name: floatingView
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
 
+Package: com.be-huge.tie-gesture
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 672
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/手势插件1.0.0_iphoneos-arm64.deb
+Size: 102152
+MD5sum: 36842107862e11304cae08d2a839754f
+SHA1: fdab18f573f0dbeeb697dcb04aef869a6f1741c1
+SHA256: 3ad7e7ca2083c068861c1014d5ad17650077851c501770eb86acf6a55d0b9b38
+Section: 你的iPhone不止于此
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/sscj.png
+Name: 领带手势
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/sscj.json
+
 Package: com.be-huge.wechat-pop-vc
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1159,6 +1177,26 @@ Size: 386216
 MD5sum: 3b2b0cc802a862aa12e42cfc2a9c3846
 SHA1: 833854ee0d75aaf939d699cd9233e89d4e0e2dd8
 SHA256: 93df13b6533a8129fe1266ee0eb75c95299e26ab930197f42b7c2201fb31bad4
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami&Vita
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dyyy.png
+Name: DYYY
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dyyyvita.json
+
+Package: com.huami.dyyy
+Version: 2.2-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2240
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/维他dyyy_2.2-7_iphoneos-arm64.deb
+Size: 437148
+MD5sum: f366a7f0df1c8f3fe37e030860621da4
+SHA1: 6acf74c41d524cf761f269f64fb55d652f070d31
+SHA256: 0cc99381655fbe554a975f0c5850d28904da1a1c36638875754f4fce87d6cf92
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -1695,6 +1733,42 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wxzq.png
 Name: 微信优化
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxyh.json
 
+Package: com.simon.ccmusic
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 428
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: debs/控制中心音乐模块_1.0.5.deb
+Size: 28812
+MD5sum: 937a5058e592ac9c39e6c105fca4bfc7
+SHA1: c1f7b8bcbaf2cb2a788d62dc6949959147d6608d
+SHA256: 7e812ac28768f632955efca11ab064c8e1a457fd8b21abac1325dc4e66445bbf
+Section: 你的iPhone不止于此
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/yymk.png
+Name: 控制中心音乐模块动画
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/yymk.json
+
+Package: com.simon.dynamicislandanimation
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 432
+Depends: mobilesubstrate
+Filename: debs/灵动岛跳舞_1.1.8_iphoneos-arm64.deb
+Size: 29156
+MD5sum: c03594c922cae5db1509c46958c00b6b
+SHA1: cc88dd81e853e75223ab84301f7dbf9f6fe22959
+SHA256: c14b693defc35cecfa065bfd4704a6a2c38c79a3f9e31a016f334cb7f245d78c
+Section: 屎上雕花
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/lddtw.png
+Name: 灵动岛跳舞动画PLUS
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/lddtw.json
+
 Package: com.stbz.amonglock
 Version: 1.1.6
 Architecture: iphoneos-arm64
@@ -1962,6 +2036,62 @@ Description: 墓前可用，未来可期
 Author: 支持正版/抵制格机
 Name: split-view-pro
 Ts: sp-sss
+
+Package: com.vita.yuki
+Version: 0.0-1-1
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 204
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.vita.yuki_0.0-1-1_iphoneos-arm64.deb
+Size: 18400
+MD5sum: d9e4e17d69a6c1374c189231d83114e4
+SHA1: 42d4721d3532520524c01f7338b5b15d19ea38ac
+SHA256: 8a3e7c7ff9a38e57149456e7203b40c77302585e3c5cb51fc9cb58dce6d32db7
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Name: Yuki
+
+Package: com.vita.yuki
+Version: 0.0-2
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 220
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.vita.yuki_0.0-2_iphoneos-arm64.deb
+Size: 22230
+MD5sum: f66cfa6d68faf792264f6ebfbd58bfe3
+SHA1: c6b7a1942025cbae158e47a17e4d7f590d6ce69a
+SHA256: c94cc3ad81debbcd2bf532ac54ecabeff8f335fd8a349ce89075311450e8a730
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Name: Yuki
+
+Package: com.vita.yuki
+Version: 0.0-3
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 240
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/抖音防撤回0.0-3_iphoneos-arm64.deb
+Size: 24668
+MD5sum: 24027f765bd364f39b4c748850a32f54
+SHA1: faef1d4e9b9944c0f029c907c91b4d51bf6144dd
+SHA256: 31ff93efab7e936ad9d6d1aaedb65e4e252a9610fb7af079dd6f2d7eaae66983
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dyyy.png
+Name: 抖音防撤回
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dyfch.json
 
 Package: com.wechat.enhance
 Version: 1.1.2
