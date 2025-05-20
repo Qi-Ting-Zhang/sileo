@@ -9,11 +9,12 @@
             "tabname": "描述",
             "views": [
                 {
-                    "text":"点击加入作者群",
-                    "action":"https://t.me/wjrlj",
+                    "text": "点击加入作者群",
+                    "action": "https://t.me/wjrlj",
                     "openExternal": 1,
-"tintColor": "#ff8700",                   "class":"DepictionButtonView"
-                },     
+                    "tintColor": "#ff8700",
+                    "class": "DepictionButtonView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "🌟拒绝一切建议，只会添加我需要的。</br>🌟随缘更新，实在没事做了会更新一次。</br>🌟功能我用着正常就行，不要和我反馈说这个不正常那个不正常的。本来就是免费的东西还要什么三轮车，另外篡改我插件进行盈利的你没有妈妈！！你妈死了！</br>🌟由于项目特殊性及卖定制V的不良人员，不考虑开源，不要私信问我了。",
@@ -26,17 +27,24 @@
             "tabname": "更新",
             "views": [
                 {
-                    "text":"点击加入作者群",
-                    "action":"https://t.me/wjrlj",
+                    "text": "点击加入作者群",
+                    "action": "https://t.me/wjrlj",
                     "openExternal": 1,
-"tintColor": "#000000",                    "class":"DepictionButtonView"
+                    "tintColor": "#000000",
+                    "class": "DepictionButtonView"
                 },
-{
-    "class": "DepictionMarkdownView",
-    "markdown": "### 1.3.0\n\n- 修复添加字体无反应的问题  \n- 修复信息直达冲突  \n- 时间自定义添加伪已读标签    \n\n关于微信已读再说一遍:这只是自慰功能，明白嘛?是自慰，没有真的已读功能!。"},
                 {
-    "class": "DepictionMarkdownView",
-    "markdown": "### 1.1.7\n\n1. 新增输入框支持添加边框  \n2. 修复占位文本和输入框圆角会被错误应用到微信几乎所有输入框界面  \n3. 信息弹窗添加点击跳转个人信息入口（临时入口，后期再作修改）  \n4. 修复一些小的问题  \n\n🌟 还是一样不接受任何建议，我只添加我想要的，你觉得不满大可以自己写，用别的插件。"},
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.4-2\n- 优化\"禁用热更新\"\n- 修复点击音频文件会闪退的问题。\n- 修复点击服务号会闪退问题。\n- 初步优化自动回复功能。\n- 优化\"兼容性优化\"。\n- 修复新安装微信首次打开时,不会显示登录按钮的问题。"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.3.0\n\n- 修复添加字体无反应的问题  \n- 修复信息直达冲突  \n- 时间自定义添加伪已读标签    \n\n关于微信已读再说一遍:这只是自慰功能，明白嘛?是自慰，没有真的已读功能!。"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1.7\n\n1. 新增输入框支持添加边框  \n2. 修复占位文本和输入框圆角会被错误应用到微信几乎所有输入框界面  \n3. 信息弹窗添加点击跳转个人信息入口（临时入口，后期再作修改）  \n4. 修复一些小的问题  \n\n🌟 还是一样不接受任何建议，我只添加我想要的，你觉得不满大可以自己写，用别的插件。"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.1.6\n- 1.应某位打赏宝子的需求添加更多的自定义文本\n- 2.添加占位符，输入框圆角\n- 同样拒绝一切建议，只会添加我需要的。\n- 别人什么都许愿，是不是有点觉得我很好说话，再说一次免费的要什么三轮车😃😃"
@@ -84,7 +92,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "2x5布局支持隐藏(锁死2x5不支持调整)</br>按照你们的要求对隐藏头像进行了解耦</br>🌟🌟深思熟虑后，决定插件进入END版本，我要去忙我自己的事情了，有缘再更新吧，偷窃的恶劣性质太多，吃力不讨好的行为，终是昙花一现☺️☺️☺️",
                     "useRawFormat": true
-                }  
+                }
             ]
         }
     ]
