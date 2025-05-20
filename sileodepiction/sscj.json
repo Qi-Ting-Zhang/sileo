@@ -1,0 +1,45 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件描述",
+            "views": [
+                {
+                     "text":"点击查看vcr（还没录）",
+                     "action":"https://v.douyin.com/iSEndxjh/",
+                     "openExternal": 1,
+                     "tintColor": "#ff8700",
+                     "class":"DepictionButtonView"
+                 },
+                {
+                    "text":"点击购买分屏授权（¥100）",
+                    "action":"https://qr.alipay.com/tsx16073sp9uagherfgnn4b",
+                    "openExternal": 1,
+                    "tintColor": "#3774F6",
+                    "class":"DepictionButtonView"
+                },
+                {
+                    "text":"十人拼团立减10（¥90）",
+                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "tintColor": "#4CD964",
+                    "class":"DepictionButtonView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### svp作者新的手势插件\n\n- 阔别已久，诸位别来无恙。\n- 某些话还是得要说在前头的——由衷的感谢一年来所有支持floating-view的各位大哥，得益于他们的支持，现推出tie-gesture对外版。\n- 关于它的名字由来，也是别有用心的，具体含义可不是只言片语便能分说完的。不过，它的诞生之由，倒是可以说说：\n- 自接触iOS越狱社区以来，用了数不胜数的插件。有使人难以上手的，也有体验感极佳的，但总体来看，很难找到一个类似于安卓手机的手势插件。例如三指下滑截图、三指单击切换暗黑模式等等。\n- 虽然在floating-view中，内置了arc操作轮盘菜单，但它总得先呼出来，随后再将手指移动到对应的功能按钮之上，才能开启或者关闭某个快捷功能。即使用户能够克服诸如此类的操作不便，但它能够设置的数量却是有限的，于我而言，我是经常纠结是设置这个按钮呢，还是设置另一个按钮呢？\n- 故而，它便是因此而诞生的。"
+                },
+                {
+                    "title":"我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class":"DepictionTableButtonView"
+                }               
+            ]
+        }
+    ]
+}

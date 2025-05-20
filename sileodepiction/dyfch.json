@@ -1,0 +1,62 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件描述",
+            "views": [
+                {
+                    "text": "点击加入作者群",
+                    "action": "https://t.me/vita_app",
+                    "openExternal": 1,
+                    "tintColor": "#ff8700",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 仅抖音防撤回，随缘更新，注入生效，没有开关。感谢wahaha"
+                },
+                {
+                    "title": "我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action": "https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class": "DepictionTableButtonView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "text": "点击加入作者群",
+                    "action": "https://t.me/vita_app",
+                    "openExternal": 1,
+                    "tintColor": "#ff8700",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.0-3\n- 增加发送已读按钮，修复了一些问题"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.0-2\n- 1.新增自定义时间标签颜色\n- 2.新增单向已读回执(感谢 lhyee)\n- 开启后重启抖音生效，可以看到对方已读，对方看不到你已读。\n- 说说Yuki，Yuki和DYYY的定位不同，也不会有重复的功能，所有代码都是重新写的，包括设置，所以不开源，很多功能也不适合开源，DYYY依然会更新，UI调整等仍然会加入DYYY中。"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.0-1\n- 1.带提示防撤回(必须在后台)\n- 2.消息显示时间标签\n- 3.隐藏系统自带时间提示\n- 4.闭源不混淆，无联网，无时间限制"
+                },
+                {
+                    "title": "我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action": "https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class": "DepictionTableButtonView"
+                }
+            ]
+        }
+    ]
+}
