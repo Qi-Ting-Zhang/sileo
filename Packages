@@ -1242,6 +1242,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dbys.png
 Name: 顶部元素
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dbys.json
 
+Package: com.huami.wcnicknameavatarstyle
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 524
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/顶部元素2.2_iphoneos-arm64.deb
+Size: 71428
+MD5sum: df7f13a350a9b03d2bc19359cc50b67d
+SHA1: 927cd9f5b86440402ad32e53b971963eb6fc6a19
+SHA256: 622d48bf2df1485dc6b053d04444537dd79b57f844af739baad17ad5fe3f472d
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dbys.png
+Name: 顶部元素
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dbys.json
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
