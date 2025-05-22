@@ -1533,6 +1533,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
 Name: App Lecard（小窗）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
 
+Package: com.lhh.lockplayer
+Version: 2.9
+Architecture: iphoneos-arm64
+Maintainer: lhh
+Installed-Size: 2748
+Depends: firmware (>= 15.0)
+Filename: debs/锁屏播放器2.9.deb
+Size: 176176
+MD5sum: 89778d1e95084a101852d96bfe0ea915
+SHA1: 33262aa58306960b1388598e111d82b3a95f1276
+SHA256: 5a8f7696f67e8dfc44ff286e256ca5b318a3e92cdfbf12b5c5a911f49d47fcf1
+Section: 你的iPhone不止于此
+Description: reachplayer源码修改的锁屏播放器
+Author: lhh
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/banner.png
+Name: 锁屏播放器，超绝自定义
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/spbfq.json
+
 Package: com.misakaproject.frendacc.stbz
 Version: 1.0.1
 Architecture: iphoneos-arm64
