@@ -1,0 +1,47 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 在锁屏界面添加一个音乐播放器，个性化调节每个元素大小位置颜色透明度等等\n- 建议将原生播放器隐藏更协调\n- 所有修改即时生效"
+                }
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/spbfq/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/spbfq/2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/spbfq/3.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 2.9\n- 初始发布"
+                }
+            ]
+        }
+    ]
+}
