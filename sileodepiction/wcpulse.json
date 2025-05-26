@@ -1,0 +1,36 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 微信插件\n- 长按视频倍速播放\n- 自定义防撤回\n- 对话框3D touch预览\n- 若干"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-9\n- 新增 “删除会话” 菜单项\n- 消息列表按压后根据手指位置显示菜单\n- 移除绕过多开限制功能确保稳定性\n- 加入兼容性判断 确保不支持按压的地方不会崩溃\n- ⚠️修复热更新导致的防撤回失效"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-8\n- 新增禁止删除消息聊天记录\n- 新增长按首页消息预览视图\n- 🔔小提示\n- 类似微信7.x 版本中存在的3D Touch 预览功能\n- 支持进入/置顶/免打扰 同样支持取消\n- 灵感来源于（但并未直接沿用）：\n- 而是重新编写了一个相同的功能"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0-7新增一些问题\n- 优化部分代码\n- 解决提出问题的人\n- 合并插件管理排序的代码\n- 默认绕过多开人脸、无后台限制\n- 🟠解决聊天记录内文件错误显示时间标签"
+                }
+            ]
+        }
+    ]
+}
