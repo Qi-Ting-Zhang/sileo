@@ -1146,6 +1146,42 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
 Name: 插件管理排序
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/cjglpx.json
 
+Package: com.huami.WCPulse
+Version: 1.0-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WCPulse_1.0-8_iphoneos-arm64.deb
+Size: 69424
+MD5sum: ff923c413c4c2117ccd9b40517b409c5
+SHA1: 249e5b30950d7b47efc2804854b4ad3f15dfca75
+SHA256: 080b52a9c6f1a0eba6027f8a13b8513f287b439b10a7c212f774b9b6d01acb12
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: WCPulse
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wcpulse.json
+
+Package: com.huami.WCPulse
+Version: 1.0-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WCPulse_1.0-9_iphoneos-arm64.deb
+Size: 70780
+MD5sum: 1f54086a296f3498f120e2c53ea0d070
+SHA1: 9835e72bb566d08b4ce9e30ab3515fcec46b52a0
+SHA256: 49dc8872346ded61d41c8760019fe6441c03b9eccb0720ef66bf2022043ba3f7
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: WCPulse
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wcpulse.json
+
 Package: com.huami.dyyy
 Version: 2.1-7
 Architecture: iphoneos-arm64
@@ -1768,6 +1804,24 @@ Author: 热心网友＆雪糕
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wxzq.png
 Name: 微信优化
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxyh.json
+
+Package: com.shtm.flexibleexpression
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 920
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/重力岛0.0.1_iphoneos-arm64.deb
+Size: 350980
+MD5sum: e418334e97048cc5b4ff350783f0d7ac
+SHA1: 8cfa322925796861a711fb2e9eb8da0a164ff7e7
+SHA256: 597a18c297cfdb9409028476a431bd4ca2916bbe3f5fb2e53d747166ab188da6
+Section: 屎上雕花
+Description: 为灵动岛添加炫酷的动画效果
+Author: SHTM
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/zld.png
+Name: 灵动魔幻陀螺
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/zld.json
 
 Package: com.simon.ccmusic
 Version: 1.0.5
