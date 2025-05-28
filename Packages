@@ -844,6 +844,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
 Name: 微信通知直达对话框
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxtz.json
 
+Package: com.be-huge.wechat-push-msg-page
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/微信通知0.0.5_iphoneos-arm64.deb
+Size: 23384
+MD5sum: e48ac311aedef3baeab82f37e9cf6694
+SHA1: 9c215c2a5d6b9d0348880a57a4d008cf5e1f320a
+SHA256: f8331ddd483c7b3d022b75479c80f776ff3063d1eea7366429809736b1051606
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: 微信通知直达对话框
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxtz.json
+
 Package: com.brend0n.nopassafterrespringsafe
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -1829,7 +1847,7 @@ Architecture: iphoneos-arm64
 Maintainer: SHTM
 Installed-Size: 992
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.shtm.flexibleexpression_1.1.0_iphoneos-arm64.deb
+Filename: debs/重力岛1.1.0_iphoneos-arm64.deb
 Size: 559924
 MD5sum: 5c97658014ed25e97e3386e91e2d52f0
 SHA1: d194055db99f214afb33057bbf9fc0ba79f18260
@@ -1994,6 +2012,24 @@ Description: 把你的底部小横条变成玉米或其他！
  * Change your HomeBar into corn!
 Author: Wes <wes.hamster@gmail.com>
 Name: CornBar 玉米底部横杠
+
+Package: com.stbz.zoomanimation
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 思念变成海
+Installed-Size: 376
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/桌面缩放0.0.1.deb
+Size: 37056
+MD5sum: 75926881386d6308512d2b94e30c5528
+SHA1: 39342deba008732adf086972c37ec066903eb39b
+SHA256: a954ea0989c3d5170a76a677bf18d0db81e0b99fda10817c483e9224d3c92de0
+Section: 你的iPhone不止于此
+Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈，由搬运工源群管理思念变成海开发，当前默认值不可调，耐心等待作者修复！越狱因为分享更精彩！
+Author: SINI
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/zmsf.png
+Name: ZoomAnimation交互动画
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/zmsf.json
 
 Package: com.sunshinesong.native-island
 Version: 1.0.1
