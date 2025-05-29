@@ -2014,21 +2014,21 @@ Author: Wes <wes.hamster@gmail.com>
 Name: CornBar 玉米底部横杠
 
 Package: com.stbz.zoomanimation
-Version: 0.0.1
+Version: 0.0.1-2
 Architecture: iphoneos-arm64
-Maintainer: 思念变成海
-Installed-Size: 376
+Maintainer: SINI
+Installed-Size: 412
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/桌面缩放0.0.1.deb
-Size: 37056
-MD5sum: 75926881386d6308512d2b94e30c5528
-SHA1: 39342deba008732adf086972c37ec066903eb39b
-SHA256: a954ea0989c3d5170a76a677bf18d0db81e0b99fda10817c483e9224d3c92de0
+Filename: debs/桌面缩放0.0.1-2_iphoneos-arm64.deb
+Size: 44008
+MD5sum: 7b4c3bece8f871c57bec6346e4aa1d27
+SHA1: e99018393d64005350351e2cbdf607a71b97df62
+SHA256: ec1f2c9bf4bb1abefbbcba815733560663c89cb0840ddcf32eb6090a91b8aab1
 Section: 你的iPhone不止于此
-Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈，由搬运工源群管理思念变成海开发，当前默认值不可调，耐心等待作者修复！越狱因为分享更精彩！
+Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
 Author: SINI
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/zmsf.png
-Name: ZoomAnimation交互动画
+Name: ZoomAnimation桌面缩放
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/zmsf.json
 
 Package: com.sunshinesong.native-island
