@@ -9,36 +9,36 @@
             "tabname": "插件描述",
             "views": [
                 {
-                     "text":"点击查看vcr（还没录）",
-                     "action":"https://v.douyin.com/iSEndxjh/",
-                     "openExternal": 1,
-                     "tintColor": "#ff8700",
-                     "class":"DepictionButtonView"
-                 },
-                {
-                    "text":"点击购买授权（¥100）",
-                    "action":"https://qr.alipay.com/tsx16073sp9uagherfgnn4b",
+                    "text": "点击查看vcr（还没录）",
+                    "action": "https://v.douyin.com/iSEndxjh/",
                     "openExternal": 1,
-                    "tintColor": "#3774F6",
-                    "class":"DepictionButtonView"
+                    "tintColor": "#ff8700",
+                    "class": "DepictionButtonView"
                 },
                 {
-                    "text":"十人拼团立减10（¥90）",
-                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "text": "点击购买授权（¥100）",
+                    "action": "https://qr.alipay.com/tsx16073sp9uagherfgnn4b",
+                    "openExternal": 1,
+                    "tintColor": "#3774F6",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "text": "十人拼团立减10（¥90）",
+                    "action": "https://qi-ting-zhang.github.io/sileo/images/ewm.png",
                     "openExternal": 1,
                     "tintColor": "#4CD964",
-                    "class":"DepictionButtonView"
+                    "class": "DepictionButtonView"
                 },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### svp船新版本fv，需支付100元子\n\n- arc  \n- 小窗  \n- 三联屏  \n- 通知激活小窗  \n- 侧边窗口调度  \n- 若干功能"
                 },
                 {
-                    "title":"我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
-                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "title": "我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action": "https://qi-ting-zhang.github.io/sileo/images/ewm.png",
                     "openExternal": 1,
-                    "class":"DepictionTableButtonView"
-                }               
+                    "class": "DepictionTableButtonView"
+                }
             ]
         },
         {
@@ -46,25 +46,29 @@
             "tabname": "更新日志",
             "views": [
                 {
-                     "text":"点击查看vcr（还没录）",
-                     "action":"https://v.douyin.com/iSEndxjh/",
-                     "openExternal": 1,
-                     "tintColor": "#ff8700",
-                     "class":"DepictionButtonView"
-                 },
-                {
-                    "text":"点击购买授权（¥100）",
-                    "action":"https://qr.alipay.com/tsx16073sp9uagherfgnn4b",
+                    "text": "点击查看vcr（还没录）",
+                    "action": "https://v.douyin.com/iSEndxjh/",
                     "openExternal": 1,
-                    "tintColor": "#3774F6",
-                    "class":"DepictionButtonView"
+                    "tintColor": "#ff8700",
+                    "class": "DepictionButtonView"
                 },
                 {
-                    "text":"十人拼团立减10（¥90）",
-                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "text": "点击购买授权（¥100）",
+                    "action": "https://qr.alipay.com/tsx16073sp9uagherfgnn4b",
+                    "openExternal": 1,
+                    "tintColor": "#3774F6",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "text": "十人拼团立减10（¥90）",
+                    "action": "https://qi-ting-zhang.github.io/sileo/images/ewm.png",
                     "openExternal": 1,
                     "tintColor": "#4CD964",
-                    "class":"DepictionButtonView"
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.5-9\n- 1、外部唤起浮窗默认从屏幕中间显示隐藏。\n- 2、优化搜索应用速度"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -131,12 +135,12 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "提升系统稳定性，优化系统流畅度",
                     "useRawFormat": true
-                }, 
+                },
                 {
-                    "title":"我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
-                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "title": "我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action": "https://qi-ting-zhang.github.io/sileo/images/ewm.png",
                     "openExternal": 1,
-                    "class":"DepictionTableButtonView"
+                    "class": "DepictionTableButtonView"
                 }
             ]
         }
