@@ -1884,10 +1884,10 @@ Maintainer: SHTM
 Installed-Size: 920
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/重力岛1.2.0_iphoneos-arm64.deb
-Size: 3649064
-MD5sum: 882a0cdda6fd8b5010bc5114e00dbbcf
-SHA1: 975cfe335b06430638d743f5d08261b0354720db
-SHA256: 82b3c01c76f30346d47b784af168d75a1d20f9dcec41560e32980d99f478f99c
+Size: 3846792
+MD5sum: 8f66480b42acf1b668f4bbaf07cd1bc9
+SHA1: ac79a0c3031e659736dec4e203d639cd90854cba
+SHA256: 37d297464396963f92ae4c9750c6149880e0567ad14f58318a8dd15680c601d3
 Section: 屎上雕花
 Description: 灵动空间，灵动岛不再枯燥！1.1.0 更新内容：1. 添加对原生通知横幅的动画支持 2.添加原生通知应用图标旋转动画 1.2:添加锁屏动画
 Author: SHTM
