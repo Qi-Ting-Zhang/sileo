@@ -1877,6 +1877,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/zld.png
 Name: 灵动魔幻陀螺
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/zld.json
 
+Package: com.shtm.flexibleexpression
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: SHTM
+Installed-Size: 920
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/重力岛1.2.0_iphoneos-arm64.deb
+Size: 3649064
+MD5sum: 882a0cdda6fd8b5010bc5114e00dbbcf
+SHA1: 975cfe335b06430638d743f5d08261b0354720db
+SHA256: 82b3c01c76f30346d47b784af168d75a1d20f9dcec41560e32980d99f478f99c
+Section: 屎上雕花
+Description: 灵动空间，灵动岛不再枯燥！1.1.0 更新内容：1. 添加对原生通知横幅的动画支持 2.添加原生通知应用图标旋转动画 1.2:添加锁屏动画
+Author: SHTM
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/zld.png
+Name: 灵动魔幻陀螺
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/zld.json
+
 Package: com.simon.ccmusic
 Version: 1.0.5
 Architecture: iphoneos-arm64
