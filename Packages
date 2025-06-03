@@ -629,6 +629,24 @@ Author: appku
 Name: 爱锋助手
 
 Package: com.be-huge.floating-view
+Version: 1.5.5-10
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3172
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/fv1.5.5-10_iphoneos-arm64.deb
+Size: 610916
+MD5sum: b5119b1ae2173eafeb537e1a85f0e614
+SHA1: 2b9b1458f9a419b298ec8bdfcc6d846a4e068303
+SHA256: db9764a3853639cd01eda83f3be83109aefe9380643d52e453e9d299686697c6
+Section: 分屏＆小窗
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
+Name: floatingView
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
+
+Package: com.be-huge.floating-view
 Version: 1.5.5-3
 Architecture: iphoneos-arm64
 Maintainer: be-huge
