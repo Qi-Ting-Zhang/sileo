@@ -68,6 +68,10 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6-1\n- 修复点击通知中心消息打开应用错乱问题"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.6\n- 1、修复外部关闭浮窗失效问题。\n- 2、侧边栏应用、浮窗阴影适配暗黑模式。\n- 3、新增浮窗交互接口。"
                 },
                 {
