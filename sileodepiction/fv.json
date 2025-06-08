@@ -68,6 +68,14 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6-3\n- 添加Q弹浮窗动画"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6-2\n- 镜像arc返场"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.6-1\n- 修复点击通知中心消息打开应用错乱问题"
                 },
                 {
