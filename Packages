@@ -628,6 +628,24 @@ Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟
 Author: appku
 Name: 爱锋助手
 
+Package: com.baiy.keyboardhook
+Version: 2.0-6+debug
+Architecture: iphoneos-arm64
+Maintainer: baiy(QQ：961666883)
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/输入法2.0-6+debug_iphoneos-arm64.deb
+Size: 45224
+MD5sum: 9979433a6b3e3a65b9767eaeb43926bd
+SHA1: 67c70db3d673fc6d49ebcf9307829656eb7c2436
+SHA256: e7af048711a524ee734dfe74131c340cda3a0bc2a92c114fcd7c3484606c22eb
+Section: 你的iPhone不止于此
+Description: 关于系统输入法和微信输入法的一些自定义，让键盘更个性化！
+Author: baiy
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/jp.png
+Name: 微信键盘自定义
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/jp.json
+
 Package: com.be-huge.floating-view
 Version: 1.5.5-10
 Architecture: iphoneos-arm64
