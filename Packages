@@ -1830,6 +1830,24 @@ Description: Shows where you touch the screen
 Author: LonestarX
 Name: ShowTouch
 
+Package: com.nightwind.horizontalsliders
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debs/水平滑块0.0.1_iphoneos-arm64.deb
+Size: 10652
+MD5sum: 224cfa0a411f5b71588b4e8e77466183
+SHA1: 0479e7a62f87cc6cd9087add747910a1535aec8a
+SHA256: 8d7281734d75dd2808eb41fa8d393ddf5768d5c6a2eee4e1f1389c1f82656f8d
+Section: 你的iPhone不止于此
+Description: 使控制中心的亮度和音量滑块水平滑动。
+Author: Nightwind
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/sphk.png
+Name: 水平滑块
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/sphk.json
+
 Package: com.nx.appcardlite
 Version: 2.2.6
 Architecture: iphoneos-arm64
