@@ -2767,6 +2767,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/riyuexingchen.png
 Name: 日月星辰开关
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/riyuexingchen.json
 
+Package: de.finngaida.daynightswitch
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Finn Gaida
+Installed-Size: 584
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: debs/日月星辰1.2_iphoneos-arm64.deb
+Size: 69292
+MD5sum: b7e7a6384d25861c541c05ab85349f48
+SHA1: 78ca567d05dc3ad7809706cbefff116681f59a3b
+SHA256: 2aaa6c8a83c3f4b78fd6905567f97e2e25ff5c2f41665edb41b2c51b4e256b2c
+Section: 你的iPhone不止于此
+Description: 修复日月开关在时钟、QQ 音乐中的错位、动画跳变问题
+Author: 来一杯82年的拉菲
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/riyuexingchen.png
+Name: 日月星辰开关
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/rykg.json
+
 Package: falai.xc.lzsxcl.o2pro
 Version: 13.0
 Architecture: iphoneos-arm64
