@@ -3055,10 +3055,10 @@ Installed-Size: 968
 Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: net.tateu.moorebarx13, net.tateu.moorebarx16
 Filename: debs/状态栏moorebarx15_1.0.0~beta1.0.5_iphoneos-arm64.deb
-Size: 161048
-MD5sum: 5859b05262b5702064971bf45c67fd44
-SHA1: f79afd4d145d1541565350e3e9a518090d65c7f4
-SHA256: a5238def0e162d4148798075f8ddb0e8b81ad23b6f997b6320b527e9340231a6
+Size: 161012
+MD5sum: 42390328b391dc718b430869c8805ccf
+SHA1: 8bee69a271198774d217811c0c01007897fcfacb
+SHA256: 6f6b660d7368187e5e5c2a1556314a3f9e5272bc67388c0f4740b5abab0b7809
 Section: 你的iPhone不止于此
 Description: 新晋状态栏插件，可将通知图标悬于状态栏，自定义状态栏控制中心样式，显示系统开关状态等
 Author: tateu (Josh Harris) <tateu@tateu.net>
