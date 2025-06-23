@@ -68,6 +68,10 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6-4\n- 修改了关闭浮窗的某些逻辑"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.6-3\n- 添加Q弹浮窗动画"
                 },
                 {
