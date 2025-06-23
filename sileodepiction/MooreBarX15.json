@@ -1,0 +1,38 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件描述",
+            "views": [
+                {
+    "class": "DepictionButtonView",
+    "action": "https://qi-ting-zhang.github.io/sileo/vcr/MooreBarX15.mp4",
+    "openExternal": false,
+    "isLink": true,
+    "yPadding": 10,
+    "view": {
+        "class": "DepictionLabelView",
+        "text": "工作的时候称植物 (Tap to vcr)",
+        "fontSize": 18,
+        "alignment": 1,
+        "margins": "{21, 15, 6, 15}"
+    }
+},
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 新晋状态栏插件\n\n- 通知图标上状态栏  \n- 系统状态开关上状态栏  \n- 状态栏宽窄胖瘦自定义  \n- 控制中心自定义  \n- 若干功能"
+                },
+                {
+                    "title": "我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action": "https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class": "DepictionTableButtonView"
+                }
+            ]
+        }
+    ]
+}
