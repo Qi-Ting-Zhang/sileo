@@ -3047,6 +3047,26 @@ Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Name: PopOutButtons （实体按键动画）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/popoutbuttons.json
 
+Package: stbz.net.tateu.moorebarx15
+Version: 1.0.0~beta1.0.5
+Architecture: iphoneos-arm64
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Installed-Size: 968
+Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: net.tateu.moorebarx13, net.tateu.moorebarx16
+Filename: debs/状态栏moorebarx15_1.0.0~beta1.0.5_iphoneos-arm64.deb
+Size: 161056
+MD5sum: 0383ffb9c87d40b1902436bffa8ba8f7
+SHA1: 2193bfc8a89de05774d4856e62c2a3f2d93957dd
+SHA256: eecf69c52b6430ad549782807ddc462467d3c61105a22042208bccd71dea3f4c
+Section: 你的iPhone不止于此
+Description: More StatusBar icons.
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Depiction: 新晋状态栏插件，可将应用通知悬于状态栏，自定义状态栏控制中心样式，显示系统开关状态等
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/MooreBarX15.png
+Name: MooreBarX15（状态栏）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/MooreBarX15.json
+
 Package: stbz.uncar
 Version: 0.0.1-6
 Architecture: iphoneos-arm64
