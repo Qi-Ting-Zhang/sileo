@@ -3055,14 +3055,13 @@ Installed-Size: 968
 Depends: firmware (>=15.0), mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: net.tateu.moorebarx13, net.tateu.moorebarx16
 Filename: debs/状态栏moorebarx15_1.0.0~beta1.0.5_iphoneos-arm64.deb
-Size: 161056
-MD5sum: 0383ffb9c87d40b1902436bffa8ba8f7
-SHA1: 2193bfc8a89de05774d4856e62c2a3f2d93957dd
-SHA256: eecf69c52b6430ad549782807ddc462467d3c61105a22042208bccd71dea3f4c
+Size: 161048
+MD5sum: 5859b05262b5702064971bf45c67fd44
+SHA1: f79afd4d145d1541565350e3e9a518090d65c7f4
+SHA256: a5238def0e162d4148798075f8ddb0e8b81ad23b6f997b6320b527e9340231a6
 Section: 你的iPhone不止于此
-Description: More StatusBar icons.
+Description: 新晋状态栏插件，可将通知图标悬于状态栏，自定义状态栏控制中心样式，显示系统开关状态等
 Author: tateu (Josh Harris) <tateu@tateu.net>
-Depiction: 新晋状态栏插件，可将应用通知悬于状态栏，自定义状态栏控制中心样式，显示系统开关状态等
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/MooreBarX15.png
 Name: MooreBarX15（状态栏）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/MooreBarX15.json
