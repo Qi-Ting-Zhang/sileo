@@ -147,6 +147,23 @@ Description: Filza Extension To Calculate Folders Inside Your Filesystem
 Author: 0xkuj
 Name: FilzaDirProbe
 
+Package: com.0xkuj.filzadirprobe
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: debs/com.0xkuj.filzadirprobe_1.7.1_iphoneos-arm64.deb
+Size: 33128
+MD5sum: 990d63f4f0893fd008249250897b27d5
+SHA1: b406dc2b214cee31d4b06d9599c4f918fd881dac
+SHA256: 82b01276f231ce9dc5cfa8cc2631353d1ea51bcba4b4826c27e91498dca7cfc2
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/filza.png
+Name: FilzaDirProbe
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/filza.json
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-6
 Architecture: iphoneos-arm64
@@ -521,6 +538,24 @@ Description: ActivityAction（MenuSupport拓展插件）简体中文，贾队长
 Author: 祁同伟
 Name: ActivityAction 简体中文包
 
+Package: com.Doki.wxkeyboarduihook
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: Doki
+Installed-Size: 416
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/com.Doki.wxkeyboarduihook_1.8_iphoneos-arm64.deb
+Size: 81424
+MD5sum: 0143b68e739ddce716a1d5be9a51765a
+SHA1: c124bb89d8f45c51f1acf3e503e911b36f7b4b5c
+SHA256: 505059665bc215aa28a6fcf870831a4d79b2fcfa1487d9cc4accac998996d329
+Section: 你的iPhone不止于此
+Description: 微信输入法自定义
+Author: Doki
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wxjp.png
+Name: 微信键盘自定义
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxjp.json
+
 Package: com.HBWechatHelper.ailun
 Version: 1.8.2
 Architecture: iphoneos-arm64
@@ -645,6 +680,24 @@ Author: baiy
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/jp.png
 Name: 微信键盘自定义
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/jp.json
+
+Package: com.be-huge.custom-notification-sound
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/com.be-huge.custom-notification-sound_1.0.0_iphoneos-arm64.deb
+Size: 59148
+MD5sum: 9782a1aa6532fdf9748569ac341d4f6c
+SHA1: f0b02d642bbc04ec173a0c3d5b3ce07ca6bac305
+SHA256: 2507f65de53917ca37586ff8da88664d3b7ba6d58d1d76e8b4f4e51a895915aa
+Section: 微信插件
+Description: 自定义微信联系人通知声音（似乎对mp3文件不太友好）。使用方式：在对话框中，长按对方头像即可。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: 微信好友提示音自定义
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxtsy.json
 
 Package: com.be-huge.floating-view
 Version: 1.5.5-10
@@ -873,6 +926,42 @@ Size: 617740
 MD5sum: 40ec4145d855b62533e28b7eec273a9f
 SHA1: 190795596bd0d02fb595dacda8455264c2e4d917
 SHA256: b2a8faec5d07206a06a070036cecc5ed28884ee1f51aa3065da016299ea29171
+Section: 分屏＆小窗
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
+Name: floatingView
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.6-5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3188
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/fv1.5.6-5_iphoneos-arm64.deb
+Size: 622528
+MD5sum: 0e2b0551fe2cb996f09c652c69986e2f
+SHA1: 82be41ca23c004d902242374f4ac4176ecd529e6
+SHA256: dfbe1cf04ef7a64d3296f60d9777660ecc9aaadcacc0a8b68b94c9a4ef827813
+Section: 分屏＆小窗
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
+Name: floatingView
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.6-6
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3228
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/fv1.5.6-6_iphoneos-arm64.deb
+Size: 625588
+MD5sum: cc2f560a9ab038340ab739b73fd0bcdd
+SHA1: 7b80662a43a3998cd298d4c66228c17bd1fc9c98
+SHA256: 758995cf301c6883b706bae9bf8ed93917e3b8b7611e8f39bd58473f313c6259
 Section: 分屏＆小窗
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
@@ -2175,6 +2264,25 @@ Author: Erast
 Icon: https://media.havoc.app/6479ae15276ae33252efbe71
 Name: Violet Pro  个性化siri
 
+Package: com.stbz.waktos2
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 1228
+Depends: mobilesubstrate, firmware (>= 14.0), ws.hbang.common (>= 2.0), preferenceloader
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe, com.ali.aim, com.ali.aimpro, com.icraze.nexus
+Filename: debs/waktos2_1.0_iphoneos-arm64.deb
+Size: 413152
+MD5sum: b2fb7b4472b31359e3215491bba26d79
+SHA1: da599062b46d5e28b0401b12fca676fcdf9b8186
+SHA256: db1b983145c8599f2117c035af14d3f8d66e94737e484599a57dc9288ce1703e
+Section: 你的iPhone不止于此
+Description: 安卓风格锁屏。Cracked by ZBC
+Author: alimaulana
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/waktos2.png
+Name: Waktos 2（锁屏）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/waktos2.json
+
 Package: com.stbz.wrp1002.cornbars
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -2242,6 +2350,24 @@ Section: 屎上雕花
 Description: 原生岛通知，从简即可。仅仅支持iOS16.0+
 Author: sunshinesong
 Name: native-island-notifier
+
+Package: com.sunshinesong.native-island
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), org.thebigboss.libcolorpicker
+Filename: debs/com.sunshinesong.native-island_1.0.3_iphoneos-arm64.deb
+Size: 151780
+MD5sum: a5446ff8865bd8d6357321953a9c48f9
+SHA1: 558f0537307246477668a63d2f01cfe51191587c
+SHA256: f3d795cb756b375bf242d141cac4440ed921be42245878f83bcace7f6ff6e7c5
+Section: 屎上雕花
+Description: 原生岛通知，从简即可。仅仅支持iOS16.0+
+Author: sunshinesong
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/native-island-notifier.png
+Name: native-island-notifier
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/native-island-notifier.json
 
 Package: com.sunshinesong.split-view-pro
 Version: 0.0.3-1-47+debug
@@ -3027,6 +3153,25 @@ Depiction: https://chariz.com/buy/appaze3
 Icon: https://img.chariz.cloud/icon/appaze3/icon@3x.png
 Name: Appaze 3
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appaze3.json
+
+Package: stbz.com.p2kdev.autofillfix
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/验证码填充0.1_iphoneos-arm64.deb
+Size: 3164
+MD5sum: b0bf45106253170aa927fd214138b0d1
+SHA1: 9e2343faf8f9bcd695129ddf6bb1684f01ace2de
+SHA256: 160d9054910dd39632f04e93dca9418d625c51f554875f3ae982714ea8151934
+Section: 你的iPhone不止于此
+Description: 修复某些应用越狱后无法自动填充验证码的问题
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.autofillfix
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/autofillfix.png
+Name: AutoFillFix（验证码）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/autofillfix.json
 
 Package: stbz.com.teslaman3092.popoutbuttons
 Version: 1.0.0
