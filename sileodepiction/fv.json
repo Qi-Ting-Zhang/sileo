@@ -68,6 +68,14 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6-6\n- 1、新增点击浮窗外关闭主浮窗功能。\n- 2、修复键盘显示一系列问题"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6-5\n- 新增将前台应用放置在侧边"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.6-4\n- 修改了关闭浮窗的某些逻辑"
                 },
                 {
