@@ -68,6 +68,10 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.6-8\n- 新增任务栏浮窗应用快照开关"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.6-7\n- 修复打开阴影小窗关闭外置键盘会闪的情况（必须打开外置键盘同时收起开关）\n- 修复打开阴影小窗，关闭内置键盘关闭不了小窗的情况"
                 },
                 {
