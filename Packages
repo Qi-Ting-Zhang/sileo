@@ -2077,6 +2077,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/appcard/icon.png
 Name: App Lecard（小窗）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/appcard.json
 
+Package: com.nx.stheno
+Version: 13.14
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
+Filename: debs/com.nx.stheno_13.14_iphoneos-arm64.deb
+Size: 221896
+MD5sum: 60580082cc00161a0d45acdf673518f8
+SHA1: bf197247015d49787bca5247a96562fa8a425980
+SHA256: 0e06d9421f7b5aeceb83cd8f3cc3bac38f58157347c88d8b61ed6395f5878297
+Section: 分屏＆小窗
+Description: 小窗插件作者重构版，更丝滑，but系破解版💔
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
+Name: Stheno（小窗）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
+
 Package: com.qtbz.lbxx
 Version: 0.1
 Architecture: iphoneos-arm64
