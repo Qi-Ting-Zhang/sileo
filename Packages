@@ -2095,6 +2095,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
 Name: Stheno（小窗）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
 
+Package: com.nx.stheno
+Version: 77.1.4.7
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1928
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: debs/com.nx.stheno_77.1.4.7_iphoneos-arm64 (1).deb
+Size: 221700
+MD5sum: 6e804a9fdac3f1905f20c50c75f0a21b
+SHA1: 4acb783bed77961356217e43f4e8dbd3479eb8fe
+SHA256: e00230a37d18f1a5527e60b00ad38dabe323f8efaa9a6b2ed276661b8f72199d
+Section: 分屏＆小窗
+Description: 小窗插件作者重构版，更丝滑，but系破解版💔
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
+Name: Stheno（小窗）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
+
 Package: com.qtbz.lbxx
 Version: 0.1
 Architecture: iphoneos-arm64
