@@ -2147,6 +2147,42 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/lbxx.png
 Name: 蜡笔小新
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/lbxx.json
 
+Package: com.qtz.wcdhl
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: qtz
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.qtz.wcdhl_0.0.1_iphoneos-arm.deb
+Size: 40868
+MD5sum: 3b4bb34230795b43067e2defe15775ff
+SHA1: a108ea9343160d0bcd6532162ddca8dd11f07a50
+SHA256: f1fcbc03c49c69220ce601a294261770527b57eee7866d31fd4ece3ebfb5103f
+Section: 微信插件
+Description: 顶栏添加背景，双击导航栏激活设置
+Author: qtz
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: WCDHL
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wcdhl.json
+
+Package: com.qtz.wcdhl
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: qtz
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.qtz.wcdhl_0.0.1_iphoneos-arm64.deb
+Size: 40928
+MD5sum: e17c241712f34730c3c242a759cd8d97
+SHA1: 1456a1bee5467a4d7391eb2abe6d62ead1be5f1b
+SHA256: 3043ea8e27b7a9d2f860b410094316b2f506971bddaa5623f7aac143d23aa1d3
+Section: 微信插件
+Description: 顶栏添加背景，双击导航栏激活设置
+Author: qtz
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: WCDHL
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wcdhl.json
+
 Package: com.rexinxuegao.WCElite
 Version: 1.2.6
 Architecture: iphoneos-arm64
