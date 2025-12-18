@@ -68,6 +68,10 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.7\n- 修复0S17.0设备安全模式问题\n- 新增加了悬浮图标仅橫屏隐藏选项"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.6-9\n- 1、新增侧边小窗与刘海方向安全距离设置。\n- 2、新增arc按钮背景颜色自定义设置。\n- 3、新增浮窗角落点击生效场景设置。"
                 },
                 {
