@@ -68,6 +68,10 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.7-1\n- 新增关闭弹性效果开关"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.7\n- 修复0S17.0设备安全模式问题\n- 新增加了悬浮图标仅橫屏隐藏选项"
                 },
                 {
