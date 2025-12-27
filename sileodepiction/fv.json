@@ -68,6 +68,10 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.8\n- 支持应用各类场景跳转采用浮窗打开（url跳转，支付跳转等）\n- 史诗级更新"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.7-1\n- 新增关闭弹性效果开关"
                 },
                 {
