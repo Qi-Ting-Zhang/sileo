@@ -68,6 +68,10 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.8-2\n- 新增釆用浮窗跳转排除应用选项\n- 又更新？某6继续犬吠？"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.8-1\n- 修复来电话出现的跳转小窗问题\n- 某傻逼2插件修复bug再加¥888？等n年？"
                 },
                 {
