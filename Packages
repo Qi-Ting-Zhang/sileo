@@ -164,6 +164,23 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/filza.png
 Name: FilzaDirProbe
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/filza.json
 
+Package: com.0xkuj.filzadirprobe
+Version: 1.7.3
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: debs/com.0xkuj.filzadirprobe_1.7.3_iphoneos-arm64.deb
+Size: 35488
+MD5sum: cf8ad269ab9fd23c1cd2e53a3cbd6eca
+SHA1: 32f4b0acc052f6674d1ae04c429e15f745984b91
+SHA256: 985eed99b2433ba488c30afdae7efd459c704e3c94679ec580ab7266d72bab61
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/filza.png
+Name: FilzaDirProbe
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/filza.json
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-6
 Architecture: iphoneos-arm64
@@ -1106,6 +1123,24 @@ Size: 645508
 MD5sum: 62c75a66c474370e9296a24252fae301
 SHA1: d0e5e65e228850940884185bac77652d02dfce04
 SHA256: 42c604a9d5ec5aa358732f8fb42321384fe98ffb1e1b5166bfd6a736b68e0752
+Section: 分屏＆小窗
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
+Name: floatingView
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
+
+Package: com.be-huge.floating-view
+Version: 1.5.8-5
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3360
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/fv1.5.8-5_iphoneos-arm64.deb
+Size: 654964
+MD5sum: 35b060a01c13fb2af34dfacd60f1f6af
+SHA1: c3d321fe8c4a7ee60eb99839c0501bca73b007ae
+SHA256: 75410728048504f4bf8d9a96232daa77fb9c48282ee2e3a7cf12e06b0e5dae54
 Section: 分屏＆小窗
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
