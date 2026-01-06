@@ -68,6 +68,10 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.5.8-5\n- 新增侧边小窗手势事件"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.5.8-2\n- 新增釆用浮窗跳转排除应用选项\n- 又更新？某6继续犬吠？"
                 },
                 {
