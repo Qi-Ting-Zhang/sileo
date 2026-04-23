@@ -68,6 +68,10 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.6.0-1\n- 新增固定刘海方向显示隐藏浮窗"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.6.0\n- 修复vpn配置错误导致偶发性安全模式问题"
                 },
                 {
