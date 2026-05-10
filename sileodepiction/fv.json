@@ -68,6 +68,10 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.6.0-3\n- 修复通过通知打开浮窗时，横幅通知无法关闭问题（非遗文化传承[阴险]）"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.6.0-2\n- 1、优化通知唤起浮窗逻辑，减少内存占用。\n- 2、移除外部插件直接调用直达通知，提高稳定性"
                 },
                 {
