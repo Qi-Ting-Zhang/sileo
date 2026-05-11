@@ -1310,6 +1310,24 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
 Name: floatingView
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
 
+Package: com.be-huge.floating-view
+Version: 1.6.0-6
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3404
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/fv_1.6.0-6_iphoneos-arm64.deb
+Size: 669712
+MD5sum: f8da7bd308756b7a3695f9734795a177
+SHA1: 93c54bd0767614babb29e2cb3b853d901f10604b
+SHA256: ea71e0db1d35997ee23915858f706a177d649401dc5f675e801557bf7927bb09
+Section: 分屏＆小窗
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
+Name: floatingView
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
