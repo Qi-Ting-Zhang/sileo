@@ -68,6 +68,10 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
+                    "markdown": "### 1.6.0-6\n- 修复控制中心假关闭wifi时，arc重新开启wifi失效问题"
+                },
+                {
+                    "class": "DepictionMarkdownView",
                     "markdown": "### 1.6.0-5\n- 修复禁用应用universelink选项引发浮窗与前台应用打开异常问题"
                 },
                 {
