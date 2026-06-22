@@ -1906,6 +1906,60 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dbys.png
 Name: 顶部元素
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dbys.json
 
+Package: com.iosdump.jumpselect
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.jumpselect_1.0.0_iphoneos-arm64e.deb
+Size: 59964
+MD5sum: edfe0fca0c410b6783442ab4407be4db
+SHA1: 52caec97c1a20c0e1067370841299740a0b59ff2
+SHA256: 7824a617146c40dd1458b93920e289bd69de7ebbcc447924a96c7a713b430524
+Section: 你的iPhone不止于此
+Description: 神级插件，为多开应用提供支付跳转及登录跳转选项。支持 iOS 14-17所有越狱 App跳转拦截重定向选择器。插件用处：例如付款时使用微信支付可选多开微信或登录跳转这种也可
+Author: iosdump
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/js.png
+Name: JumpSelect
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/js.json
+
+Package: com.iosdump.jumpselect
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.jumpselect_1.0.0_iphoneos-arm64.deb
+Size: 61048
+MD5sum: f84e90bed3d037f317038cd42a6c31fd
+SHA1: ca30eb48bdde440e2f193552ba96bf1b3d61072d
+SHA256: bc0bdbf1fc1f6b89502c572a1e52b00acaee6f892f024df141d9db05c67c99cf
+Section: 你的iPhone不止于此
+Description: 神级插件，为多开应用提供支付跳转及登录跳转选项。支持 iOS 14-17所有越狱 App跳转拦截重定向选择器。插件用处：例如付款时使用微信支付可选多开微信或登录跳转这种也可
+Author: iosdump
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/js.png
+Name: JumpSelect
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/js.json
+
+Package: com.iosdump.jumpselect
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: iosdump
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.jumpselect_1.0.0_iphoneos-arm.deb
+Size: 61012
+MD5sum: eb7f5898a83dfeceedf8ad3f87129781
+SHA1: 616aec3cb731aff727921d9f5b5751df07553816
+SHA256: 7f015b417179a1cdde1436a8696e68d03a2d36e47211b6684d033babb3e3efef
+Section: 你的iPhone不止于此
+Description: 神级插件，为多开应用提供支付跳转及登录跳转选项。支持 iOS 14-17所有越狱 App跳转拦截重定向选择器。插件用处：例如付款时使用微信支付可选多开微信或登录跳转这种也可
+Author: iosdump
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/js.png
+Name: JumpSelect
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/js.json
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -2454,24 +2508,6 @@ Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/lbxx.json
 
 Package: com.qtz.wcdhl
 Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: qtz
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/com.qtz.wcdhl_0.0.1_iphoneos-arm.deb
-Size: 40868
-MD5sum: 3b4bb34230795b43067e2defe15775ff
-SHA1: a108ea9343160d0bcd6532162ddca8dd11f07a50
-SHA256: f1fcbc03c49c69220ce601a294261770527b57eee7866d31fd4ece3ebfb5103f
-Section: 微信插件
-Description: 顶栏添加背景，双击导航栏激活设置
-Author: qtz
-Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
-Name: WCDHL
-Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wcdhl.json
-
-Package: com.qtz.wcdhl
-Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: qtz
 Installed-Size: 204
@@ -2481,6 +2517,24 @@ Size: 40928
 MD5sum: e17c241712f34730c3c242a759cd8d97
 SHA1: 1456a1bee5467a4d7391eb2abe6d62ead1be5f1b
 SHA256: 3043ea8e27b7a9d2f860b410094316b2f506971bddaa5623f7aac143d23aa1d3
+Section: 微信插件
+Description: 顶栏添加背景，双击导航栏激活设置
+Author: qtz
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
+Name: WCDHL
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wcdhl.json
+
+Package: com.qtz.wcdhl
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: qtz
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.qtz.wcdhl_0.0.1_iphoneos-arm.deb
+Size: 40868
+MD5sum: 3b4bb34230795b43067e2defe15775ff
+SHA1: a108ea9343160d0bcd6532162ddca8dd11f07a50
+SHA256: f1fcbc03c49c69220ce601a294261770527b57eee7866d31fd4ece3ebfb5103f
 Section: 微信插件
 Description: 顶栏添加背景，双击导航栏激活设置
 Author: qtz
