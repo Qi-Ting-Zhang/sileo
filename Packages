@@ -2287,6 +2287,22 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/banner.png
 Name: 锁屏播放器，超绝自定义
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/spbfq.json
 
+Package: com.minis.patcher-zh
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: Jan
+Installed-Size: 1240
+Depends: com.roothide.patcher
+Filename: debs/com.minis.patcher-zh_1.1.3_iphoneos-arm64e.deb
+Size: 167556
+MD5sum: f58dc2329a6dc9c0f64558c822fc20c5
+SHA1: 02712d6aa5aed53061d7c2fd04a361d0668144cd
+SHA256: c0c9aed97405dfc9316346b4648089eed27d8f2dad12f178f1189ea7d4d0753b
+Section: Utilities
+Description: RootHide Patcher 完整汉化。
+Author: Jan
+Name: RootHide Patcher 汉化
+
 Package: com.misakaproject.frendacc.stbz
 Version: 1.0.1
 Architecture: iphoneos-arm64

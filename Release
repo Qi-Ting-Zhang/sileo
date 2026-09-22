@@ -7,6 +7,6 @@ Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 自用插件分享，有问题请卸载！！！
 MD5Sum:
- 082da899593148ccee125c79d14e24aa 147174 Packages
- 8b98c7bca80b35a68f8aac0d2a4b53ae 32154 Packages.bz2
- 666349e780c0234952b70f7dbcf58cae 39014 Packages.gz
+ af7ada10ce658e4bbfe2aafefa2cac02 147660 Packages
+ ee19432e4d3a7d475b86b202468c2f0c 32364 Packages.bz2
+ 59536c1720baa16ee6507c322c3b6a5c 39202 Packages.gz
