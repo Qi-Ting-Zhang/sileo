@@ -68,7 +68,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.6.0-6\n- 修复控制中心假关闭wifi时，arc重新开启wifi失效问题"
+                    "markdown": "### 1.6.0-6\n- 修复控制中心假关闭wifi时，arc重新开启wifi失效问题\n- 移除设备验证。这次真免费了"
                 },
                 {
                     "class": "DepictionMarkdownView",
