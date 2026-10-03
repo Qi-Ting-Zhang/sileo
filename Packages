@@ -1506,6 +1506,43 @@ Author: BVN
 Icon: https://huayuarc.github.io/icon/wuzeililiang.jpg
 Name: 乌贼本地离线授权
 
+Package: com.bvn.dynamicstagefix17
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: BVN Repo
+Installed-Size: 336
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 17.0)
+Filename: debs/com.bvn.dynamicstagefix17_1.0.0_iphoneos-arm64e.deb
+Size: 9256
+MD5sum: 5a8b0c3f09eb012524d94640f5b6d093
+SHA1: 8343489c9a64730a4b62c9db465767e8bf539774
+SHA256: f0310e83b474aeb82f24145cb19cf9c139907512dd2320ab45fff4cd0418c314
+Section: 分屏＆小窗
+Description: 修复Dynamic Stage 在ios17不起作用
+Author: BVN Repo
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dy17.png
+Name: Dynamic Stage ios17补丁
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dy17.json
+
+Package: com.bvn.dynamicstagefix17
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: BVN Repo
+Installed-Size: 336
+Depends: mobilesubstrate, firmware (>= 17.0)
+Filename: debs/com.bvn.dynamicstagefix17_1.0.0_iphoneos-arm64.deb
+Size: 7908
+MD5sum: cd4d5f9ab2340b4eb1ec53b06f032f65
+SHA1: f708884bca227c0670a8f52db40b1ab4372ebac0
+SHA256: 31da892df9cdf7050f7bf33c7f968461d0ad81eb614d1af0903147200d8bca4d
+Section: 分屏＆小窗
+Description: 修复Dynamic Stage在ios17不起作用
+Author: BVN Repo
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/dy17.png
+Name: Dynamic Stage ios17补丁
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dy17.json
+
 Package: com.charlieleung.liquidify88
 Version: 1.3.7-4+dao88.1
 Architecture: iphoneos-arm64
