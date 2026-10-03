@@ -2701,6 +2701,30 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wxzq.png
 Name: 微信优化
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxyh.json
 
+Package: com.sensetechlab.duodash
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: SenseTechLab Co., Ltd <sensetechlabshark@gmail.com>
+Installed-Size: 2996
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000) | ellekit, firmware (>= 14.0), preferenceloader
+Conflicts: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hook, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.carnav.hud.carplaydashboard, com.carnav.hud.appbridge, com.sensetechlab.carsleeper, com.sensetechlab.carplaytweak, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs, com.sensetechlab.duodash.appbridge
+Replaces: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hook, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.carnav.hud.carplaydashboard, com.carnav.hud.appbridge, com.sensetechlab.carsleeper, com.sensetechlab.carplaytweak, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs, com.sensetechlab.duodash.appbridge
+Provides: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs
+Filename: debs/com.sensetechlab.duodash_1.1.3_iphoneos-arm64e.deb
+Size: 952256
+MD5sum: 7ec98b564b17ca3f672b3ccb5c3f2f57
+SHA1: 966e2ac76b53d69bb269ca05268dd5572949445f
+SHA256: 895e2e3b019288f79f5c83eafdfdd4748253c7aa6f3f09f420800cd2f93f60af
+Section: 你的iPhone不止于此
+Description: CarPlay屏幕上并排的两个应用程序将没有CarPlay支持的应用程序作为实时交互式场景在汽车屏幕上运行——两个并排的应用程序可以按任何比例拖动。在“设置”>“DuoDash”中进行配置。
+Tag: cydia::commercial, compatible_min::ios14.0
+Author: SenseTechLab Co., Ltd <sensetechlabshark@gmail.com>
+Depiction: https://chariz.com/buy/duodash
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/duodash.png
+Name: DuoDash
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/duodash.json
+
 Package: com.shtm.flexibleexpression
 Version: 0.0.1
 Architecture: iphoneos-arm64
