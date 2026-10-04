@@ -16,7 +16,7 @@
                     "class": "DepictionButtonView"
                 },
                 {
-                    "text": "点击购买授权（¥100）",
+                    "text": "点击购买授权（最新版已免费）",
                     "action": "https://qr.alipay.com/tsx16073sp9uagherfgnn4b",
                     "openExternal": 1,
                     "tintColor": "#3774F6",
