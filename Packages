@@ -2510,6 +2510,44 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/sphk.png
 Name: 水平滑块
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/sphk.json
 
+Package: com.nx.accode
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 204
+Depends: firmware (>= 16.1) | org.swift.libswift (>= 5.0)
+Filename: debs/激活码com.nx.accode_1.0_iphoneos-arm64.deb
+Size: 19476
+MD5sum: 718e7e78ec58fe32dc70f50c3e505211
+SHA1: a9a1472734391724b5a268324441cbd5b84fe16d
+SHA256: a36354ce96e1e0a6b78c17584915ab4f10cbc5db2c55ad40bfb3ecceae4d0324
+Section: 分屏＆小窗
+Description: 安装后使用NewTerm等终端工具输入stheno空格udid回车，等待生成16位激活码复制用于激活stheno（小窗）
+Tag: role::hacker
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/s.png
+Name: stheno（激活码）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
+
+Package: com.nx.accode
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 204
+Depends: firmware (>= 16.1) | org.swift.libswift (>= 5.0)
+Filename: debs/激活码com.nx.accode_1.0_iphoneos-arm64e.deb
+Size: 19488
+MD5sum: d40c802ffcf6112871f61932c1683d37
+SHA1: 56e1740ee204298f1bccf73a4cd237f88581000a
+SHA256: 1701b597b33d5031ea07cbc00183256c9b32b74b0a29d6904491e7c3b3da625c
+Section: 分屏＆小窗
+Description: 安装后使用NewTerm等终端工具输入stheno空格udid回车，等待生成16位激活码复制用于激活stheno（小窗）
+Tag: role::hacker
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/s.png
+Name: stheno（激活码）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
+
 Package: com.nx.appcardlite
 Version: 2.2.6
 Architecture: iphoneos-arm64
@@ -2603,16 +2641,16 @@ Maintainer: Crassna
 Installed-Size: 1912
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.0)
 Filename: debs/com.nx.stheno_13.14_iphoneos-arm64.deb
-Size: 221896
-MD5sum: 60580082cc00161a0d45acdf673518f8
-SHA1: bf197247015d49787bca5247a96562fa8a425980
-SHA256: 0e06d9421f7b5aeceb83cd8f3cc3bac38f58157347c88d8b61ed6395f5878297
+Size: 221416
+MD5sum: a773e2d1bfb3a52e87c979da7b9e42fb
+SHA1: 03a4ba87b5ea4077c93f97bbd936a4bd396df695
+SHA256: 08c9896457aca62f4f00a3823d57e663cb9b878bc7e60736fd8d5a211b2aeb76
 Section: 分屏＆小窗
-Description: 小窗插件作者重构版，更丝滑，but系破解版💔
+Description: 小窗插件作者重构版，更丝滑，but系破解版💔 此版为旧版，可用于16系统激活新版（本源同名插件为新版）
 Author: Crassna
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
 Name: Stheno（小窗）
-Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno旧.json
 
 Package: com.nx.stheno
 Version: 77.1.4.7
@@ -2620,17 +2658,17 @@ Architecture: iphoneos-arm64
 Maintainer: Crassna
 Installed-Size: 1928
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
-Filename: debs/com.nx.stheno_77.1.4.7_iphoneos-arm64 (1).deb
-Size: 221700
-MD5sum: 6e804a9fdac3f1905f20c50c75f0a21b
-SHA1: 4acb783bed77961356217e43f4e8dbd3479eb8fe
-SHA256: e00230a37d18f1a5527e60b00ad38dabe323f8efaa9a6b2ed276661b8f72199d
+Filename: debs/com.nx.stheno_77.1.4.7_iphoneos-arm64.deb
+Size: 221720
+MD5sum: 7d17dfe2fd17966087c7a7ae1aa10472
+SHA1: 79e0fc03a3668049b59b0e63773ac2789938d0cc
+SHA256: c95b339c8ea603b112c959eee1cbd45c423cf81247af42e80343e140cb61fca8
 Section: 分屏＆小窗
-Description: 小窗插件作者重构版，更丝滑，but系破解版💔
+Description: 小窗插件作者重构版，更丝滑，but系破解版💔 此版为旧版，可辅助16系统激活新版（本源同名插件为新版）
 Author: Crassna
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
 Name: Stheno（小窗）
-Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno旧.json
 
 Package: com.qtbz.lbxx
 Version: 0.1
@@ -3801,6 +3839,84 @@ Author: Netskao
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wechat.png
 Name: 微信净化-Rootless
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxjh.json
+
+Package: qtz.com.nx.stheno
+Version: 0
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 2788
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: debs/qtz.com.nx.stheno_0_iphoneos-arm64.deb
+Size: 530312
+MD5sum: 85acef9b603f540c76c0f26aaec6f766
+SHA1: 319b4c6d1fb90dbc4c5af3126f36c1bc36c301b9
+SHA256: a35e1e3fd950275718a11204951d14ea715ff29272451e486f8a512d9241b60e
+Section: 分屏＆小窗
+Description: stheno（小窗）新版，由网友qq408132基于原作者最终版维护更新，持续打磨，更强更丝
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
+Name: Stheno（小窗）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
+
+Package: qtz.com.nx.stheno
+Version: 0
+Architecture: iphoneos-arm64e
+Maintainer: Crassna
+Installed-Size: 2788
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: debs/qtz.com.nx.stheno_0_iphoneos-arm64e.deb
+Size: 528564
+MD5sum: 0bfc8ba43d7460e4f5a021939bf03bfe
+SHA1: 4be5d6f4f1af9c0877f6f12ebddde9d1b2ba8b6b
+SHA256: befaaf92666ea8b5b0696dce76269d3e3f628d8cebd0bdb55c277c116d746e85
+Section: 分屏＆小窗
+Description: stheno（小窗）新版，由网友qq408132基于原作者最终版维护更新，持续打磨，更强更丝滑
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
+Name: Stheno（小窗）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
+
+Package: qtz.com.nx.stheno
+Version: 0.1.12-3~backgroundreuse1+memoryopt1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 2956
+Depends: dev.theos.orion (>= 1.0.0), mobilesubstrate, firmware (>= 16.0), firmware (<= 17.3.1)
+Conflicts: com.h.sthenokb, com.nx.stheno.fix
+Replaces: com.h.sthenokb, com.nx.stheno.fix
+Provides: com.h.sthenokb (= 1.1.2-59), com.nx.stheno.fix (= 0.1.12-3~defaultscache1)
+Filename: debs/灵动通知点击版qtz.com.nx.stheno_0.1.12-3~backgroundreuse1+memoryopt1_iphoneos-arm64.deb
+Size: 541956
+MD5sum: 2b7d291905b155a4db37d048f313e81b
+SHA1: 3200cb4aad41190e344e14846c6f31a8eba6d699
+SHA256: 95dbe317fd3a17f3053cc3dc8939a9bad64c21a71fa0179775bb846ed829f47b
+Section: 分屏＆小窗
+Description: stheno（小窗）新版，适配16.0-17.3.1。由网友qq408132基于原作者最终版维护更新，持续打磨，更强更丝滑
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
+Name: Stheno（小窗）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
+
+Package: qtz.com.nx.stheno
+Version: 0.1.23-1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 2988
+Depends: dev.theos.orion (>= 1.0.0), mobilesubstrate, firmware (>= 16.0)
+Conflicts: com.h.sthenokb, com.nx.stheno.splitlastownerprobe, com.nx.stheno.splitcycleownerprobe, com.nx.stheno.renderresourceprobe, com.nx.stheno.surfaceownerprobe, com.nx.stheno.splittransitionownerprobe, com.nx.stheno.splitcontextunbindfix, com.nx.stheno.fix.bannerpull80fix1, com.nx.stheno.fix.nativereplycompetition1, com.nx.stheno.fix.nativereplydisable1, com.nx.stheno.fix
+Replaces: com.h.sthenokb, com.nx.stheno.fix.bannerpull80fix1, com.nx.stheno.fix.nativereplycompetition1, com.nx.stheno.fix.nativereplydisable1, com.nx.stheno.fix
+Provides: com.h.sthenokb (= 1.1.2-59), com.nx.stheno.fix (= 0.1.23-1~defaultscache1)
+Filename: debs/原生通知下拉分屏版qtz.com.nx.stheno_0.1.23-1_iphoneos-arm64.deb
+Size: 550648
+MD5sum: b150cbb4b4772ef785d6538c36e47796
+SHA1: abcde2c1ccb1016a35297ca28bff48c3e163d368
+SHA256: b9a5d50dd22527d0cebd25b5d7940b45f27892b9a8b43d53f108c7f4b731cde3
+Section: 分屏＆小窗
+Description: stheno（小窗）新版，适配16.0-17.3.1。由网友qq408132基于原作者最终版维护更新，持续打磨，更强更丝滑
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
+Name: Stheno（小窗）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
 
 Package: stbz.com.anthopak.appaze3
 Version: 1.0
