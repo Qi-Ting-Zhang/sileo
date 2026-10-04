@@ -1,0 +1,24 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/tongyong.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 使用教程\n\n工作的时候称植物 [请看vcr](https://qi-ting-zhang.github.io/sileo/vcr/MooreBarX15.mp4)\n\n- 测试"
+                },
+                {
+                    "title": "我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action": "https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class": "DepictionTableButtonView"
+                }
+            ]
+        }
+    ]
+}
