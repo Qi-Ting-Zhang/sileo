@@ -9,6 +9,12 @@
             "tabname": "插件描述",
             "views": [
                 {
+                    "title": "点击加入交流群",
+                    "action": "https://qm.qq.com/q/zKig0aeGZy",
+                    "openExternal": 1,
+                    "class": "DepictionTableButtonView"
+                },
+                {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 激活教程\n\n- 16系统 [请看vcr](https://qi-ting-zhang.github.io/sileo/vcr/16stheno.png)\n\n- 17系统 [请看vcr](https://qi-ting-zhang.github.io/sileo/vcr/17stheno.png)\n\n### 使用教程\n\n- 工作的时候称职务 [请看vcr](https://qi-ting-zhang.github.io/sileo/vcr/stheno.mp4)\n\n- 还没录有时间了再录"
                 },
@@ -17,6 +23,24 @@
                     "action": "https://qi-ting-zhang.github.io/sileo/images/ewm.png",
                     "openExternal": 1,
                     "class": "DepictionTableButtonView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.1.23-1\n- 原生通知下拉分屏版"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0.1.12-3~backgroundreusel+memoryopt1\n- 灵动通知点击版"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 0\n- 2025.16终结版V0🌬️🫧"
                 }
             ]
         }
