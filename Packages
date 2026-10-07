@@ -3673,6 +3673,26 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2Pro
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/che.json
 
+Package: jp.dcsyhi.airaw
+Version: 1.7.1
+Architecture: iphoneos-arm64e
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 12029
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), com.opa334.ccsupport
+Filename: debs/jp.dcsyhi.airaw_1.7.1_iphoneos-arm64e.deb
+Size: 16940212
+MD5sum: 4a91128aacf336e09f7b8bff8e13f1ac
+SHA1: 876a86f7b3b9f8b8202749f5f0f62404e6d095d3
+SHA256: e3f72b5b80cbcf0224401ae2fe8bb75992c67249562ed891b58d25d2fd34f408
+Section: 你的iPhone不止于此
+Description: CarPlay自定义.
+Tag: cydia::commercial, compatible_min::ios14.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: https://chariz.com/buy/airaw
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/airaw.png
+Name: Airaw
+
 Package: jp.dcsyhi.carcast
 Version: 1.2
 Architecture: iphoneos-arm64e
