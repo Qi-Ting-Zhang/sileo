@@ -3673,6 +3673,27 @@ Icon: http://cdn.share.lzsxcl.cc/Tweak/o2Pro.jpg
 Name: o2Pro
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/che.json
 
+Package: jp.dcsyhi.carcast
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 2359
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>=17.0), jp.dcsyhi.airaw (>=1.7.0)
+Conflicts: com.leftyfl1p.carbridge13
+Filename: debs/jp.dcsyhi.carcast_1.2_iphoneos-arm64e.deb
+Size: 1515888
+MD5sum: 24afadaed3f84a6a9e93766835889e9f
+SHA1: 4f1159783d90a6b0c98d444584cbc92469023d46
+SHA256: dde65626b978d138aa8bebaffd014dac5ddc90f6cc3de61e3283cd532be7bc01
+Section: 你的iPhone不止于此
+Description: 17系统carplay应用桥接
+Tag: cydia::commercial, compatible_min::ios17.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: https://chariz.com/buy/carcast
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/carcast.png
+Name: CarCast
+
 Package: jp.dcsyhi.zetsu
 Version: 1.5
 Architecture: iphoneos-arm64

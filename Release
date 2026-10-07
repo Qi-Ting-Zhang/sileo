@@ -1,5 +1,5 @@
 Origin: 你看，又急
-Label: 你看，又急
+Label: 贾队长
 Suite: stable
 Version: 1.0
 Codename: qtz
@@ -7,6 +7,6 @@ Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 自用插件分享，有问题请卸载！！！
 MD5Sum:
- 38f8063ff35ae36113804325721d54f8 159630 Packages
- d929f1360b43ba56a4b0227524acebcf 34882 Packages.bz2
- 1a03994495b4ca5316853a7a7a5ab7ab 42400 Packages.gz
+ d9180e1522f81ae3406548f8e0cda5ef 160444 Packages
+ e65e515978e1aaa39229c5997762e103 35026 Packages.bz2
+ 93090c91b326211b76513dbd0db0a675 42652 Packages.gz
