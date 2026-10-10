@@ -2739,30 +2739,6 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/wxzq.png
 Name: 微信优化
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxyh.json
 
-Package: com.sensetechlab.duodash
-Version: 1.1.3
-Architecture: iphoneos-arm64e
-Maintainer: SenseTechLab Co., Ltd <sensetechlabshark@gmail.com>
-Installed-Size: 2996
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000) | ellekit, firmware (>= 14.0), preferenceloader
-Conflicts: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hook, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.carnav.hud.carplaydashboard, com.carnav.hud.appbridge, com.sensetechlab.carsleeper, com.sensetechlab.carplaytweak, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs, com.sensetechlab.duodash.appbridge
-Replaces: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hook, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.carnav.hud.carplaydashboard, com.carnav.hud.appbridge, com.sensetechlab.carsleeper, com.sensetechlab.carplaytweak, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs, com.sensetechlab.duodash.appbridge
-Provides: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs
-Filename: debs/com.sensetechlab.duodash_1.1.3_iphoneos-arm64e.deb
-Size: 952256
-MD5sum: 7ec98b564b17ca3f672b3ccb5c3f2f57
-SHA1: 966e2ac76b53d69bb269ca05268dd5572949445f
-SHA256: 895e2e3b019288f79f5c83eafdfdd4748253c7aa6f3f09f420800cd2f93f60af
-Section: 你的iPhone不止于此
-Description: CarPlay屏幕上并排的两个应用程序将没有CarPlay支持的应用程序作为实时交互式场景在汽车屏幕上运行——两个并排的应用程序可以按任何比例拖动。在“设置”>“DuoDash”中进行配置。
-Tag: cydia::commercial, compatible_min::ios14.0
-Author: SenseTechLab Co., Ltd <sensetechlabshark@gmail.com>
-Depiction: https://chariz.com/buy/duodash
-Icon: https://qi-ting-zhang.github.io/sileo/images/icon/duodash.png
-Name: DuoDash
-Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/duodash.json
-
 Package: com.shtm.flexibleexpression
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -3693,6 +3669,46 @@ Depiction: https://chariz.com/buy/airaw
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/airaw.png
 Name: Airaw
 
+Package: jp.dcsyhi.airaw.splitnative
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 442
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>=16.0), jp.dcsyhi.airaw (>=1.7.0)
+Filename: debs/jp.dcsyhi.airaw.splitnative_1.0_iphoneos-arm64e.deb
+Size: 29160
+MD5sum: 72affe69d175de306a7ec1efc159c09b
+SHA1: 768e518738464e366ea4602ebe9960f84a2c2e2e
+SHA256: 365615c42649dcb7b88d0cbd4eb6a3b80775cd804348a1e0b9f04e72f1f3cf44
+Section: 你的iPhone不止于此
+Description: Split View for native CarPlay apps (Maps, Music, …). Requires Airaw and iOS 16+. Settings open from Airaw only.
+Tag: cydia::commercial, compatible_min::ios16.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: https://chariz.com/buy/airaw-native
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/airaw.png
+Name: Airaw Split View Native
+
+Package: jp.dcsyhi.airaw.splitstandard
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>=16.0), jp.dcsyhi.airaw (>=1.7.0)
+Filename: debs/jp.dcsyhi.airaw.splitstandard_1.0_iphoneos-arm64e.deb
+Size: 21916
+MD5sum: 18320f1621a8e22883a5ca2694495ecc
+SHA1: 3f2a82c5f8de04f199d33780a92c835777fb48ba
+SHA256: 78b7c9e1289999d8210e3722e1a0315c2341861380d6034631c8221c7ac24052
+Section: 你的iPhone不止于此
+Description: Split View for non-native CarPlay apps (CarCast / CarBridge). Requires Airaw and iOS 16+. Settings open from Airaw only.
+Tag: cydia::commercial, compatible_min::ios16.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Depiction: https://chariz.com/buy/airaw-standard
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/airaw.png
+Name: Airaw Split View Standard
+
 Package: jp.dcsyhi.carcast
 Version: 1.2
 Architecture: iphoneos-arm64e
@@ -3958,6 +3974,30 @@ Author: Crassna
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
 Name: Stheno（小窗）
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
+
+Package: qtz.com.sensetechlab.duodash
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: SenseTechLab Co., Ltd <sensetechlabshark@gmail.com>
+Installed-Size: 2996
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000) | ellekit, firmware (>= 14.0), preferenceloader
+Conflicts: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hook, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.carnav.hud.carplaydashboard, com.carnav.hud.appbridge, com.sensetechlab.carsleeper, com.sensetechlab.carplaytweak, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs, com.sensetechlab.duodash.appbridge
+Replaces: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hook, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.carnav.hud.carplaydashboard, com.carnav.hud.appbridge, com.sensetechlab.carsleeper, com.sensetechlab.carplaytweak, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs, com.sensetechlab.duodash.appbridge
+Provides: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs
+Filename: debs/qtz.com.sensetechlab.duodash_1.1.3_iphoneos-arm64e.deb
+Size: 952700
+MD5sum: 0be8b23954e2e5e24b9d5620aa676056
+SHA1: 4e645a00cc534e169d009963987af131e942ed0e
+SHA256: 362edd245d922577f9f64801ecaa8882290443392db7370052f53e7bd3aed0f4
+Section: 你的iPhone不止于此
+Description: CarPlay屏幕上并排的两个应用程序将没有CarPlay支持的应用程序作为实时交互式场景在汽车屏幕上运行——两个并排的应用程序可以按任何比例拖动。在“设置”>“DuoDash”中进行配置。
+Tag: cydia::commercial, compatible_min::ios14.0
+Author: SenseTechLab Co., Ltd <sensetechlabshark@gmail.com>
+Depiction: https://chariz.com/buy/duodash
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/duodash.png
+Name: DuoDash
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/duodash.json
 
 Package: stbz.com.anthopak.appaze3
 Version: 1.0
