@@ -26,7 +26,7 @@ if [ ! -f "$PARENT_DIR/Release" ]; then
   # Create Release file if it does not exist
   cat <<EOF > "$PARENT_DIR/Release"
 Origin: 你看，又急
-Label: 贾队长
+Label: 你看，又急
 Suite: stable
 Version: 1.0
 Codename: qtz
