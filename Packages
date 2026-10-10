@@ -3986,15 +3986,14 @@ Conflicts: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hook, 
 Replaces: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hook, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.carnav.hud.carplaydashboard, com.carnav.hud.appbridge, com.sensetechlab.carsleeper, com.sensetechlab.carplaytweak, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs, com.sensetechlab.duodash.appbridge
 Provides: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs
 Filename: debs/qtz.com.sensetechlab.duodash_1.1.3_iphoneos-arm64e.deb
-Size: 952700
-MD5sum: 0be8b23954e2e5e24b9d5620aa676056
-SHA1: 4e645a00cc534e169d009963987af131e942ed0e
-SHA256: 362edd245d922577f9f64801ecaa8882290443392db7370052f53e7bd3aed0f4
+Size: 950824
+MD5sum: 58a1e0c81c112c74a5b98c3ba603c033
+SHA1: ac87b2f4e951b280ee357457215a96ba5e7aadb7
+SHA256: 6d9eee9e8f7e9d8deef817d514aa0fcacc2ad2ef04e3a9843ba73b91d24d56a2
 Section: 你的iPhone不止于此
 Description: CarPlay屏幕上并排的两个应用程序将没有CarPlay支持的应用程序作为实时交互式场景在汽车屏幕上运行——两个并排的应用程序可以按任何比例拖动。在“设置”>“DuoDash”中进行配置。
 Tag: cydia::commercial, compatible_min::ios14.0
 Author: SenseTechLab Co., Ltd <sensetechlabshark@gmail.com>
-Depiction: https://chariz.com/buy/duodash
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/duodash.png
 Name: DuoDash
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/duodash.json
