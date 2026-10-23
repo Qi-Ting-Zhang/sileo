@@ -2686,6 +2686,43 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/lbxx.png
 Name: 蜡笔小新
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/lbxx.json
 
+Package: com.qtz.volumepage
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: 祁厅长
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: debs/com.qtz.volumepage_0.0.1_iphoneos-arm64.deb
+Size: 26488
+MD5sum: 0903045dd8eee361445daa750ab91094
+SHA1: f89da5ce6c7168af06682ed125dba0fc60baf5f8
+SHA256: 54f33443b6e5a1243184f0a02a80b09cf8d86525290514784b891f2ae6cfcd5e
+Section: 你的iPhone不止于此
+Description: 在图书 App 中用音量键上下翻页，无设置项默认生效
+Author: 祁厅长
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/ylfy.png
+Name: 音量翻页
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/ylfy.json
+
+Package: com.qtz.volumepage
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 祁厅长
+Installed-Size: 376
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.qtz.volumepage_0.0.1_iphoneos-arm64e.deb
+Size: 27772
+MD5sum: 47df24d01a5ee941cb91664e5c8e79ef
+SHA1: c8fbee60baf97b6b55a17517d73d99fdec25e7de
+SHA256: 097c7458667379083f4761da1ef705b6ad24f9ace29ff103b6dc7967a787d07f
+Section: 你的iPhone不止于此
+Description: 在图书 App 中用音量键上下翻页，无设置项默认生效
+Author: 祁厅长
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/ylfy.png
+Name: 音量翻页
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/ylfy.json
+
 Package: com.qtz.wcdhl
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -3978,7 +4015,7 @@ Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
 Package: qtz.com.sensetechlab.duodash
 Version: 1.1.3
 Architecture: iphoneos-arm64e
-Maintainer: SenseTechLab Co., Ltd <sensetechlabshark@gmail.com>
+Maintainer: SenseTechLab Co., Ltd
 Installed-Size: 2996
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000) | ellekit, firmware (>= 14.0), preferenceloader
@@ -3986,14 +4023,14 @@ Conflicts: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hook, 
 Replaces: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hook, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.carnav.hud.carplaydashboard, com.carnav.hud.appbridge, com.sensetechlab.carsleeper, com.sensetechlab.carplaytweak, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs, com.sensetechlab.duodash.appbridge
 Provides: com.carnav.hud, com.carnav.core, com.carnav.bridge, com.carnav.hud.prefs, com.carnav.prefs.refresh, com.sensetechlab.core, com.sensetechlab.bridge, com.sensetechlab.prefs.refresh, com.sensetechlab.duodash.prefs
 Filename: debs/qtz.com.sensetechlab.duodash_1.1.3_iphoneos-arm64e.deb
-Size: 950824
-MD5sum: 58a1e0c81c112c74a5b98c3ba603c033
-SHA1: ac87b2f4e951b280ee357457215a96ba5e7aadb7
-SHA256: 6d9eee9e8f7e9d8deef817d514aa0fcacc2ad2ef04e3a9843ba73b91d24d56a2
+Size: 951952
+MD5sum: 88d06dc41d768f047d77ba5192fb612f
+SHA1: 69ee4884b949a47219a7c2c03f3a1ac2a32573f3
+SHA256: b73d3a453839193d917e22e0c9aef7442456757b6adf01b3c3062f1ffcbc1c40
 Section: 你的iPhone不止于此
 Description: CarPlay屏幕上并排的两个应用程序将没有CarPlay支持的应用程序作为实时交互式场景在汽车屏幕上运行——两个并排的应用程序可以按任何比例拖动。在“设置”>“DuoDash”中进行配置。
 Tag: cydia::commercial, compatible_min::ios14.0
-Author: SenseTechLab Co., Ltd <sensetechlabshark@gmail.com>
+Author: SenseTechLab Co., Ltd
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/duodash.png
 Name: DuoDash
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/duodash.json
