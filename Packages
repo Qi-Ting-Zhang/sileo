@@ -1312,6 +1312,24 @@ Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
 
 Package: com.be-huge.floating-view
 Version: 1.6.0-6
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 3360
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/fv_1.6.0-6_iphoneos-arm64公开版.deb
+Size: 660984
+MD5sum: d193664a21cfab03a286d92408eeaa6f
+SHA1: 5b8d01876f455fae98a8b5ef5721a1297cad612b
+SHA256: 2621ac3694ca7ae9fb06416918a254b20e836d32a952eb890df83d0b34e82188
+Section: 分屏＆小窗
+Description: 分屏，不必太复杂，一切从简即可。
+Author: be-huge
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
+Name: floatingView
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
+
+Package: com.be-huge.floating-view
+Version: 1.6.0-6
 Architecture: iphoneos-arm64e
 Maintainer: be-huge
 Installed-Size: 3360
@@ -1322,24 +1340,6 @@ Size: 665064
 MD5sum: 9c80ba7984224f7939d595224f33f109
 SHA1: d47cb55dc1fdd8d1926d112d830e9e4670bcf520
 SHA256: 1851aa2c905c8ccdb2b61cc93ea4c6619b73250911722daddfe2828f114ca3a6
-Section: 分屏＆小窗
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Icon: https://qi-ting-zhang.github.io/sileo/images/icon/fv.png
-Name: floatingView
-Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/fv.json
-
-Package: com.be-huge.floating-view
-Version: 1.6.0-6
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 3360
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: debs/fv_1.6.0-6_iphoneos-arm64公开版.deb
-Size: 660984
-MD5sum: d193664a21cfab03a286d92408eeaa6f
-SHA1: 5b8d01876f455fae98a8b5ef5721a1297cad612b
-SHA256: 2621ac3694ca7ae9fb06416918a254b20e836d32a952eb890df83d0b34e82188
 Section: 分屏＆小窗
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
@@ -1999,24 +1999,6 @@ Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/dbys.json
 
 Package: com.iosdump.jumpselect
 Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: iosdump
-Installed-Size: 476
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.iosdump.jumpselect_1.0.0_iphoneos-arm64.deb
-Size: 61048
-MD5sum: f84e90bed3d037f317038cd42a6c31fd
-SHA1: ca30eb48bdde440e2f193552ba96bf1b3d61072d
-SHA256: bc0bdbf1fc1f6b89502c572a1e52b00acaee6f892f024df141d9db05c67c99cf
-Section: 你的iPhone不止于此
-Description: 神级插件，为多开应用提供支付跳转及登录跳转选项。支持 iOS 14-17所有越狱 App跳转拦截重定向选择器。插件用处：例如付款时使用微信支付可选多开微信或登录跳转这种也可
-Author: iosdump
-Icon: https://qi-ting-zhang.github.io/sileo/images/icon/js.png
-Name: JumpSelect
-Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/js.json
-
-Package: com.iosdump.jumpselect
-Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: iosdump
 Installed-Size: 476
@@ -2044,6 +2026,24 @@ Size: 61012
 MD5sum: eb7f5898a83dfeceedf8ad3f87129781
 SHA1: 616aec3cb731aff727921d9f5b5751df07553816
 SHA256: 7f015b417179a1cdde1436a8696e68d03a2d36e47211b6684d033babb3e3efef
+Section: 你的iPhone不止于此
+Description: 神级插件，为多开应用提供支付跳转及登录跳转选项。支持 iOS 14-17所有越狱 App跳转拦截重定向选择器。插件用处：例如付款时使用微信支付可选多开微信或登录跳转这种也可
+Author: iosdump
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/js.png
+Name: JumpSelect
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/js.json
+
+Package: com.iosdump.jumpselect
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.iosdump.jumpselect_1.0.0_iphoneos-arm64.deb
+Size: 61048
+MD5sum: f84e90bed3d037f317038cd42a6c31fd
+SHA1: ca30eb48bdde440e2f193552ba96bf1b3d61072d
+SHA256: bc0bdbf1fc1f6b89502c572a1e52b00acaee6f892f024df141d9db05c67c99cf
 Section: 你的iPhone不止于此
 Description: 神级插件，为多开应用提供支付跳转及登录跳转选项。支持 iOS 14-17所有越狱 App跳转拦截重定向选择器。插件用处：例如付款时使用微信支付可选多开微信或登录跳转这种也可
 Author: iosdump
@@ -3879,6 +3879,41 @@ Author: r_plus
 Icon: file:///Library/PreferenceBundles/MenuSupportSettings.bundle/MenuSupport@3x.png
 Name: MenuSupport
 
+Package: local.amap.twotabs
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 祁厅长
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/local.amap.twotabs_1.0_iphoneos-arm64e.deb
+Size: 154912
+MD5sum: 597ba7c794e8b02f0360274dc7217948
+SHA1: d90710e71105bd266a243a61338cf306fd4c288a
+SHA256: 8b2d60ecf19a364e6e422d4af8186a823d6ac25066c8b8802a1c6bb936ee16e7
+Section: 你的iPhone不止于此
+Description: 人民的高德，不忘初心砥砺前行
+Author: 祁厅长
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/rmdgd.png
+Name: 人民的高德
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/rmdgd.json
+
+Package: local.amap.twotabs
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 祁厅长
+Depends: mobilesubstrate
+Filename: debs/local.amap.twotabs_1.0_iphoneos-arm64.deb
+Size: 131096
+MD5sum: 89235736bc9eef41f7cb940d598ddb28
+SHA1: cdef4aa4770a08a31125186d7e3cdb72fcff72e7
+SHA256: 0da3921477b6671f49bddd59c9ff6431b92a3634a91f7c66307fe297ea380931
+Section: 你的iPhone不止于此
+Description: 人民的高德，不忘初心砥砺前行
+Author: 祁厅长
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/rmdgd.png
+Name: 人民的高德
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/rmdgd.json
+
 Package: love.litten.rose
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -3936,24 +3971,6 @@ Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/wxjh.json
 
 Package: qtz.com.nx.stheno
 Version: 0
-Architecture: iphoneos-arm64
-Maintainer: Crassna
-Installed-Size: 2788
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
-Filename: debs/qtz.com.nx.stheno_0_iphoneos-arm64.deb
-Size: 530312
-MD5sum: 85acef9b603f540c76c0f26aaec6f766
-SHA1: 319b4c6d1fb90dbc4c5af3126f36c1bc36c301b9
-SHA256: a35e1e3fd950275718a11204951d14ea715ff29272451e486f8a512d9241b60e
-Section: 分屏＆小窗
-Description: stheno（小窗）新版，由网友qq408132基于原作者最终版维护更新，持续打磨，更强更丝
-Author: Crassna
-Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
-Name: Stheno（小窗）
-Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
-
-Package: qtz.com.nx.stheno
-Version: 0
 Architecture: iphoneos-arm64e
 Maintainer: Crassna
 Installed-Size: 2788
@@ -3965,6 +3982,24 @@ SHA1: 4be5d6f4f1af9c0877f6f12ebddde9d1b2ba8b6b
 SHA256: befaaf92666ea8b5b0696dce76269d3e3f628d8cebd0bdb55c277c116d746e85
 Section: 分屏＆小窗
 Description: stheno（小窗）新版，由网友qq408132基于原作者最终版维护更新，持续打磨，更强更丝滑
+Author: Crassna
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
+Name: Stheno（小窗）
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/stheno.json
+
+Package: qtz.com.nx.stheno
+Version: 0
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 2788
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: debs/qtz.com.nx.stheno_0_iphoneos-arm64.deb
+Size: 530312
+MD5sum: 85acef9b603f540c76c0f26aaec6f766
+SHA1: 319b4c6d1fb90dbc4c5af3126f36c1bc36c301b9
+SHA256: a35e1e3fd950275718a11204951d14ea715ff29272451e486f8a512d9241b60e
+Section: 分屏＆小窗
+Description: stheno（小窗）新版，由网友qq408132基于原作者最终版维护更新，持续打磨，更强更丝
 Author: Crassna
 Icon: https://qi-ting-zhang.github.io/sileo/images/icon/stheno.png
 Name: Stheno（小窗）
