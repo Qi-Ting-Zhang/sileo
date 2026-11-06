@@ -1,0 +1,55 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://qi-ting-zhang.github.io/sileo/images/rmdgd/0.png",
+    "tintColor": "#1DBBFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件描述",
+            "views": [
+                {
+                    "text":"点击加入作者群",
+                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },     
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 人民的高德\n- 净化高德地图烦人的弹窗卡片视图\n- 保留一些bug，以便后续更新"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/rmdgd/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://qi-ting-zhang.github.io/sileo/images/rmdgd/2.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.0\n- 初始发布"
+                },
+                {
+                    "title": "我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
+                    "action": "https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "openExternal": 1,
+                    "class": "DepictionTableButtonView"
+                }
+            ]
+        }
+    ]
+}
