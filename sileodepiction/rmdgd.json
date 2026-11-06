@@ -16,7 +16,7 @@
                 },     
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 人民的高德\n- 净化高德地图烦人的弹窗卡片视图\n- 保留一些bug，以便后续更新"
+                    "markdown": "### 人民的高德\n- 净化高德地图烦人的弹窗卡片视图\n- 长按首页激活"
                 },
                 {
                     "class": "DepictionScreenshotsView",
@@ -41,7 +41,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 1.0\n- 初始发布"
+                    "markdown": "### 1.0\n- 初始发布\n- 保留一些bug，以便后续更新"
                 },
                 {
                     "title": "我太想进步了²⁰²⁵｜祁厅长۹ᵗᶻ",
