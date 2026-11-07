@@ -3914,6 +3914,41 @@ Icon: https://qi-ting-zhang.github.io/sileo/images/icon/rmdgd.png
 Name: 人民的高德
 Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/rmdgd.json
 
+Package: local.amap.twotabs
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 祁厅长
+Depends: mobilesubstrate
+Filename: debs/local.amap.twotabs_1.1_iphoneos-arm64.deb
+Size: 145664
+MD5sum: 9a24e14bbb91552e8b5dba98b591f766
+SHA1: b6d0c561b2359a0e5809dc5fde7ad79638765233
+SHA256: 15a5227e37787b50a45f35c3b8f154260aebf8091cddc8df74a2110e8806cf57
+Section: 你的iPhone不止于此
+Description: 人民的高德，不忘初心砥砺前行
+Author: 祁厅长
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/rmdgd.png
+Name: 人民的高德
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/rmdgd.json
+
+Package: local.amap.twotabs
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: 祁厅长
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/local.amap.twotabs_1.1_iphoneos-arm64e.deb
+Size: 173566
+MD5sum: f31a402f799393ec54378fd156d5e2d6
+SHA1: 2044f05f4e3fe585ccfa77fa691d0d50478c39fb
+SHA256: abc9beb010df7b49f88a7001597354fb796014e498dace303ddde746ffc27ba6
+Section: 你的iPhone不止于此
+Description: 人民的高德，不忘初心砥砺前行
+Author: 祁厅长
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/rmdgd.png
+Name: 人民的高德
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/rmdgd.json
+
 Package: love.litten.rose
 Version: 1.1.0
 Architecture: iphoneos-arm64
