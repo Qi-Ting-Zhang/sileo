@@ -9,11 +9,11 @@
             "tabname": "插件描述",
             "views": [
                 {
-                    "text":"点击加入作者群",
-                    "action":"https://qi-ting-zhang.github.io/sileo/images/ewm.png",
+                    "text": "点击加入作者群",
+                    "action": "https://qi-ting-zhang.github.io/sileo/images/ewm.png",
                     "openExternal": 1,
-                    "class":"DepictionButtonView"
-                },     
+                    "class": "DepictionButtonView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 人民的高德\n- 净化高德地图烦人的弹窗卡片视图\n- 长按首页激活"
@@ -39,6 +39,10 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 1.1\n- 新增 去开屏与顶部横幅广告合并开关\n- 修复“我的”页面隐藏项在切换页面后可能失效的问题\n- 优化「仅保留搜索框」的冷启动应用\n- 修复底栏皮肤被隐藏的问题"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 1.0\n- 初始发布\n- 保留一些bug，以便后续更新"
